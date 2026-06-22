@@ -12,7 +12,12 @@
 - **The old hills (north & west)** — windswept, sparsely held Falcon highlands where the clan was young. Somewhere here lies the **reputed tomb of the First Yotogi**, the founder — and, by Hatsue's visions, the lost **First Ward**. *(Details to be discovered.)*
 
 ## Relics / quests
-- **The First Ward** — a sealing-relic the First Yotogi made "to bar what blades cannot touch"; lost generations ago. Hatsue knows only its name and a direction (the old hills / the founder's tomb). Akihiko is charged to find it, wake it, and use it against the deep-Shinomen power.
+- **The First Ward = *Asahi no Kagami,* the Dawn Mirror** — a bronze disc rimmed in jade, blessed by Amaterasu at the Empire's dawn; lies in the First Yotogi's barrow. **It is no weapon.** With it the First Yotogi *bound* (not killed) the deep power in chains of captured sunlight. **Waking it:** answers only to Lady Sun's true fire (Akihiko's Sacred sun-fire) kindled at it under an **open dawn**, and only to a willing soul ready to take up the binding **as a lasting duty** — to become the chain's new anchor (as the keeper / the First One were). *(Revealed by the Keeper, Scene 5.)*
+- **The deep power (revealed by the Keeper):** older than the Empire, older than the Kami; a nameless thing of the deep cold earth that **cannot die and was never alive.** Its one fear is **the sun.** It can only be **bound**, never slain — trying to kill it *feeds* it. It has gnawed the First Yotogi's binding thin for 1200 years; now it harvests souls to pull the chains loose from within.
+- **Akihiko's Mark = danger AND key (revealed by the Keeper):** the power's hook in him is mortal peril (it is how it took the Keeper) — *and* a tether: "to bind a thing you must first have hold of it." The First Yotogi bore such a mark *willingly* to chain the dark. Akihiko's wound may be the **leash** by which he drags the power to the Mirror's face.
+
+## Named NPCs (continued)
+- **The Keeper of the Barrow** — the bound grave-fire spirit of an ancient Falcon (a watchman set by the First Yotogi), who guarded the Dawn Mirror for 1200 years. Lucid, noble, dying — the deep power's rot ("grey") is consuming it, and when it guts out it will **turn** into the dark's creature. **Bargain struck (Sc.5):** it taught Akihiko all it knew of the Mirror, the enemy, and the mark; in return Akihiko swore to **end it cleanly with Lady Sun's fire before the rot turns it,** and to take up the Dawn Mirror and its duty. *(The mercy-kill collides head-on with his Softheartedness.)*
 
 ## Factions & clans in play (name — agenda — disposition to the PC)
 - **Falcon Clan (Toritaka)** — ward the marches against the spirit-dark; survive as a dismissed Minor Clan — *Akihiko's clan; home.*
