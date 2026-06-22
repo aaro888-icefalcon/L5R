@@ -4,10 +4,10 @@
 - **Clan / Family / School:** Falcon · Toritaka · **Moshi Sun Sentinel** [Bushi, Shugenja]
   *(out-of-clan school — Falcon-born, trained at the Light of the Lady Sun Dōjō through his Moshi father; canon-supported: the Moshi keep a permanent place for Falcon at the shrine)*
 - **Concept / role:** Warrior-priest of Amaterasu — **"Warden of the Physical"**: battlefield medic & security
-- **Titles / advancement:** none yet · **School Rank 1** (Moshi Sun Sentinel; 0/20 XP toward Rank 2) · **XP available: 9** (Session 1) — *advancement pending*
+- **Titles / advancement:** none yet · **School Rank 1** (Moshi Sun Sentinel; ~6/20 XP toward Rank 2) · **XP available: 0** *(Session 1: spent 9 — Air 1→2, learned Striking as Fire)*
 
 ## Rings (the approach to each check)
-- Air **1**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**
+- Air **2**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**  *(Air 1→2 bought, Sc.1 advancement)*
 - **Void points:** 2 / 2
 
 ## Skills (rank) — by group
@@ -20,7 +20,7 @@
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 0
 - **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife > composure*
-- **Focus** 4 · **Vigilance** 2
+- **Focus** 5 · **Vigilance** 2
 
 ## Social standing
 - **Honor** 55 · **Glory** 35 · **Status** 36
@@ -32,6 +32,7 @@
 ## Techniques known
 - **Invocations:** Armor of Radiance · Biting Steel · Extinguish · Katana of Fire
 - **Rituals:** Cleansing Rite · Commune with the Spirits
+- **Kata:** Striking as Fire *(Sc.1 advancement)* — on a Fire melee Attack, spend [opportunity] to increase the severity of the target's next critical strike (+1 per [opportunity], until end of your next turn).
 - **School ability — Blazing Tears of Lady Sun:** Fire-invocation damage gains *Sacred* (items he augments/summons with Fire are *Sacred*). Against a **non-Tainted human**, his Fire invocations deal no damage/conditions — instead the target **removes fatigue** equal to school rank + the damage it would have dealt (once per character per scene). *His fire heals the worthy and burns the wicked.*
 
 ## Advantages

@@ -62,7 +62,7 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 ## Current scene — Scene 5: *The Broken Wards* → **CLOSED**; the Dawn Mirror claimed
 - **Where / when:** the firelit vale outside the First Yotogi's barrow, night.
 - **Last beat:** Akihiko kept the bargain (the mercy-kill of the Keeper, **Toritaka Genkō**, against his Softheartedness; Genkō passed whole), then entered the tomb and lifted **Asahi no Kagami.** It woke to his blood — **confirming his Imperial (Amaterasu) lineage beyond doubt** — and the binding-duty settled onto him, willingly taken. He emerged with the Mirror; Jōji is asking what happened.
-- **Akihiko's state:** strife 4/8, fatigue 0, Void 2/2; Marked (contained); **bears the Dawn Mirror & its duty;** Honor 55 / Glory 35 / Status 36.
+- **Akihiko's state:** strife **0** (session-end rest), fatigue 0, Void 2/2; Marked (contained); **bears the Dawn Mirror & its duty.** Honor 55 / Glory 35 / Status 36. **Advanced (Sc.1, 9 XP): Air 1→2 → Focus 5; learned Striking as Fire.** XP 0.
 - **On the table now:** what to tell Jōji; the long road back to wield the Mirror (cure the mark, free Hibari Mura's souls, bind the deep power) — and a week+ of Scorpion/harvest movement waiting. **Strong arc-capstone / session-break point. XP/advancement un-awarded — offer a tally & recap.**
 - **Self-audit drift counter (consecutive soft scenes):** 0
 

@@ -55,14 +55,14 @@
 ---
 
 ## ▶ Mechanical state at session end
-- **Rings:** Air 1 · Earth 2 · Fire 3 · Water 2 · Void 2 — **Endurance 10 · Composure 8 · Focus 4 · Vigilance 2**
+- **Rings:** Air 2 · Earth 2 · Fire 3 · Water 2 · Void 2 — **Endurance 10 · Composure 8 · Focus 5 · Vigilance 2** *(Air raised in advancement)*
 - **Honor 55 · Glory 35 · Status 36** · **Void 2/2** · **Strife 0** (rested) · Fatigue 0
 - **Skills:** Theology 2 · Medicine 2 · Martial Arts [Melee] 1 · Courtesy 1 · Survival 1 · Meditation 1 · Tactics 1 · Sentiment 1
-- **Techniques:** *Invocations* Armor of Radiance, Biting Steel, Extinguish, Katana of Fire · *Rituals* Cleansing Rite, Commune with the Spirits · *School ability* **Blazing Tears of Lady Sun**
+- **Techniques:** *Invocations* Armor of Radiance, Biting Steel, Extinguish, Katana of Fire · *Rituals* Cleansing Rite, Commune with the Spirits · *Kata* **Striking as Fire** *(new)* · *School ability* **Blazing Tears of Lady Sun**
 - **Advantages:** Sixth Sense · Stories · Blessed Lineage — **Disadvantages:** Scorn of the Scorpion · Softheartedness · Fear of Failure (custom) · **Marked by the Deep (contained)**
 - **Gear:** daishō (ray-etched scabbard) · bō · sanctified robes · scroll satchel · traveling pack · religious texts · jade field-medicine kit · 3 koku · **★ Asahi no Kagami (the Dawn Mirror)**
-- **School:** Moshi Sun Sentinel, **Rank 1** (curriculum progress: 0/20 XP toward Rank 2)
-- **XP this session: 9** — *see Advancement below*
+- **School:** Moshi Sun Sentinel, **Rank 1** (curriculum progress: ~6/20 XP toward Rank 2)
+- **XP this session: 9 — all spent** (see Advancement below). XP available: 0.
 - **Chaos Factor: 6**
 
 ## ▶ Open threads & clocks (live list in `campaign-state.md`)
@@ -80,4 +80,5 @@
 
 ## ▶ Advancement (9 XP) — *to be finalized*
 _Costs (Table 2–2): Skill +1 = 2×new rank · Ring +1 = 3×new value (cap = lowest ring + Void = currently 3; Fire maxed) · Technique = 3 XP. Curriculum advances give full credit toward School Rank 2 (need 20)._
-- **[ ] Chosen package:** _(pending player choice — recorded next)_
+- **Spent (9 XP):** **Air 1→2** (6 XP — Focus 4→5; raises the ring "floor," unlocking future Earth/Water/Void→3) + **Striking as Fire** kata (3 XP, curriculum). **XP remaining: 0.** School progress ~6/20 toward Rank 2.
+- *Next session's likely advancement targets:* Theology 2→3 (6, supercharges the Mirror), Martial Arts [Melee] 1→2 (4), Meditation 1→2 (4), or a new Fire invocation / Fires of Purity (3).
