@@ -22,8 +22,8 @@ active_set:
 - **Discipline:** HARDCORE (no softening; Peril Points OFF unless the player opts in)
 - **System profile:** `system-profile.md`   ·   **Setting canon:** `setting-canon.md`
 
-## Chaos Factor: 7
-_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 4: the deep-Shinomen power reached through a portal and MARKED Akihiko — apex-negative, out of his control → +1.)_
+## Chaos Factor: 6
+_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 5: Akihiko drove a hard scene with control — parley, the chosen mercy, the claiming → −1.)_
 
 ## Threads (open goals/vows; weighted)
 1. **The First Ward = the Dawn Mirror (PRIMARY QUEST)** *(w3)* — *Asahi no Kagami,* in the First Yotogi's barrow (reached, Sc.5). **Not a weapon — it BINDS** the deep power in captured sunlight. **Wake it:** Akihiko's Sacred sun-fire, at an **open dawn**, by a willing soul who takes up the binding **as a lasting duty** (the chain's new anchor). Claim it from the barrow once the Keeper is at rest.
@@ -33,7 +33,7 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 5. **The leak / the Scorpion close in** *(w2)* — Gennai (Scorpion spymaster) got limited word out (*a Falcon Warden rides the hills secretly*) and **escaped**; his porter was left bound on the hill. Expect them to probe.
 6. **Ninjō — To truly belong** *(w2)* — Hatsue named the wound; this charge is his chance to matter.
 7. **Lord Hatsue's fraying mind** *(w1)* — spending her sight on the threat.
-8. **The secret Imperial blood** *(w1)* — Hatsue hinted "more to you than your modesty admits."
+8. **The Imperial blood — CONFIRMED** *(w2)* — the Dawn Mirror (Amaterasu-blessed) recognized Akihiko as **kin to the line of Lady Sun** — bone-truth, no longer rumor. *How* a Falcon Minor-Clan warden carries the Emperor's blood is now the live mystery (and a thing others would kill or use him for).
 
 ## Characters & Factions (NPC/force — want — disposition; weighted; PC NOT listed)
 - **Gennai** *(w2)* — Scorpion spymaster posing as a medicine-peddler; charming, sharp, **escaped into the hills** with his swordsman — wants the Falcon's secret; **hostile, now exposed**
@@ -59,11 +59,11 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 ## Adventure Crafter state (crafter mode only)
 - n/a
 
-## Current scene — Scene 5: *The Broken Wards* → the mercy kept; the barrow open
-- **Where / when:** the First Yotogi's barrow at dusk; the Keeper released; the way in open.
-- **Last beat:** Akihiko **kept the bargain** — raised Lady Sun's fire and ended the kneeling Keeper cleanly, against every instinct in him. The rot was burned away; the Keeper (**Toritaka Genkō**, the First Yotogi's own yōjimbō) passed *whole* to Yomi, naming itself to Akihiko as a parting gift and making him its heir. An honorable, agonizing act — a defining wound.
-- **Akihiko's state:** **strife 4/8** (Softheartedness), fatigue 0, **Void 2/2** (restored by the soul-deep act); Marked (contained); Honor whole (55) / Glory 35 / Status 36.
-- **On the table now:** enter the barrow and claim **Asahi no Kagami, the Dawn Mirror** — and with it the binding-duty; then the long road back to wield it. A week of Scorpion/harvest movement waits in the world. XP un-awarded (offer a tally at the next break).
+## Current scene — Scene 5: *The Broken Wards* → **CLOSED**; the Dawn Mirror claimed
+- **Where / when:** the firelit vale outside the First Yotogi's barrow, night.
+- **Last beat:** Akihiko kept the bargain (the mercy-kill of the Keeper, **Toritaka Genkō**, against his Softheartedness; Genkō passed whole), then entered the tomb and lifted **Asahi no Kagami.** It woke to his blood — **confirming his Imperial (Amaterasu) lineage beyond doubt** — and the binding-duty settled onto him, willingly taken. He emerged with the Mirror; Jōji is asking what happened.
+- **Akihiko's state:** strife 4/8, fatigue 0, Void 2/2; Marked (contained); **bears the Dawn Mirror & its duty;** Honor 55 / Glory 35 / Status 36.
+- **On the table now:** what to tell Jōji; the long road back to wield the Mirror (cure the mark, free Hibari Mura's souls, bind the deep power) — and a week+ of Scorpion/harvest movement waiting. **Strong arc-capstone / session-break point. XP/advancement un-awarded — offer a tally & recap.**
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer
