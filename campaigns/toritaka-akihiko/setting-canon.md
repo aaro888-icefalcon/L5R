@@ -22,6 +22,7 @@
 - **Toritaka Akiro** — Akihiko's younger brother; apprentice healer-shugenja; calm, kind, devoted. Want: become a true healer and stay at his brother's side. *(Akhil — the dearest bond.)*
 - **Moshi Hizashi** — Akihiko's father; brilliant, scattered, entrepreneurial Centipede sun-priest-physician; a "radical" who treats invocations as natural philosophy (after the Agasha). Want: prove his heretical healing-methods. *(Bhaskar.)*
 - **Toritaka Sumiko** — Akihiko's mother; retired, grounded Falcon healer-warden; the family bedrock. **Secret:** through her runs the family's quiet, half-doubted claim of **Imperial blood.** *(Sudha.)*
+- **Suzu** — reed-cutter's daughter of Hibari Mura, ~16; once sang the dawn-hymn Akihiko taught. **Sole survivor** of the soul-harvest; he saved her soul at the threshold. Now stable but deeply soul-shocked, sleeping; bonded to her rescuer, and the only living witness to the village's fate. *(Q16-adjacent / new bond.)*
 - **Toritaka Yuki** — Akihiko's grandmother; Toritaka elder in a neighboring province; keeper of old family stories — and, perhaps, of the truth of the Imperial line. *(grandmother; Bergen-County kin.)*
 
 ### The Scattered Corps — healers & wardens of many clans, bound to Akihiko by a past crisis they survived together (duty keeps them far apart)
@@ -37,7 +38,8 @@
 - Akihiko, Falcon-born of a Moshi father, completed his training as a Moshi Sun Sentinel and returned to serve Lord Hatsue as Warden of the Physical.
 - The Scorpion have begun quiet maneuvers toward Toritaka lands; doors that were open to the Falcon now close.
 - Lord Hatsue's meditations grow longer and stranger.
-- *(Campaign opens here — see campaign-state.md.)*
+- **Hibari Mura, soul-emptied (Scene 1).** A gaki, *Kuchinashi the Mouthless*, made the village's sun-shrine a soul-gate and harvested its ~40 people. Akihiko & Jōji arrived too late; Akihiko sealed the gate with Sacred sun-fire, banishing the gaki but recovering only **Suzu** (the lone survivor). The rest were dragged down/north into the deep Shinomen — **taken, not destroyed.**
+- **Revealed by commune (canon now):** *No mortal opened that gate.* The power in the deep Shinomen reached across the leagues on its own, strong enough to **corrupt a consecrated shrine of Amaterasu from afar and reach through it.** The Falcon's warding shrines may no longer be safe.
 
 ## Tone & hard content lines (kept off the table)
 - Genre: samurai drama — honor, duty, desire; **real defeat** (death, dishonor, seppuku, capture, ruin).
