@@ -54,10 +54,10 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic)_
 ## Adventure Crafter state (crafter mode only)
 - n/a
 
-## Current scene
-- **Where / when:** _Scene 1 — to be framed._
-- **Last beat (2–3 sentences):** _The campaign opens here. Session Zero complete: Toritaka Akihiko created, world seeded._
-- **Stakes on the table:** _set at scene frame (pre-commit before any roll)._
+## Current scene — Scene 1: *The Silent Hamlet* → SKIRMISH (see conflict-tracker.md)
+- **Where / when:** Hibari Mura, a Falcon border hamlet at the edge of the Shinomen; dusk failing to dark.
+- **Last beat:** Returning from patrol, Akihiko & Jōji found the hamlet soul-emptied — its people's souls dragged off through a fouled shrine to Amaterasu. The girl Suzu sits hollow, mouthing the silent dawn-hymn. A gaki, **Kuchinashi the Mouthless**, made the shrine a soul-gate; commune failed and woke it. Skirmish joined. Round 1: the gaki Soul-Rent Akihiko (strife 3/8) and nearly pulled Suzu through; Jōji's steel proved useless (Insubstantial). **Akihiko to act.**
+- **Stakes on the table:** Souls — Akihiko's, Jōji's, Suzu's, and the village's. Real defeat = hollowing (fate worse than death). True win = re-consecrate the soul-gate (Sacred sun-fire / Cleansing Rite); steel only banishes the gaki's shape until it reforms. Suzu has moments before she's lost.
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer
