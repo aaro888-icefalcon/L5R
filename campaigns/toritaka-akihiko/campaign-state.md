@@ -39,7 +39,7 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 - **The Scorpion Clan** *(w2)* — seize Toritaka lands; their cell just got word the marches may be open — **hostile / closing in**
 - **The power in the deep Shinomen** *(w2)* — harvest souls / spread — malign, looming
 - **Lord Toritaka Hatsue** *(w1)* — hold the line via Akihiko — his lord & secret-sharer; fraying
-- **The captured porter** *(w1)* — a low Scorpion operative, taken alive on the hill — sullen, knows *something* (handlers, the message, the network)
+- **The captured porter** *(w1)* — **left bound on the hill "for the Kami to judge"** (alive, abandoned, just out of reach of his knife). Latent: may free himself, die, or be retrieved by Gennai — and remember the Warden who left him.
 
 ## Adventure Features (prepared-adventure mode only)
 - n/a (Pure Mythic)
@@ -58,11 +58,11 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 ## Adventure Crafter state (crafter mode only)
 - n/a
 
-## Current scene — Scene 3: *A Meeting on the Road* → the sprung trap (night, hill saddle)
-- **Where / when:** a cold saddle between two bald hills in the old highlands, dead of night; camp roused.
-- **Last beat:** A smooth "peddler," **Gennai**, joined them on the road and probed for their destination; Akihiko's thin cover ("visiting a friend") didn't fool him. Akihiko rode on and watched — and at night caught Gennai's "porter" slipping off to a hooded contact. He roused the camp and **charged on horseback** to stop the courier, but his horse stumbled on shale at the crest: **the message got passed off and away (the leak succeeded).** He rode down and **captured the porter** alive; **Gennai and the swordsman escaped** into the dark.
-- **Akihiko's state:** **strife 5/8** (pursuit + Fear of Failure), fatigue 0, Void 2/2; unharmed. Honor 55 / Glory 35 / Status 36.
-- **On the table now:** a **captured Scorpion porter** to question; Gennai loose; the leak racing to Scorpion handlers; still days from the founder's tomb; dawn hours off. Scene 1 XP not yet awarded.
+## Current scene — Scene 3 *A Meeting on the Road* → **CLOSED** (dawn); rolling into Scene 4 (the road to the tomb)
+- **Where / when:** the hill saddle at sunrise; the company readying to ride on, north & west.
+- **Last beat:** interrogation of the porter yielded nothing (he's a minnow who knew nothing); Akihiko left him bound "for the Kami to judge," kept doubled watches through a quiet night, and greeted the dawn with the Moshi hymn — washing off the night's failures.
+- **Akihiko's state:** **strife 0** (rested + dawn-rite), fatigue 0, Void 2/2; unharmed. Honor 55 / Glory 35 / Status 36.
+- **On the table now:** press on to the **founder's tomb / the First Ward**, days ahead; **Gennai** loose and knows Akihiko's face; the (limited) leak is out; the Shinomen power grows. Scene 1 XP still un-awarded.
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer
