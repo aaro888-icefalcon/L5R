@@ -22,17 +22,18 @@ active_set:
 - **Discipline:** HARDCORE (no softening; Peril Points OFF unless the player opts in)
 - **System profile:** `system-profile.md`   ·   **Setting canon:** `setting-canon.md`
 
-## Chaos Factor: 6
-_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 3 sprung a Scorpion trap, the secret leaked, the spymaster escaped → +1.)_
+## Chaos Factor: 7
+_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 4: the deep-Shinomen power reached through a portal and MARKED Akihiko — apex-negative, out of his control → +1.)_
 
 ## Threads (open goals/vows; weighted)
-1. **The First Ward (PRIMARY QUEST)** *(w3)* — recover the First Yotogi's lost sealing-relic ("the First Ward"); Hatsue's visions place it **north & west, in the old hills, near the founder's reputed tomb.** Wake it, use it to bar the Shinomen power. Charged by Hatsue **in secret.**
-2. **The leak / the Scorpion close in** *(w3)* — a Scorpion cell on the road (the "peddler" **Gennai** + crew) got word out that the Falcon Warden rides the hills on a secret errand. **Gennai escaped**; his **porter is Akihiko's prisoner.** The Scorpion now suspect the marches are troubled — expect them to move.
-3. **The power in the deep Shinomen** *(w2)* — waking, hungry, *learning*; reaches through consecrated wards unaided. (Hatsue has seen it for 2 years.)
-4. **The taken souls of Hibari Mura** *(w2)* — ~39 souls dragged into the deep Shinomen; reclaimable?
-5. **Ninjō — To truly belong** *(w2)* — Hatsue named the wound; this charge is a chance to matter (and now, a failure to swallow).
-6. **Lord Hatsue's fraying mind** *(w1)* — she is *spending* her sight on the threat; how long can she hold?
-7. **The secret Imperial blood** *(w1)* — Hatsue hinted "more to you than your modesty admits."
+1. **The First Ward (PRIMARY QUEST)** *(w3)* — recover the First Yotogi's lost sealing-relic; Hatsue's visions place it **north & west, the old hills, the founder's reputed tomb.** **VISION-CONFIRMED (Sc.4): the First Ward once BOUND this very power — it works, and is why the thing fears the sun.**
+2. **The Mark — bound to the Deep** *(w3)* — the power set a hook in Akihiko's soul (**Marked by the Deep**); it can sense/reach him across thresholds and may strike again; spirits of the deep are drawn to him. *Double-edged:* he can faintly sense the power's stirrings in return.
+3. **The power in the deep Shinomen** *(w2)* — vast, ancient (older than the Empire), beneath the forest's heart (north); reaches through wards unaided; bound once before. Now fixed on Akihiko personally.
+4. **The taken souls of Hibari Mura** *(w2)* — **VISION-CONFIRMED: gathered & woven toward some purpose, NOT destroyed** — the village's people still 'singing' among a galaxy of stolen souls. Reclaimable?
+5. **The leak / the Scorpion close in** *(w2)* — Gennai (Scorpion spymaster) got limited word out (*a Falcon Warden rides the hills secretly*) and **escaped**; his porter was left bound on the hill. Expect them to probe.
+6. **Ninjō — To truly belong** *(w2)* — Hatsue named the wound; this charge is his chance to matter.
+7. **Lord Hatsue's fraying mind** *(w1)* — spending her sight on the threat.
+8. **The secret Imperial blood** *(w1)* — Hatsue hinted "more to you than your modesty admits."
 
 ## Characters & Factions (NPC/force — want — disposition; weighted; PC NOT listed)
 - **Gennai** *(w2)* — Scorpion spymaster posing as a medicine-peddler; charming, sharp, **escaped into the hills** with his swordsman — wants the Falcon's secret; **hostile, now exposed**
@@ -58,11 +59,11 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 ## Adventure Crafter state (crafter mode only)
 - n/a
 
-## Current scene — Scene 3 *A Meeting on the Road* → **CLOSED** (dawn); rolling into Scene 4 (the road to the tomb)
-- **Where / when:** the hill saddle at sunrise; the company readying to ride on, north & west.
-- **Last beat:** interrogation of the porter yielded nothing (he's a minnow who knew nothing); Akihiko left him bound "for the Kami to judge," kept doubled watches through a quiet night, and greeted the dawn with the Moshi hymn — washing off the night's failures.
-- **Akihiko's state:** **strife 0** (rested + dawn-rite), fatigue 0, Void 2/2; unharmed. Honor 55 / Glory 35 / Status 36.
-- **On the table now:** press on to the **founder's tomb / the First Ward**, days ahead; **Gennai** loose and knows Akihiko's face; the (limited) leak is out; the Shinomen power grows. Scene 1 XP still un-awarded.
+## Current scene — Scene 4: *The Reaching Cold* (INTERRUPT) — a misty defile, days toward the tomb
+- **Where / when:** a narrow, mist-choked defile in the old hills, mid-journey; just after the portal collapsed.
+- **Last beat:** the deep-Shinomen power tore a portal across their path and reached for Akihiko *personally*. He met it with his Sacred Katana of Fire and spent a Void point — but his bolstered ward came up one short. The touch landed: he is **Marked by the Deep.** His sun-fire seared the power back, and through the two-way wound came a vision (souls gathered, NOT destroyed; the power ancient, beneath the Shinomen; the First Ward truly bound it once). The seam closed; the company is shaken.
+- **Akihiko's state:** **strife 2/8**, fatigue 0, **Void 1/2**; **Marked by the Deep** (new adversity). Honor 55 / Glory 35 / Status 36. Katana of Fire lit.
+- **On the table now:** steady the shaken company; press on (the vision validates the quest); the power now knows him and can reach again; days yet to the tomb. Scene 1 XP still un-awarded.
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer
