@@ -8,7 +8,11 @@
 - **Toritaka Province** — the Falcon Minor Clan's home, a modest, mist-veiled land on the marches near the **Shinomen Forest**, the most haunted region in the Empire. The Falcon ward it against ghosts and yūrei. The Scorpion covet these lands.
 - **Kyūden Toritaka** *(the Falcon's seat)* — Lord Hatsue's castle; quiet, austere, full of warding-charms.
 - **Mukade no Tani — the Valley of the Centipede** — home of the Moshi; site of the **Shrine of the Lady Sun** and the **Light of the Lady Sun Dōjō**, where Akihiko trained. Reached by Mantis-built cliff-pulleys; the **Port of Sun's Reflection** trades to the sea.
-- **The Shinomen Forest (edge)** — vast, ancient, haunted; kitsune, yūrei, and older things. The Falcon's eternal beat.
+- **The Shinomen Forest (edge)** — vast, ancient, haunted; kitsune, yūrei, and older things. The Falcon's eternal beat. Something old, hungry, and *learning* stirs in its deep heart (north).
+- **The old hills (north & west)** — windswept, sparsely held Falcon highlands where the clan was young. Somewhere here lies the **reputed tomb of the First Yotogi**, the founder — and, by Hatsue's visions, the lost **First Ward**. *(Details to be discovered.)*
+
+## Relics / quests
+- **The First Ward** — a sealing-relic the First Yotogi made "to bar what blades cannot touch"; lost generations ago. Hatsue knows only its name and a direction (the old hills / the founder's tomb). Akihiko is charged to find it, wake it, and use it against the deep-Shinomen power.
 
 ## Factions & clans in play (name — agenda — disposition to the PC)
 - **Falcon Clan (Toritaka)** — ward the marches against the spirit-dark; survive as a dismissed Minor Clan — *Akihiko's clan; home.*
@@ -18,7 +22,7 @@
 - **Phoenix Clan** — the Empire's self-appointed voice of the kami; regard Moshi sun-worship as crude folk-faith — *disdainful (religious snobbery).*
 
 ## Named NPCs (name — role — want — secret)
-- **Toritaka Hatsue, "the Yotogi"** — Falcon Clan Champion / daimyō; spirit-seer who has ruled ~12 years; banished hauntings in the Shinomen and once in a Lion castle. Want: hold the line against the spirit-dark. **Secret:** her mind frays from what she sees; she fears she will one day witness something too terrible to survive. *(Akihiko's lord & hard mentor.)*
+- **Toritaka Hatsue, "the Yotogi"** — Falcon Clan Champion / daimyō; spirit-seer who has ruled ~12 years; banished hauntings in the Shinomen and once in a Lion castle. Want: hold the line against the spirit-dark. **Secret (revealed to Akihiko):** her "fraying mind" is no madness — for two years she has been *spending* her sight staring into the deep Shinomen at the waking power, which is why she withdraws. She has charged Akihiko **in secret** to recover the First Ward, named his not-belonging as why she trusts him, and hinted she senses "more to you than your modesty admits" (re: his hidden blood?). *(Akihiko's lord & hard mentor; now his secret-sharer.)*
 - **Toritaka Akiro** — Akihiko's younger brother; apprentice healer-shugenja; calm, kind, devoted. Want: become a true healer and stay at his brother's side. *(Akhil — the dearest bond.)*
 - **Moshi Hizashi** — Akihiko's father; brilliant, scattered, entrepreneurial Centipede sun-priest-physician; a "radical" who treats invocations as natural philosophy (after the Agasha). Want: prove his heretical healing-methods. *(Bhaskar.)*
 - **Toritaka Sumiko** — Akihiko's mother; retired, grounded Falcon healer-warden; the family bedrock. **Secret:** through her runs the family's quiet, half-doubted claim of **Imperial blood.** *(Sudha.)*
