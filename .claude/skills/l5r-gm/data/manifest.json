@@ -1,0 +1,16 @@
+{
+  "techniques": 315,
+  "conditions": 20,
+  "adversaries": 206,
+  "index_headings": 3884,
+  "sources": [
+    "celestial-realms",
+    "core",
+    "courts-of-stone",
+    "emerald-empire",
+    "fields-of-victory",
+    "path-of-waves",
+    "shadowlands",
+    "writ-of-wilds"
+  ]
+}

@@ -1,0 +1,182 @@
+[
+{
+"id": "cond.afflicted",
+"name": "Afflicted",
+"type": "condition",
+"source": "core",
+"description": "The character is possessed or otherwise tormented by an _onryō_ (vengeful ghost), kansen, or other malevolent spiritual entity. Given time, this evil force threatens to plant the seeds of the Shadowlands Taint.",
+"effects": "An Afflicted character’s vigilance counts as 1. When they make a check, after **Step 5: Choose Kept Dice**, the GM may alter one kept [ring die] to a [opportunity] [strife] result. Additionally, when an Afflicted character becomes Compromised, one of the following effects occurs based on the ring the character last used for a check (or a ring of the GM’s choice, if nobody can remember or there is uncertainty). - **Air:** The character falls into a melancholic haze of memory, unable to discern the past from the present or the living from the deceased. When the character becomes Compromised, they mistake someone in the scene for a person from their past, accusing them of some half-remembered sin or taunting them over some ancient failure until the end of the scene. - **Water:** The character’s health collapses and they begin to wither away, wracked by mysterious coughing fits or fevers that resist all medical care. When the character becomes Compromised, they become violently ill and suffer a critical strike with a severity of 5. - **Fire:** The character becomes possessed by a desire, pursuing it to their own destruction. When the character becomes Compromised, they also become Enraged (see page 272). - **Earth:** The character’s flesh becomes pale and begins to show signs of decay. When the character becomes Compromised, reduce their endurance by 1 until the Afflicted condition is removed. This effect is cumulative, and if their endurance reaches 0, the character perishes. - **Void:** Ill fortune follows the character’s every move, and anything that seems a boon rapidly sours. When the character becomes Compromised, they lose all of their Void points.",
+"text": "**Description:** The character is possessed or otherwise\n\ntormented by an _onryō_ (vengeful ghost), kansen, or other malevolent spiritual entity. Given time, this evil force threatens to plant the seeds of the Shadowlands Taint.\n\n**Effects:** An Afflicted character’s vigilance counts as 1.\n\nWhen they make a check, after **Step 5: Choose Kept Dice**, the GM may alter one kept [ring die] to a [opportunity] [strife] result.\n\nAdditionally, when an Afflicted character becomes Compromised, one of the following effects occurs based on the ring the character last used for a check (or a ring of the GM’s choice, if nobody can remember or there is uncertainty).\n\n- **Air:** The character falls into a melancholic haze of memory, unable to discern the past from the present or the living from the deceased. When the character becomes Compromised, they mistake someone in the scene for a person from their past, accusing them of some half-remembered sin or taunting them over some ancient failure until the end of the scene.\n- **Water:** The character’s health collapses and they begin to wither away, wracked by mysterious coughing fits or fevers that resist all medical care. When the character becomes Compromised, they become violently ill and suffer a critical strike with a severity of 5.\n- **Fire:** The character becomes possessed by a desire, pursuing it to their own destruction. When the character becomes Compromised, they also become Enraged (see page 272).\n- **Earth:** The character’s flesh becomes pale and begins to show signs of decay. When the character becomes Compromised, reduce their endurance by 1 until the Afflicted condition is removed. This effect is cumulative, and if their endurance reaches 0, the character perishes.\n- **Void:** Ill fortune follows the character’s every move, and anything that seems a boon rapidly sours. When the character becomes Compromised, they lose all of their Void points.\n\n**Removed When:** Rituals such as Cleansing Rite\n\n(see page 212) and other abilities can remove the Afflicted condition.\n\nEvery two weeks, an Afflicted character must make a **TN 4 Fitness** or **Meditation check** using any ring. If they fail, remove the Afflicted condition and assign the Shadowlands Taint disadvantage to the ring they use for the check (or to another ring, if that ring already has it)."
+},
+{
+"id": "cond.bleeding",
+"name": "Bleeding",
+"type": "condition",
+"source": "core",
+"description": "The character is losing blood, internally or externally.",
+"effects": "When a Bleeding character makes a check, they suffer physical damage equal to the [strife] symbols on their kept dice, ignoring their resistances. Each time damage inflicted this way causes the character to suffer a critical strike, the severity of the critical strike is treated as being equal to the character’s current fatigue.",
+"text": "**Description:** The character is losing blood, internally  \nor externally.  \n**Effects:** When a Bleeding character makes a check,\n\nthey suffer physical damage equal to the [strife] symbols on their kept dice, ignoring their resistances. Each time damage inflicted this way causes the character to suffer a critical strike, the severity of the critical strike is treated as being equal to the character’s current fatigue.\n\n**Removed When:** Any character at range 0–1 of\n\na Bleeding character may make a **TN 2 Medicine (Earth) check** as a Support action to remove the Bleeding condition."
+},
+{
+"id": "cond.burning",
+"name": "Burning",
+"type": "condition",
+"source": "core",
+"description": "The character is ablaze.",
+"effects": "After a Burning character performing an action, the character suffers 3 strife and 3 physical damage that ignores their resistance. The severity of critical strikes caused by this damage is 5. Each critical strike a character suffers this way beyond the first before the condition is removed has its severity increased by 5.",
+"text": "**Description:** The character is ablaze.  \n**Effects:** After a Burning character performing an\n\naction, the character suffers 3 strife and 3 physical damage that ignores their resistance. The severity of critical strikes caused by this damage is 5. Each critical strike a character suffers this way beyond the first before the condition is removed has its severity increased by 5.\n\n**Removed When:** A character may attempt to smother\n\nflames consuming them or another character at range 0–1 by making a **TN 2 Fitness (Water) check** as a Movement and Support action; if they succeed, they remove the Burning condition."
+},
+{
+"id": "cond.compromised",
+"name": "Compromised",
+"type": "condition",
+"source": "core",
+"description": "The character is emotionally distraught and distracted.",
+"effects": "A Compromised character cannot keep dice containing [strife] _s_ymbols (to a possible minimum of 0 kept dice). While Compromised, a character’s vigilance counts as 1.",
+"text": "**Description:** The character is emotionally distraught  \nand distracted.  \n**Effects:** A Compromised character cannot keep dice\n\ncontaining [strife] _s_ymbols (to a possible minimum of 0 kept dice). While Compromised, a character’s vigilance counts as 1.\n\n**Removed When:** A Compromised character removes\n\nthis condition when their strife is reduced to a value lower than or equal to their composure."
+},
+{
+"id": "cond.dazed",
+"name": "Dazed",
+"type": "condition",
+"source": "core",
+"description": "The character’s vision is obscured or their focus is hampered, putting them on the defensive.",
+"effects": "A Dazed character increases the TN of their Attack and Scheme action checks by 2.",
+"text": "**Description:** The character’s vision is obscured or their  \nfocus is hampered, putting them on the defensive.  \n**Effects:** A Dazed character increases the TN of their  \nAttack and Scheme action checks by 2.  \n**Removed When:** At the end of their turn, if the charac-\n\nter did not perform an Attack or Scheme action, they remove the Dazed condition."
+},
+{
+"id": "cond.disoriented",
+"name": "Disoriented",
+"type": "condition",
+"source": "core",
+"description": "The character’s senses are scattered, cut- ting off their options to defend themself.",
+"effects": "A Disoriented character increases the TN of their Movement and Support action checks by 2.",
+"text": "**Description:** The character’s senses are scattered, cut-  \nting off their options to defend themself.  \n**Effects:** A Disoriented character increases the TN of  \ntheir Movement and Support action checks by 2.  \n**Removed When:** At the end of their turn, if the char-\n\nacter did not perform a Movement or Support action, they remove the Disoriented condition."
+},
+{
+"id": "cond.dying-x-rounds",
+"name": "Dying [X Rounds]",
+"type": "condition",
+"source": "core",
+"description": "The character is on the verge of death due to blood loss, organ failure, or another cause.",
+"effects": "A Dying character is hovering on the precipice between life and death for a number of rounds (or an amount of narrative time) specified by the effect that applied the Dying condition. Once the allotted time has passed, the character perishes at the end of their next turn (or after completing one task in a narrative scene). If the Dying condition is removed before then, the character stabilizes and narrowly survives their close brush with death.",
+"text": "**Description:** The character is on the verge of death  \ndue to blood loss, organ failure, or another cause.  \n**Effects:** A Dying character is hovering on the precipice\n\nbetween life and death for a number of rounds (or an amount of narrative time) specified by the effect that\n\napplied the Dying condition. Once the allotted time has passed, the character perishes at the end of their next turn (or after completing one task in a narrative scene). If the Dying condition is removed before then, the character stabilizes and narrowly survives their close brush with death.\n\n**Removed When:** Any character at range 0–1 of a Dying\n\ncharacter may make a **TN 4 Medicine (Air) check** as a Support action to remove the Dying condition. If they fail, reduce the number of rounds remaining for the Dying condition by their shortfall."
+},
+{
+"id": "cond.enraged",
+"name": "Enraged",
+"type": "condition",
+"source": "core",
+"description": "The character is consumed with rage and fights with a fury as devastating as it is terrifying.",
+"effects": "An Enraged character increases the severity of all critical strikes inflicted by and upon the character by 2. The first time an Enraged character kills another character each scene, the Enraged character gains 1 Void point.",
+"text": "**Description:** The character is consumed with rage and  \nfights with a fury as devastating as it is terrifying.  \n**Effects:** An Enraged character increases the severity\n\nof all critical strikes inflicted by and upon the character by 2. The first time an Enraged character kills another character each scene, the Enraged character gains 1 Void point.\n\n**Removed When:** An Enraged character may make a\n\n**TN 3 Meditation (Void) check** as a Support action to remove the Enraged condition. Otherwise, the condition is removed at the end of the scene."
+},
+{
+"id": "cond.exhausted",
+"name": "Exhausted",
+"type": "condition",
+"source": "core",
+"description": "The character is physically and mentally exhausted. Characters who go more than twenty-four hours without sleep (or less time under trying circumstances, at the GM’s discretion) suffer this condition.",
+"effects": "An Exhausted character does not remove fatigue and strife at the end of each scene as normal (see page 269).",
+"text": "**Description:** The character is physically and mentally\n\nexhausted. Characters who go more than twenty-four hours without sleep (or less time under trying circumstances, at the GM’s discretion) suffer this condition.\n\n**Effects:** An Exhausted character does not remove\n\nfatigue and strife at the end of each scene as normal (see page 269).\n\n**Removed When:** An Exhausted character removes this  \ncondition after sleeping for six or more hours."
+},
+{
+"id": "cond.immobilized",
+"name": "Immobilized",
+"type": "condition",
+"source": "core",
+"description": "The character is entangled, pinned down, or otherwise incapable of movement.",
+"effects": "An Immobilized character cannot perform Movement actions or otherwise reposition themself during their turn, and they cannot select a different stance during their turn.",
+"text": "**Description:** The character is entangled, pinned down,  \nor otherwise incapable of movement.  \n**Effects:** An Immobilized character cannot perform\n\nMovement actions or otherwise reposition themself during their turn, and they cannot select a different stance during their turn.\n\n**Removed When:** At the end of their turn, if the charac-\n\nter did not perform a Movement action this turn, they remove the Immobilized condition."
+},
+{
+"id": "cond.incapacitated",
+"name": "Incapacitated",
+"type": "condition",
+"source": "core",
+"description": "The character is largely incapable of action due to the scope of the harm they have suffered.",
+"effects": "An Incapacitated character cannot per- form actions that require checks and cannot defend against damage. After an Incapacitated character suffers a critical strike, they suffer the Unconscious condition in addition to any other effects.",
+"text": "**Description:** The character is largely incapable of\n\naction due to the scope of the harm they have suffered.\n\n**Effects:** An Incapacitated character cannot per-\n\nform actions that require checks and cannot defend against damage.\n\nAfter an Incapacitated character suffers a critical strike, they suffer the Unconscious condition in addition to any other effects.\n\n**Removed When:** An Incapacitated character removes\n\nthis condition when their fatigue is reduced to a value lower than or equal to their endurance."
+},
+{
+"id": "cond.intoxicated",
+"name": "Intoxicated",
+"type": "condition",
+"source": "core",
+"description": "The character is drunk.",
+"effects": "An Intoxicated character doubles all strife they suffer and doubles all strife they remove.",
+"text": "**Description:** The character is drunk.  \n**Effects:** An Intoxicated character doubles all strife they  \nsuffer and doubles all strife they remove.  \n**Removed When:** At the end of each scene, an Intox-\n\nicated character may attempt to sober up by making a **TN 3 Fitness (Water) check**; if the character succeeds, they remove the Intoxicated condition. A downtime scene spent resting also removes the Intoxicated condition."
+},
+{
+"id": "cond.prone",
+"name": "Prone",
+"type": "condition",
+"source": "core",
+"description": "The character is flat on the ground. A character may voluntarily become Prone as a Movement action.",
+"effects": "A Prone character can move a maximum of 1 range band during their turn. At the GM’s discretion, a Prone character is harder to spot at a distance or hit with ranged attack checks (increasing relevant TNs by 1).",
+"text": "**Description:** The character is flat on the ground.\n\nA character may voluntarily become Prone as a Movement action.\n\n**Effects:** A Prone character can move a maximum of 1\n\nrange band during their turn. At the GM’s discretion, a Prone character is harder to spot at a distance or hit with ranged attack checks (increasing relevant TNs by 1).\n\n**Removed When:** At the end of their turn, if the char-\n\nacter did not perform a Movement action, they may remove the Prone condition."
+},
+{
+"id": "cond.silenced",
+"name": "Silenced",
+"type": "condition",
+"source": "core",
+"description": "The character has been rendered tempo- rarily speechless by shock or a swift blow.",
+"effects": "A Silenced character increases the TN of their Scheme action checks and checks to activate invocations, mahō, and shūji by 3.",
+"text": "**Description:** The character has been rendered tempo-  \nrarily speechless by shock or a swift blow.  \n**Effects:** A Silenced character increases the TN of their\n\nScheme action checks and checks to activate invocations, mahō, and shūji by 3.\n\n**Removed When:** At the end of the character’s turn,\n\nif they did not perform an Scheme action or make a check requiring speech, remove this condition."
+},
+{
+"id": "cond.unconscious",
+"name": "Unconscious",
+"type": "condition",
+"source": "core",
+"description": "The character has been knocked out, has fallen asleep, or has otherwise been rendered totally unaware of their surroundings.",
+"effects": "An Unconscious character cannot move, perform actions, or otherwise significantly act upon the physical world. An Unconscious character can still make checks to resist effects, but they cannot generally make checks that represent any agency on their part. Increase the severity of any critical strike the character suffers by 10. An Unconscious character cannot defend against damage, but they generally wake up if they hear a loud noise, suffer harm, or otherwise experience something that would normally wake someone.",
+"text": "**Description:** The character has been knocked out, has\n\nfallen asleep, or has otherwise been rendered totally unaware of their surroundings.\n\n**Effects:** An Unconscious character cannot move, perform\n\nactions, or otherwise significantly act upon the physical world. An Unconscious character can still make checks to\n\nresist effects, but they cannot generally make checks that represent any agency on their part. Increase the severity of any critical strike the character suffers by 10.\n\nAn Unconscious character cannot defend against damage, but they generally wake up if they hear a loud noise, suffer harm, or otherwise experience something that would normally wake someone.\n\n**Removed When:** An Unconscious character may spend\n\n1 Void point to awaken immediately, their instincts rousing them in time to defend against damage. Characters also generally awaken after several hours."
+},
+{
+"id": "cond.wounded",
+"name": "Wounded",
+"type": "condition",
+"source": "core",
+"description": "A part of the character’s body is injured badly enough to hinder their use of it. This is reflected mechanically by one of their rings’ being negatively affected when the character uses it, which should be recorded along with the condition.",
+"effects": "This condition has two forms: Lightly Wound- ed and Severely Wounded.",
+"text": "**Description:** A part of the character’s body is injured\n\nbadly enough to hinder their use of it. This is reflected mechanically by one of their rings’ being negatively affected when the character uses it, which should be recorded along with the condition.\n\n**Effects:** This condition has two forms: Lightly Wound-  \ned and Severely Wounded.  \n**Removed When:** Any character can provide treatment\n\nby making a **TN 4 Medicine (Water) check** as a downtime activity. If they succeed, the injured character removes Lightly Wounded or reduces Severely Wounded to Lightly Wounded. This check can be attempted once per wounded ring per week.\n\nAdditionally, a character can attempt to heal through bed rest. Once per week per wounded ring, a character may make a **TN 3 Fitness check** using that ring (and ignoring the modifiers to the TN the condition normally applies). If they succeed, they remove the Lightly Wounded condition or reduce the Severely Wounded condition to the Lightly Wounded condition."
+},
+{
+"id": "cond.illness-oozing-sore-disease",
+"name": "Illness: Oozing Sore Disease",
+"type": "condition",
+"source": "writ-of-wilds",
+"description": "A disease has taken hold of the character, causing a fever and intense vomiting first, then painful, oozing sores all across the body that eventually scab and leave horrible scars. Those who suffer from this illness experience extreme fatigue, muscle aches, and have difficulty keeping food down. Symptoms typically occur many days after exposure. Children are much more susceptible to contracting this illness.",
+"effects": "A character with Oozing Sore Disease has their maximum Endurance reduced by half until they recover. Additionally, if a character with this illness touches another person or something that person is wearing, the person being touched must make a **TN 4 Fitness (Earth) check**. If they fail, they also contract the disease and begin showing symptoms about 10 days after infection occurs.",
+"text": "**Description:** A disease has taken hold of the character,\n\ncausing a fever and intense vomiting first, then painful, oozing sores all across the body that eventually scab and leave horrible scars. Those who suffer from this illness experience extreme fatigue, muscle aches, and have difficulty keeping food down. Symptoms typically occur many days after exposure. Children are much more susceptible to contracting this illness.\n\n**Effects:** A character with Oozing Sore Disease has their\n\nmaximum Endurance reduced by half until they recover. Additionally, if a character with this illness touches another person or something that person is wearing, the person being touched must make a **TN 4 Fitness (Earth) check**. If they fail, they also contract the disease and begin showing symptoms about 10 days after infection occurs.\n\n**Removed When:** Roll one ten-sided die. The disease\n\nnaturally runs its course after 10 days plus the die result (from when the symptoms began to occur) if the character does their best to rest. Every time the character makes a Martial check, add one day to the recovery period. Once per day a character proficient in the Medicine skill may make a **TN 4 Medicine or Theology check (Earth 3, Fire 2)** to reduce the number of days it takes for the patient to recover by 1, to a minimum of 10 total days needed to recover from the point of showing symptoms."
+},
+{
+"id": "cond.illness-gut-sickness",
+"name": "Illness: Gut Sickness",
+"type": "condition",
+"source": "writ-of-wilds",
+"description": "An illness characterized by pain of the stomach, frequent need to defecate, and blood present in the feces. Those afflicted also suffer from dehydration and, as a result, tiredness. This illness can be contracted by eating or drinking impure food.",
+"effects": "When a character fails a check during a scene, they must make a **TN 3 Fitness check (Earth 2)**. If they fail, they are overcome with abdominal pain for the rest of the scene and the TNs of all subsequent Social and Scholar checks are increased by 1.",
+"text": "**Description:** An illness characterized by pain of the\n\nstomach, frequent need to defecate, and blood present in the feces. Those afflicted also suffer from dehydration and, as a result, tiredness. This illness can be contracted by eating or drinking impure food.\n\n**Effects:** When a character fails a check during a scene,\n\nthey must make a **TN 3 Fitness check (Earth 2)**. If they fail, they are overcome with abdominal pain for the rest of the scene and the TNs of all subsequent Social and Scholar checks are increased by 1.\n\n**Removed When:** The illness naturally resolves after\n\none week. Once per day a character with the Medicine skill may make a **TN 3 Medicine or Theology check (Water 2)** to reduce the days needed to recover by the number of bonus successes (to a minimum of one day)."
+},
+{
+"id": "cond.illness-coughing-illness",
+"name": "Illness: Coughing Illness",
+"type": "condition",
+"source": "writ-of-wilds",
+"description": "An illness characterized by chest pain and intense fits of bloody coughing.",
+"effects": "A character who contracts the coughing illness gains the Damaged Heart or Organ adversity for their lungs (see page 119 of the core rulebook) until the illness is healed. This illness is contracted through contact with the bodily fluids of infected individuals.",
+"text": "**Description:** An illness characterized by chest pain and  \nintense fits of bloody coughing.  \n**Effects:** A character who contracts the coughing illness\n\ngains the Damaged Heart or Organ adversity for their lungs (see page 119 of the core rulebook) until the illness is healed. This illness is contracted through contact with the bodily fluids of infected individuals.\n\n**Removed When:** Once per day a character may make\n\na **TN 4 Medicine or Theology check** (Water 3, Void 3) on the afflicted character. If the check succeeds three days in a row, the ill character recovers. If the check fails three days in a row, the afflicted character loses the Damaged Heart or Organ adversity and instead gains the Incurable Illness adversity instead (see page 123 of the core rulebook)."
+},
+{
+"id": "cond.illness-fire-rash",
+"name": "Illness: Fire Rash",
+"type": "condition",
+"source": "writ-of-wilds",
+"description": "Those with this illness experience first a fever, then coughing, a feeling of head fullness, and redness of the eyes. Then they are taken by an angry, red, intensely itchy rash that covers their whole body, including the insides of their mouth and nose. The illness spreads quickly and easily, often overtaking whole villages in a matter of weeks. It is contracted through physical contact with infected individuals or materials.",
+"effects": "When a character comes into contact with someone suffering from this illness, they must make a **TN 4 Fitness check (Earth 3)** or contract the illness themselves, experiencing symptoms a few days after their interaction. While afflicted by this illness, a character’s glory is temporarily decreased by 10 (to a minimum of 10) due to their unsettling appearance. Additionally, the character gains the Discomfiting Countenance disadvantage for the duration of the disease (see page 120 of the core rulebook).",
+"text": "**Description:** Those with this illness experience first a\n\nfever, then coughing, a feeling of head fullness, and redness of the eyes. Then they are taken by an angry, red, intensely itchy rash that covers their whole body, including the insides of their mouth and nose. The illness spreads quickly and easily, often overtaking whole villages in a matter of weeks. It is contracted through physical contact with infected individuals or materials.\n\n**Effects:** When a character comes into contact with\n\nsomeone suffering from this illness, they must make a **TN 4 Fitness check (Earth 3)** or contract the illness themselves, experiencing symptoms a few days after their interaction. While afflicted by this illness, a character’s glory is temporarily decreased by 10 (to a minimum of 10) due to their unsettling appearance. Additionally, the character gains the Discomfiting Countenance disadvantage for the duration of the disease (see page 120 of the core rulebook).\n\n**Removed When:** The illness is naturally removed after\n\n10 days, though recovery can be expediated with a **TN 4 Medicine** or **Theology check**. On a success, the sufferer recovers in 8 days instead."
+}
+]
