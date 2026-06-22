@@ -59,11 +59,11 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 ## Adventure Crafter state (crafter mode only)
 - n/a
 
-## Current scene — Scene 5: *The Broken Wards* → the Keeper's bargain comes due (the barrow, ~a week in)
-- **Where / when:** the First Yotogi's broken barrow in a high lonely vale; ~a week after arriving; the Keeper guttering, near its end; the company camped at the vale.
-- **Last beat:** the tomb's Keeper (a dying, lucid grave-fire spirit) chose to **bargain**, not fight. Akihiko accepted — but first, respectfully, asked to be **taught**, elder to child. Moved, the Keeper spent its last days teaching him: the Ward is the **Dawn Mirror** (binds, never kills); the enemy is unkillable & sun-fearing; his **mark is danger AND the leash** to bind it. The teaching is done; the rot has nearly taken the Keeper; the bargain's second half — **end it cleanly with sun-fire before it turns** — is due. Collides head-on with Akihiko's **Softheartedness.**
-- **Akihiko's state:** strife 1/8, fatigue 0, Void 1/2; Marked (contained). Honor 55 / Glory 35 / Status 36. Katana of Fire relightable at will.
-- **On the table now:** the mercy-kill (or a desperate healer's alternative?); then claim the Dawn Mirror; then the long road to bind the dark — with a week of Scorpion/harvest movement waiting in the world. XP un-awarded (offer a tally at the next break).
+## Current scene — Scene 5: *The Broken Wards* → the mercy kept; the barrow open
+- **Where / when:** the First Yotogi's barrow at dusk; the Keeper released; the way in open.
+- **Last beat:** Akihiko **kept the bargain** — raised Lady Sun's fire and ended the kneeling Keeper cleanly, against every instinct in him. The rot was burned away; the Keeper (**Toritaka Genkō**, the First Yotogi's own yōjimbō) passed *whole* to Yomi, naming itself to Akihiko as a parting gift and making him its heir. An honorable, agonizing act — a defining wound.
+- **Akihiko's state:** **strife 4/8** (Softheartedness), fatigue 0, **Void 2/2** (restored by the soul-deep act); Marked (contained); Honor whole (55) / Glory 35 / Status 36.
+- **On the table now:** enter the barrow and claim **Asahi no Kagami, the Dawn Mirror** — and with it the binding-duty; then the long road back to wield it. A week of Scorpion/harvest movement waits in the world. XP un-awarded (offer a tally at the next break).
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer
