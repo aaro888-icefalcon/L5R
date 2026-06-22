@@ -22,34 +22,33 @@ active_set:
 - **Discipline:** HARDCORE (no softening; Peril Points OFF unless the player opts in)
 - **System profile:** `system-profile.md`   ·   **Setting canon:** `setting-canon.md`
 
-## Chaos Factor: 5
-_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 2 audience was controlled → −1 from 6.)_
+## Chaos Factor: 6
+_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 3 sprung a Scorpion trap, the secret leaked, the spymaster escaped → +1.)_
 
 ## Threads (open goals/vows; weighted)
 1. **The First Ward (PRIMARY QUEST)** *(w3)* — recover the First Yotogi's lost sealing-relic ("the First Ward"); Hatsue's visions place it **north & west, in the old hills, near the founder's reputed tomb.** Wake it, use it to bar the Shinomen power. Charged by Hatsue **in secret.**
-2. **The power in the deep Shinomen** *(w2)* — waking, hungry, *learning*; reaches through consecrated wards unaided. (Hatsue has been seeing it in meditation for 2 years.)
-3. **The taken souls of Hibari Mura** *(w2)* — ~39 souls dragged into the deep Shinomen; reclaimable?
-4. **Ninjō — To truly belong** *(w2)* — Hatsue named the wound aloud ("never quite either"); this charge is a chance to matter.
-5. **The Scorpion covet Toritaka Province** *(w2)* — and must NOT learn the marches are open (secrecy = the clan's survival).
-6. **Lord Hatsue's fraying mind** *(w1)* — she is *spending* her sight staring at the threat; how long can she hold?
-7. **The secret Imperial blood** *(w1)* — Hatsue hinted "there may be more to you than your modesty admits."
+2. **The leak / the Scorpion close in** *(w3)* — a Scorpion cell on the road (the "peddler" **Gennai** + crew) got word out that the Falcon Warden rides the hills on a secret errand. **Gennai escaped**; his **porter is Akihiko's prisoner.** The Scorpion now suspect the marches are troubled — expect them to move.
+3. **The power in the deep Shinomen** *(w2)* — waking, hungry, *learning*; reaches through consecrated wards unaided. (Hatsue has seen it for 2 years.)
+4. **The taken souls of Hibari Mura** *(w2)* — ~39 souls dragged into the deep Shinomen; reclaimable?
+5. **Ninjō — To truly belong** *(w2)* — Hatsue named the wound; this charge is a chance to matter (and now, a failure to swallow).
+6. **Lord Hatsue's fraying mind** *(w1)* — she is *spending* her sight on the threat; how long can she hold?
+7. **The secret Imperial blood** *(w1)* — Hatsue hinted "more to you than your modesty admits."
 
 ## Characters & Factions (NPC/force — want — disposition; weighted; PC NOT listed)
+- **Gennai** *(w2)* — Scorpion spymaster posing as a medicine-peddler; charming, sharp, **escaped into the hills** with his swordsman — wants the Falcon's secret; **hostile, now exposed**
+- **The Scorpion Clan** *(w2)* — seize Toritaka lands; their cell just got word the marches may be open — **hostile / closing in**
 - **The power in the deep Shinomen** *(w2)* — harvest souls / spread — malign, looming
-- **Scorpion Clan** *(w2)* — seize Toritaka lands; would pounce if the failure leaks — **hostile / scornful**
-- **Lord Toritaka Hatsue** *(w2)* — hold the line; recover the First Ward via Akihiko — his lord & secret-sharer, trusts him; fraying from her visions
-- **Toritaka Jōji** *(w1)* — wry veteran Warden, riding with Akihiko on the quest — loyal
-- **Suzu** *(w1)* — sole survivor of Hibari Mura, recovering in Akiro's care at Kyūden Toritaka — bonded to Akihiko
-- **Toritaka Akiro (brother)** *(w1)* — tending Suzu; devoted; left behind
+- **Lord Toritaka Hatsue** *(w1)* — hold the line via Akihiko — his lord & secret-sharer; fraying
+- **The captured porter** *(w1)* — a low Scorpion operative, taken alive on the hill — sullen, knows *something* (handlers, the message, the network)
 
 ## Adventure Features (prepared-adventure mode only)
 - n/a (Pure Mythic)
 
 ## Clocks (offscreen factions / threats / progress)
-- **Scorpion land-grab scheme:** advancing (early)
-- **Hatsue's decline:** worsening (slow) — tied to her visions of the Shinomen power
-- **The Shinomen harvest:** active — the forest's edge is being grazed for souls
-- **Secrecy risk:** if word of the failing wards reaches the Scorpion → they move politically
+- **The leak in motion:** the Scorpion message is loose — word of the Falcon's secret errand racing to handlers (**advancing fast**)
+- **Scorpion land-grab scheme:** advancing
+- **Hatsue's decline:** worsening (tied to her visions)
+- **The Shinomen harvest:** active
 
 ## Overlays
 - **Keyed Scenes:** none
@@ -59,11 +58,11 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 ## Adventure Crafter state (crafter mode only)
 - n/a
 
-## Current scene — Scene 3: *The Road to the Founder's Tomb* (just setting out)
-- **Where / when:** departing Kyūden Toritaka at sunrise, riding north & west into the old Falcon hills.
-- **Last beat:** Hatsue, lucid and formidable, charged Akihiko **in secret** to recover **the First Ward** (the First Yotogi's lost sealing-relic) — revealing she has been *seeing* the deep-Shinomen power in her meditations for two years, and naming his lifelong sense of not-belonging as the very reason she trusts him. He accepted, left Suzu with Akiro, took **Jōji + a troop of ashigaru**, and rode out.
-- **Akihiko's state:** strife 0, fatigue 0, Void 2/2; unharmed. Honor 55 / Glory 35 / Status 36. Carrying Hatsue's secret charge.
-- **Stakes / next:** reach the old hills & the founder's tomb; find/wake the First Ward; keep the secret; the Shinomen power grows bolder by the day. Scene 1 XP not yet awarded.
+## Current scene — Scene 3: *A Meeting on the Road* → the sprung trap (night, hill saddle)
+- **Where / when:** a cold saddle between two bald hills in the old highlands, dead of night; camp roused.
+- **Last beat:** A smooth "peddler," **Gennai**, joined them on the road and probed for their destination; Akihiko's thin cover ("visiting a friend") didn't fool him. Akihiko rode on and watched — and at night caught Gennai's "porter" slipping off to a hooded contact. He roused the camp and **charged on horseback** to stop the courier, but his horse stumbled on shale at the crest: **the message got passed off and away (the leak succeeded).** He rode down and **captured the porter** alive; **Gennai and the swordsman escaped** into the dark.
+- **Akihiko's state:** **strife 5/8** (pursuit + Fear of Failure), fatigue 0, Void 2/2; unharmed. Honor 55 / Glory 35 / Status 36.
+- **On the table now:** a **captured Scorpion porter** to question; Gennai loose; the leak racing to Scorpion handlers; still days from the founder's tomb; dawn hours off. Scene 1 XP not yet awarded.
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer

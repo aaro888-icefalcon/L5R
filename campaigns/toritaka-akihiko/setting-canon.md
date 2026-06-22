@@ -29,6 +29,9 @@
 - **Suzu** — reed-cutter's daughter of Hibari Mura, ~16; once sang the dawn-hymn Akihiko taught. **Sole survivor** of the soul-harvest; he saved her soul at the threshold. Now stable but deeply soul-shocked, sleeping; bonded to her rescuer, and the only living witness to the village's fate. *(Q16-adjacent / new bond.)*
 - **Toritaka Yuki** — Akihiko's grandmother; Toritaka elder in a neighboring province; keeper of old family stories — and, perhaps, of the truth of the Imperial line. *(grandmother; Bergen-County kin.)*
 
+- **Gennai** — a Scorpion spymaster who posed as a charming traveling medicine-peddler to intercept Akihiko on the only road into the old hills. Sharp, affable, a reader of people; traveled with a disguised swordsman ("guard") and a covert courier ("porter"). Saw through Akihiko's cover, got a message out about the Falcon's secret errand, and **escaped into the hills** when the trap sprung. Recurring antagonist; knows Akihiko's face and that he hides something.
+- **The captured porter** — Gennai's courier, a low Scorpion operative taken alive on the hill; sullen, dangerous, and holds what he knows about handlers, the message, and the cell.
+
 ### The Scattered Corps — healers & wardens of many clans, bound to Akihiko by a past crisis they survived together (duty keeps them far apart)
 - **Toritaka Jōji** — senior fellow Warden; wry, joking, blunt; Akihiko's closest comrade-in-arms in the field. *(Jason.)*
 - **Moshi Kasumi** — junior healer-priest; kind, blunt, efficient. *(Jessica.)*
