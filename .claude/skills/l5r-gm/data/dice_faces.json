@@ -1,0 +1,31 @@
+{
+  "_source": "L5R 5E core, Table 1-1: Dice Faces (p.22). Symbols: success, explosive (explosive success: counts as a success AND explodes), opportunity, strife.",
+  "ring": {
+    "sides": 6,
+    "faces": [
+      [],
+      ["opportunity", "strife"],
+      ["opportunity"],
+      ["success", "strife"],
+      ["success"],
+      ["explosive", "strife"]
+    ]
+  },
+  "skill": {
+    "sides": 12,
+    "faces": [
+      [],
+      [],
+      ["opportunity"],
+      ["opportunity"],
+      ["opportunity"],
+      ["success", "strife"],
+      ["success", "strife"],
+      ["success"],
+      ["success"],
+      ["success", "opportunity"],
+      ["explosive", "strife"],
+      ["explosive"]
+    ]
+  }
+}
