@@ -1,4 +1,8 @@
-# Conflict Tracker — Skirmish: *The Soul-Gate at Hibari Mura*
+# Conflict Tracker — Skirmish: *The Soul-Gate at Hibari Mura* — ✅ RESOLVED (bittersweet victory)
+
+**Outcome (R3):** Akihiko re-consecrated the soul-gate with Sacred sun-fire (Theology/Fire, 3 vs TN 3 — *exactly* enough, 0 bonus). The gate sealed; **Kuchinashi banished for good** (no anchor left). **Suzu's soul snapped home — saved (alive).** 0 bonus successes = **the rest of Hibari Mura's already-taken souls were NOT recovered** — glimpsed (opportunity) being dragged down/north into the deep Shinomen toward something that *sent* the gaki. Akihiko took 2 strife to land it (→9/8) and **UNMASKED** (mask shattered; sang the dawn-hymn in grief; strife → 0).
+
+_Tracker free for the next conflict._
 
 - **Objectives:**
   - **Akihiko (PC):** survive; shield Jōji; recover Suzu's tethered soul; **banish the gaki by re-consecrating the soul-gate** (Sacred sun-fire on the shrine, or a Cleansing Rite to strip the *Defiled* quality). Merely "killing" its manifestation only banishes it until it reforms from the gate.
