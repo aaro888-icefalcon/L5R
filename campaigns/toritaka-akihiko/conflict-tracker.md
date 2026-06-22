@@ -9,22 +9,24 @@
   - **Akihiko** & **Jōji** at range **1** from the shrine (each other: 0).
   - **Kuchinashi** manifests at the gate (range **1** from Akihiko/Jōji, range 0 from Suzu).
   - Silent houses at range 1–2. Light: Akihiko's flaming katana sheds light ~range 1; beyond, dark.
-- **Round:** 1
+- **Round:** 2
 
 ## Initiative order
-| # | Combatant | tier | init | acted? |
+| # | Combatant | tier | init | acted? (R2) |
 |---|---|---|---|---|
-| 1 | Kuchinashi (gaki) | adversary | 3 | ✓ Soul-Rend hit Akihiko (3 strife) + wrenched Suzu |
-| 2 | Toritaka Jōji | ally (NPC) | 2 | ✓ Strike MISSED (steel passes through Insubstantial) |
+| 1 | Kuchinashi (gaki) | adversary | 3 | ✓ Soul-Rend hit Akihiko (+3 strife) |
+| 2 | Toritaka Jōji | ally (NPC) | 2 | ✓ Assist → Akihiko has assistance on next check |
 | 3 | Toritaka Akihiko | PC | 1 | ← TO ACT |
+
+_R1 recap: gaki Soul-Rent Akihiko & wrenched Suzu; Jōji's steel useless; Akihiko reshaped fire-blade→nōdachi (free, banked opp), cast Biting Steel (nōdachi Dmg 9, Sacred, active through end of R2), free Strike MISSED._
 
 ## Combatants — state
 | Name | fatigue/End | strife/Comp | conditions | range/zone |
 |---|---|---|---|---|
-| **Akihiko** | 0 / 10 | **3** / 8 | Katana of Fire lit (Sacred, Wargear); 1 opportunity banked | r1 from S |
-| **Jōji** | 0 / 12 | 0 / 9 | katana drawn; just learned steel is near-useless | r1 from S |
-| **Suzu** (victim) | — | — | soul **nearly** through the gate now (gaki wrenched her) | r0 (shrine step) |
-| **Kuchinashi** | 0 / 6 | **2** / 8 | manifested; Insubstantial; Anchored to gate | at S |
+| **Akihiko** | 0 / 10 | **6** / 8 | fire-**nōdachi** lit (Sacred, Dmg 9 via Biting Steel, exp. end R2); **assistance** on next check (Jōji) | r1 from S |
+| **Jōji** | 0 / 12 | 0 / 9 | guarding Akihiko's flank | r1 from S |
+| **Suzu** (victim) | — | — | held at the threshold — Akihiko's Sacred flame **repels** the gaki from finishing her (savable while flame burns) | r0 (shrine step) |
+| **Kuchinashi** | 0 / 6 | **3** / 8 | manifested; Insubstantial; Anchored to gate | at S |
 
 ## Kuchinashi, the Mouthless Gaki  [Otherworldly, Tainted]
 - Rings: Air 3 · Earth 2 · Fire 1 · Water 2 · Void 3 · Vigilance 3 · Focus 4
