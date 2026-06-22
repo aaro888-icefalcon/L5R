@@ -26,8 +26,8 @@ active_set:
 _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 4: the deep-Shinomen power reached through a portal and MARKED Akihiko — apex-negative, out of his control → +1.)_
 
 ## Threads (open goals/vows; weighted)
-1. **The First Ward (PRIMARY QUEST)** *(w3)* — recover the First Yotogi's lost sealing-relic; Hatsue's visions place it **north & west, the old hills, the founder's reputed tomb.** **VISION-CONFIRMED (Sc.4): the First Ward once BOUND this very power — it works, and is why the thing fears the sun.**
-2. **The Mark — bound to the Deep** *(w3)* — the power set a hook in Akihiko's soul (**Marked by the Deep**); it can sense/reach him across thresholds and may strike again; spirits of the deep are drawn to him. *Double-edged:* he can faintly sense the power's stirrings in return.
+1. **The First Ward (PRIMARY QUEST)** *(w3)* — recover the First Yotogi's lost sealing-relic; **north & west, the old hills, the founder's tomb** (~2 days on, vision-compass confirmed). **VISION-CONFIRMED (Sc.4): the First Ward once BOUND this very power — it works, and is why the thing fears the sun.** **COMMUNE (Sc.4): the tomb is *kept* — something ancient holds vigil over the founder's rest (guardian; for or against, unknown).**
+2. **The Mark — bound to the Deep** *(w3)* — the power set a hook in Akihiko's soul (**Marked by the Deep**); spirits of the deep are drawn to him; *double-edged* (he can faintly sense the power in return). **CONTAINED (Sc.4 Cleansing Rite):** can't deepen/spread, beacon blunted (the power struggles to reach him for a while) — but only the First Ward (or the power's undoing) truly cures it.
 3. **The power in the deep Shinomen** *(w2)* — vast, ancient (older than the Empire), beneath the forest's heart (north); reaches through wards unaided; bound once before. Now fixed on Akihiko personally.
 4. **The taken souls of Hibari Mura** *(w2)* — **VISION-CONFIRMED: gathered & woven toward some purpose, NOT destroyed** — the village's people still 'singing' among a galaxy of stolen souls. Reclaimable?
 5. **The leak / the Scorpion close in** *(w2)* — Gennai (Scorpion spymaster) got limited word out (*a Falcon Warden rides the hills secretly*) and **escaped**; his porter was left bound on the hill. Expect them to probe.
@@ -59,11 +59,11 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 ## Adventure Crafter state (crafter mode only)
 - n/a
 
-## Current scene — Scene 4: *The Reaching Cold* (INTERRUPT) — a misty defile, days toward the tomb
-- **Where / when:** a narrow, mist-choked defile in the old hills, mid-journey; just after the portal collapsed.
-- **Last beat:** the deep-Shinomen power tore a portal across their path and reached for Akihiko *personally*. He met it with his Sacred Katana of Fire and spent a Void point — but his bolstered ward came up one short. The touch landed: he is **Marked by the Deep.** His sun-fire seared the power back, and through the two-way wound came a vision (souls gathered, NOT destroyed; the power ancient, beneath the Shinomen; the First Ward truly bound it once). The seam closed; the company is shaken.
-- **Akihiko's state:** **strife 2/8**, fatigue 0, **Void 1/2**; **Marked by the Deep** (new adversity). Honor 55 / Glory 35 / Status 36. Katana of Fire lit.
-- **On the table now:** steady the shaken company; press on (the vision validates the quest); the power now knows him and can reach again; days yet to the tomb. Scene 1 XP still un-awarded.
+## Current scene — Scene 4 *The Reaching Cold* → resolved; camped & rallied, ~2 days from the tomb
+- **Where / when:** a defensible shoulder of rock beyond the cursed defile; the company camped, watches set, rested.
+- **Last beat:** the deep-Shinomen power Marked Akihiko through a portal (his Void-bolstered sun-ward fell one short). He steadied the men with dry calm; **confided the full truth to Jōji** (who's all-in — and that keeps Hatsue's "three mouths"); then rested, communed, and worked a Cleansing Rite that **contained the mark** (beacon blunted). The kami affirmed the road and warned the **founder's tomb is *kept* by something ancient.**
+- **Akihiko's state:** **strife 1/8**, fatigue 0, **Void 1/2**; **Marked by the Deep — contained.** Honor 55 / Glory 35 / Status 36.
+- **On the table now:** ride the last ~2 days to the founder's tomb; a guardian waits there; the leak/Gennai loose behind; the mark's reprieve is temporary. Scene 1 XP still un-awarded.
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer
