@@ -4,7 +4,7 @@
 - **Clan / Family / School:** Falcon · Toritaka · **Moshi Sun Sentinel** [Bushi, Shugenja]
   *(out-of-clan school — Falcon-born, trained at the Light of the Lady Sun Dōjō through his Moshi father; canon-supported: the Moshi keep a permanent place for Falcon at the shrine)*
 - **Concept / role:** Warrior-priest of Amaterasu — **"Warden of the Physical"**: battlefield medic & security
-- **Titles / advancement:** none yet · XP banked: 0
+- **Titles / advancement:** none yet · **School Rank 1** (Moshi Sun Sentinel; 0/20 XP toward Rank 2) · **XP available: 9** (Session 1) — *advancement pending*
 
 ## Rings (the approach to each check)
 - Air **1**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**
