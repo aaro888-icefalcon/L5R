@@ -1,15 +1,17 @@
 # Rokugan — solo Legend of the Five Rings 5E, run by Claude
 
 A ready-to-play workspace for **solo / GM-less Legend of the Five Rings 5th Edition** in
-**Rokugan**, with Claude Code as your Game Master. It bundles two cooperating skills:
+**Rokugan**, with Claude Code as your Game Master. It runs the **mythic-gm v2 engine + companion**
+architecture — one content-free engine, one L5R companion that fills its hooks:
 
 | Skill | Role |
 |---|---|
-| **`l5r-gm`** | The L5R 5E engine — roll-and-keep checks, character creation, skirmish · duel · intrigue · mass battle, and content (315 techniques, 206 adversaries, 20 conditions) extracted from all 8 books. Owns **all L5R resolution**. |
-| **`mythic-gm`** | The Mythic GME 2e + Adventure Crafter engine — the oracle (Fate Questions), scene pacing, Chaos Factor, random events, and plot. Owns **pacing and the world oracle**. |
+| **`mythic-gm`** *(engine)* | The Mythic GME 2e + Adventure Crafter engine — the oracle (Fate Questions), the Scene Test, Chaos Factor, random events, Turning Points/plot, and the no-softening discipline. Content-free and shared. Owns **pacing and the world oracle**. |
+| **`l5r-gm`** *(companion)* | The L5R 5E ruleset & Rokugan setting — roll-and-keep checks, character creation, skirmish · duel · intrigue · mass battle, and content (315 techniques, 206 adversaries, 20 conditions) from all 8 books. Owns **all L5R resolution**. Ships a **`bridge/`** that fills the engine's hooks. |
 
-`l5r-gm` is built to defer to `mythic-gm` for the oracle, scene framing, and plot, so the two
-run as one table: Mythic asks *what happens and when*, L5R adjudicates *how it plays out*.
+The companion's **`bridge/`** wires the two into one table: the engine asks *what happens and
+when*, and the bridge routes resolution to L5R, makes the oracle read as samurai drama, and supplies
+Rokugan generation, pacing, and world — so the engine plays *as L5R in Rokugan*.
 
 ## How to play
 
@@ -33,7 +35,7 @@ of the game and actively resisted. No external dependencies — just **Python 3*
 
 ```
 CLAUDE.md            ← the GM workflow & orchestration (start here)
-.claude/skills/      ← the two engines: l5r-gm + mythic-gm
+.claude/skills/      ← mythic-gm (engine) + l5r-gm (companion, with its bridge/)
 campaigns/           ← your saved games (one folder each); copy campaigns/_template to begin
 ```
 

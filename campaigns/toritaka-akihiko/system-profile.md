@@ -1,15 +1,12 @@
-# System Profile — Legend of the Five Rings 5E  (for the mythic-gm seam)
+# System Profile — this campaign  (the resolve seam)
 
-- **Dice convention:** L5R roll-and-keep custom dice. Express a check as
-  `python3 .claude/skills/l5r-gm/scripts/dice.py check --ring R --skill S --tn T`.
-- **Core resolution:** roll (Ring) Ring d6 + (Skill rank) Skill d12, explode explosive successes, **keep
-  up to Ring dice**; successes (kept) ≥ TN → success. Max successes = Ring value.
-- **Degrees of success?** YES — bonus successes; plus opportunity (●) and strife (✷) as side-effects.
-- **Stats:** five Rings (Air/Earth/Fire/Water/Void); skills (Artisan/Social/Scholar/Martial/Trade);
-  derived Endurance/Composure/Focus/Vigilance; Honor/Glory/Status; Void points.
-- **Conflict/combat:** four subsystems (skirmish, duel, intrigue, mass battle) in
-  `references/conflict/`; initiative per type; defeat is real (death/dishonor/seppuku/capture/ruin).
-- **NPC units:** L5R adversary/minion profiles via `.claude/skills/l5r-gm/scripts/npc.py` (compose from the shared toolbox).
-- **Routing:** **route ALL task resolution & combat to l5r-gm** (`dice.py` + `references/conflict/`).
-  Defer to mythic for world yes/no questions, scene framing, Chaos, random events, and plot.
-- **Generation:** the oracle ladder — L5R-native generator first, else a Mythic oracle, re-skinned.
+> L5R resolution is defined once by the companion bridge and shared by every L5R campaign:
+>
+> **→ `.claude/skills/l5r-gm/bridge/system-profile.md`**  (roll-and-keep, the four conflicts, NPC units, routing)
+>
+> This file records only campaign-specific resolution overrides. Print active routing with:
+> `python3 .claude/skills/mythic-gm/scripts/system.py route`
+
+## Campaign-specific overrides (optional)
+- **Peril Points:** OFF (player-invoked only) — unchanged from default.
+- No house rules in force.

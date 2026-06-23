@@ -1,0 +1,131 @@
+{
+ "id": "l5r.npc_role",
+ "title": "L5R — NPC Role / Station",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "l5r-gm/bridge/generators/build.py",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "peasant farmer / heimin"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "ashigaru (foot-soldier)"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "bushi of a clan"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "ronin (masterless)"
+  },
+  {
+   "min": 21,
+   "max": 24,
+   "value": "courtier"
+  },
+  {
+   "min": 25,
+   "max": 28,
+   "value": "magistrate / yoriki"
+  },
+  {
+   "min": 29,
+   "max": 32,
+   "value": "shugenja (priest)"
+  },
+  {
+   "min": 33,
+   "max": 36,
+   "value": "monk / brotherhood of Shinsei"
+  },
+  {
+   "min": 37,
+   "max": 40,
+   "value": "merchant patron (via a samurai front)"
+  },
+  {
+   "min": 41,
+   "max": 44,
+   "value": "artisan (smith / poet / painter)"
+  },
+  {
+   "min": 45,
+   "max": 48,
+   "value": "geisha / entertainer"
+  },
+  {
+   "min": 49,
+   "max": 52,
+   "value": "innkeeper / tea-house host"
+  },
+  {
+   "min": 53,
+   "max": 56,
+   "value": "village headman / nanushi"
+  },
+  {
+   "min": 57,
+   "max": 60,
+   "value": "scout / yojimbo"
+  },
+  {
+   "min": 61,
+   "max": 64,
+   "value": "scholar / sensei"
+  },
+  {
+   "min": 65,
+   "max": 68,
+   "value": "physician / healer"
+  },
+  {
+   "min": 69,
+   "max": 72,
+   "value": "ji-samurai (rural vassal)"
+  },
+  {
+   "min": 73,
+   "max": 76,
+   "value": "clan emissary / yojimbo of a guest"
+  },
+  {
+   "min": 77,
+   "max": 80,
+   "value": "eta (the unclean — hidden)"
+  },
+  {
+   "min": 81,
+   "max": 84,
+   "value": "imperial official / Emerald Magistrate's agent"
+  },
+  {
+   "min": 85,
+   "max": 88,
+   "value": "spy / metsuke (true allegiance hidden)"
+  },
+  {
+   "min": 89,
+   "max": 92,
+   "value": "elder / retired samurai"
+  },
+  {
+   "min": 93,
+   "max": 96,
+   "value": "pilgrim"
+  },
+  {
+   "min": 97,
+   "max": 100,
+   "value": "bandit / hinin outlaw"
+  }
+ ],
+ "checksum": "sha256:35a02e5323132728",
+ "note": "Conjunction: layer over the AC Character Crafter for a new generic NPC."
+}

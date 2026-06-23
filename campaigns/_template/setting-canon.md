@@ -1,8 +1,10 @@
 # Setting Canon — <campaign>
 
-> Campaign ground truth. Overrides recollection and invention. When canon is silent, decide with the
-> oracle ladder and **record the answer back here** so it stays consistent. Deep lore lives in
-> `references/setting/` (loaded only for active sources).
+> **Campaign** ground truth — overrides recollection, invention, AND the companion's general canon.
+> When canon is silent, decide with the oracle ladder and **record the answer back here** so it stays
+> consistent. General Rokugan ground truth lives in `.claude/skills/l5r-gm/bridge/setting-canon.md`;
+> deep lore in `.claude/skills/l5r-gm/references/setting/` (loaded only for active sources).
+> Precedence: **this file > bridge canon > references > recollection.**
 
 ## Places
 -

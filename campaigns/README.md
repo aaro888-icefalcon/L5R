@@ -16,14 +16,16 @@ campaign and active-set, builds your character, seeds Threads) and fills the fil
 
 | File | What it is |
 |---|---|
-| `campaign-state.md` | **The single source of truth.** Overwritten at the end of every scene: the active-set, Chaos Factor, Threads/Characters/Clocks lists, overlays, and the current-scene recap. This is your save file. |
+| `campaign-state.md` | **The single source of truth.** Overwritten at the end of every scene: the active-set, current adventure & Theme priority, Chaos Factor, Threads/Characters/Clocks lists, campaign roster, overlays, and the current-scene recap. This is your save file. |
 | `character-sheet.md` | The PC — rings, skills, derived stats, honor/glory/status, ninjō & giri, techniques, bonds, gear. |
-| `setting-canon.md` | Campaign ground-truth (places, factions, named NPCs, tone, hard lines). Overrides invention; the GM records new facts here so they stay consistent. |
-| `system-profile.md` | The l5r↔mythic seam — routes resolution to l5r-gm and pacing/oracle to mythic-gm. Pre-filled for L5R 5E; you rarely touch it. |
+| `setting-canon.md` | **Campaign** ground-truth (places, factions, named NPCs, tone, hard lines). Overrides invention *and* the companion's general Rokugan canon; the GM records new facts here so they stay consistent. |
+| `seeds.md` | The live **30–40 seed deck** the GM draws scenes/Turning Points/Random Events from — refreshed at every bookkeeping (sources in `l5r-gm/bridge/seeds.md`). |
+| `archive.md` | Where resolved Threads and dead/departed Characters go, to keep the live state lean. |
+| `system-profile.md` | A thin pointer to the resolve seam — `l5r-gm/bridge/system-profile.md` (roll-and-keep, the four conflicts, routing). Pre-filled; touch it only for a campaign-specific house rule. |
 | `conflict-tracker.md` | Scratch sheet for an in-progress skirmish / duel / intrigue / mass battle. |
-| `archive.md` *(created as needed)* | Where resolved threads and dead characters go, to keep the live state lean. |
 
-`_template/` is the blank starting set — **copy it, don't play in it.**
+`_template/` is the blank starting set — **copy it, don't play in it.** General L5R rules and Rokugan
+lore live in `.claude/skills/l5r-gm/`; the engine and its bridge never change between sessions.
 
 ## Save / resume
 
