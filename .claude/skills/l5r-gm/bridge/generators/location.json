@@ -1,0 +1,130 @@
+{
+ "id": "l5r.location",
+ "title": "L5R — Rokugani Location Types",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "l5r-gm/bridge/generators/build.py",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "roadside tea-house"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "Shinto shrine / kami-shrine"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "Fortune's temple"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "a clan dojo"
+  },
+  {
+   "min": 21,
+   "max": 24,
+   "value": "castle audience hall"
+  },
+  {
+   "min": 25,
+   "max": 28,
+   "value": "castle gate & guardhouse"
+  },
+  {
+   "min": 29,
+   "max": 32,
+   "value": "a garden of contemplation"
+  },
+  {
+   "min": 33,
+   "max": 36,
+   "value": "rice paddies & irrigation dikes"
+  },
+  {
+   "min": 37,
+   "max": 40,
+   "value": "fishing / river village"
+  },
+  {
+   "min": 41,
+   "max": 44,
+   "value": "market square"
+  },
+  {
+   "min": 45,
+   "max": 48,
+   "value": "magistrate's office"
+  },
+  {
+   "min": 49,
+   "max": 52,
+   "value": "bathhouse"
+  },
+  {
+   "min": 53,
+   "max": 56,
+   "value": "a bridge over a gorge or river"
+  },
+  {
+   "min": 57,
+   "max": 60,
+   "value": "mountain pass / checkpoint"
+  },
+  {
+   "min": 61,
+   "max": 64,
+   "value": "a noble's private chambers"
+  },
+  {
+   "min": 65,
+   "max": 68,
+   "value": "graveyard / ancestral barrow"
+  },
+  {
+   "min": 69,
+   "max": 72,
+   "value": "harbor & docks"
+  },
+  {
+   "min": 73,
+   "max": 76,
+   "value": "a monastery in the hills"
+  },
+  {
+   "min": 77,
+   "max": 80,
+   "value": "the deep wilds / haunted forest edge"
+  },
+  {
+   "min": 81,
+   "max": 84,
+   "value": "a battlefield or its aftermath"
+  },
+  {
+   "min": 85,
+   "max": 88,
+   "value": "winter court's guest wing"
+  },
+  {
+   "min": 89,
+   "max": 92,
+   "value": "a peasant longhouse"
+  },
+  {
+   "min": 93,
+   "max": 96,
+   "value": "a merchant's warehouse (samurai-fronted)"
+  },
+  {
+   "min": 97,
+   "max": 100,
+   "value": "the open road between provinces"
+  }
+ ],
+ "checksum": "sha256:90b13654daa87b10"
+}

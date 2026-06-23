@@ -1,0 +1,180 @@
+{
+ "id": "l5r.given_name",
+ "title": "L5R — Given Names",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "l5r-gm/bridge/generators/build.py",
+ "entries": [
+  {
+   "min": 1,
+   "max": 3,
+   "value": "Hotaru"
+  },
+  {
+   "min": 4,
+   "max": 6,
+   "value": "Kachiko"
+  },
+  {
+   "min": 7,
+   "max": 9,
+   "value": "Toshimoko"
+  },
+  {
+   "min": 10,
+   "max": 12,
+   "value": "Sukune"
+  },
+  {
+   "min": 13,
+   "max": 15,
+   "value": "Yoshi"
+  },
+  {
+   "min": 16,
+   "max": 18,
+   "value": "Tetsuko"
+  },
+  {
+   "min": 19,
+   "max": 21,
+   "value": "Satsume"
+  },
+  {
+   "min": 22,
+   "max": 24,
+   "value": "Sumiko"
+  },
+  {
+   "min": 25,
+   "max": 27,
+   "value": "Hatsue"
+  },
+  {
+   "min": 28,
+   "max": 30,
+   "value": "Akiro"
+  },
+  {
+   "min": 31,
+   "max": 33,
+   "value": "Hizashi"
+  },
+  {
+   "min": 34,
+   "max": 36,
+   "value": "Yuki"
+  },
+  {
+   "min": 37,
+   "max": 39,
+   "value": "Kasumi"
+  },
+  {
+   "min": 40,
+   "max": 42,
+   "value": "Eniko"
+  },
+  {
+   "min": 43,
+   "max": 45,
+   "value": "Genzo"
+  },
+  {
+   "min": 46,
+   "max": 48,
+   "value": "Hiroyuki"
+  },
+  {
+   "min": 49,
+   "max": 51,
+   "value": "Saburo"
+  },
+  {
+   "min": 52,
+   "max": 54,
+   "value": "Joji"
+  },
+  {
+   "min": 55,
+   "max": 57,
+   "value": "Tomiko"
+  },
+  {
+   "min": 58,
+   "max": 60,
+   "value": "Reiko"
+  },
+  {
+   "min": 61,
+   "max": 63,
+   "value": "Kenji"
+  },
+  {
+   "min": 64,
+   "max": 66,
+   "value": "Daichi"
+  },
+  {
+   "min": 67,
+   "max": 69,
+   "value": "Emi"
+  },
+  {
+   "min": 70,
+   "max": 72,
+   "value": "Naoki"
+  },
+  {
+   "min": 73,
+   "max": 75,
+   "value": "Aiko"
+  },
+  {
+   "min": 76,
+   "max": 78,
+   "value": "Haru"
+  },
+  {
+   "min": 79,
+   "max": 81,
+   "value": "Michiko"
+  },
+  {
+   "min": 82,
+   "max": 84,
+   "value": "Toku"
+  },
+  {
+   "min": 85,
+   "max": 87,
+   "value": "Shizue"
+  },
+  {
+   "min": 88,
+   "max": 90,
+   "value": "Renjiro"
+  },
+  {
+   "min": 91,
+   "max": 93,
+   "value": "Masako"
+  },
+  {
+   "min": 94,
+   "max": 96,
+   "value": "Goro"
+  },
+  {
+   "min": 97,
+   "max": 98,
+   "value": "Chiyo"
+  },
+  {
+   "min": 99,
+   "max": 100,
+   "value": "Ujimitsu"
+  }
+ ],
+ "checksum": "sha256:11056b51bcd0803c"
+}

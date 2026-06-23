@@ -16,25 +16,39 @@ active_set:
 
 ## Frame
 - **Premise / tone:**
-- **Adventure source:** Pure Mythic | Adventure Crafter | Prepared (`references/adventures/…`)
+- **Adventure source:** Pure Mythic | Adventure Crafter | Prepared (`l5r-gm/bridge/adventures/…`)
 - **Genre & stakes vocabulary:** samurai-drama — death / dishonor / seppuku / capture / ruin
 - **Resolution:** L5R roll-and-keep (l5r-gm) · oracle = Fate Chart (mythic-gm) | Fate Check
 - **Discipline:** HARDCORE (no softening; Peril Points OFF unless the player opts in)
-- **System profile:** `system-profile.md`   ·   **Setting canon:** `setting-canon.md`
+- **Engine & companion:** mythic-gm (engine) + l5r-gm `bridge/` (companion)
+  - **System profile (resolve):** `.claude/skills/l5r-gm/bridge/system-profile.md`
+  - **Setting canon:** `.claude/skills/l5r-gm/bridge/setting-canon.md` (Rokugan) + this folder's `setting-canon.md` (campaign)
+  - **Seed deck:** `seeds.md`   ·   **Archive:** `archive.md`
+
+## CURRENT ADVENTURE: <title>
+_Each adventure has its **own** Threads & Characters Lists and its own Theme priority. A **new
+adventure** begins when the current one's main Thread(s) Conclude (the Threads List empties) or the
+player declares one — then: roll new Themes (`adventure_crafter.py themes`, weighted by the bridge's
+`theme-weights.md`), start fresh Lists, carry over only still-relevant Characters/Threads, archive the rest._
+- **Adventure status:** active | concluding | concluded
+- **Theme priority (this adventure):** 1.Personal 2.Social 3.Tension 4.Mystery 5.Action  _(rolled from `theme-weights.md`)_
 
 ## Chaos Factor: 5
-_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic)_
+_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic — see `bridge/chaos-tendency.md`)_
 
-## Threads (open goals/vows; weighted, max 3 entries each)
+## Threads (this adventure; open goals/vows; weighted, max 3 entries each)
 1.
 
-## Characters & Factions (NPCs/forces — want — disposition; weighted, max 3 each; PC NOT listed)
+## Characters & Factions (this adventure; NPCs/forces — want — disposition; weighted, max 3 each; PC NOT listed)
 -
 
 ## Adventure Features (prepared-adventure mode only)
 -
 
-## Clocks (offscreen factions / threats / progress)
+## Campaign roster (persists across adventures: recurring NPCs, long arcs)
+-
+
+## Clocks (offscreen factions / threats / progress — advanced by `tick.py` at bookkeeping)
 -
 
 ## Overlays
@@ -43,7 +57,7 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic)_
 - **Peril Points:** OFF _(or: N remaining, player-invoked only)_
 
 ## Adventure Crafter state (crafter mode only)
-- Active Turning Point: —   ·   Theme priority: Action, Tension, Mystery, Social, Personal
+- Active Turning Point: —   ·   Theme priority: Personal, Social, Tension, Mystery, Action
 
 ## Current scene
 - **Where / when:**

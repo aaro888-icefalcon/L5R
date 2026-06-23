@@ -1,0 +1,181 @@
+{
+ "id": "l5r.family_name",
+ "title": "L5R — Family Names",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "l5r-gm/bridge/generators/build.py",
+ "entries": [
+  {
+   "min": 1,
+   "max": 3,
+   "value": "Hida"
+  },
+  {
+   "min": 4,
+   "max": 6,
+   "value": "Hiruma"
+  },
+  {
+   "min": 7,
+   "max": 9,
+   "value": "Kaiu"
+  },
+  {
+   "min": 10,
+   "max": 12,
+   "value": "Kuni"
+  },
+  {
+   "min": 13,
+   "max": 15,
+   "value": "Yasuki"
+  },
+  {
+   "min": 16,
+   "max": 18,
+   "value": "Doji"
+  },
+  {
+   "min": 19,
+   "max": 21,
+   "value": "Kakita"
+  },
+  {
+   "min": 22,
+   "max": 24,
+   "value": "Daidoji"
+  },
+  {
+   "min": 25,
+   "max": 27,
+   "value": "Asahina"
+  },
+  {
+   "min": 28,
+   "max": 30,
+   "value": "Togashi"
+  },
+  {
+   "min": 31,
+   "max": 33,
+   "value": "Mirumoto"
+  },
+  {
+   "min": 34,
+   "max": 36,
+   "value": "Kitsuki"
+  },
+  {
+   "min": 37,
+   "max": 39,
+   "value": "Agasha"
+  },
+  {
+   "min": 40,
+   "max": 42,
+   "value": "Akodo"
+  },
+  {
+   "min": 43,
+   "max": 45,
+   "value": "Matsu"
+  },
+  {
+   "min": 46,
+   "max": 48,
+   "value": "Kitsu"
+  },
+  {
+   "min": 49,
+   "max": 51,
+   "value": "Ikoma"
+  },
+  {
+   "min": 52,
+   "max": 54,
+   "value": "Isawa"
+  },
+  {
+   "min": 55,
+   "max": 57,
+   "value": "Shiba"
+  },
+  {
+   "min": 58,
+   "max": 60,
+   "value": "Asako"
+  },
+  {
+   "min": 61,
+   "max": 63,
+   "value": "Bayushi"
+  },
+  {
+   "min": 64,
+   "max": 66,
+   "value": "Shosuro"
+  },
+  {
+   "min": 67,
+   "max": 69,
+   "value": "Soshi"
+  },
+  {
+   "min": 70,
+   "max": 72,
+   "value": "Yogo"
+  },
+  {
+   "min": 73,
+   "max": 75,
+   "value": "Shinjo"
+  },
+  {
+   "min": 76,
+   "max": 78,
+   "value": "Moto"
+  },
+  {
+   "min": 79,
+   "max": 81,
+   "value": "Iuchi"
+  },
+  {
+   "min": 82,
+   "max": 84,
+   "value": "Utaku"
+  },
+  {
+   "min": 85,
+   "max": 87,
+   "value": "Ide"
+  },
+  {
+   "min": 88,
+   "max": 90,
+   "value": "Moshi"
+  },
+  {
+   "min": 91,
+   "max": 93,
+   "value": "Toritaka"
+  },
+  {
+   "min": 94,
+   "max": 96,
+   "value": "Yoritomo"
+  },
+  {
+   "min": 97,
+   "max": 98,
+   "value": "Tsuruchi"
+  },
+  {
+   "min": 99,
+   "max": 100,
+   "value": "Suzume"
+  }
+ ],
+ "checksum": "sha256:e3c353fb2bb60204",
+ "note": "Clan is a soft sort, never an actor-gate. Pair with given_name for a full name."
+}

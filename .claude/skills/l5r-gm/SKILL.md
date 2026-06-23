@@ -22,8 +22,15 @@ fantasy Japan of clans, honor, and the supernatural; you voice NPCs; and you adj
 duel, court intrigue, and mass battle at equal depth — and its soul is the tension between **giri**
 (duty) and **ninjō** (desire), tracked through **strife** and **honor**.
 
-This skill is **self-contained** (its own oracle and discipline) but **fully mythic-gm-compatible**: if
-mythic-gm is loaded, it owns scene pacing / the world oracle / plot, and you own all L5R resolution.
+This skill is **self-contained** (its own oracle and discipline) but is also the **companion** for the
+**mythic-gm** engine. It ships a **`bridge/`** (`./bridge/`) that fills the engine's hooks — so when
+mythic-gm (v2) is loaded it runs the scene / Chaos / Fate / Random-Event / Turning-Point loop and the
+no-softening discipline, while **l5r-gm owns all L5R resolution** (checks, the four conflicts,
+character-gen, techniques, adversaries). Standalone (no engine), this skill's own oracle ladder runs.
+
+> **Companion bridge for mythic-gm: `./bridge/`.** Manifest `bridge/bridge.md`; validate with
+> `python3 .claude/skills/mythic-gm/scripts/bridge.py validate .claude/skills/l5r-gm/bridge`.
+> Rebuild its generator tables with `python3 .claude/skills/l5r-gm/bridge/generators/build.py`.
 
 ---
 
