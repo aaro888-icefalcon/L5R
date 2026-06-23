@@ -3,25 +3,55 @@
 > The live deck of candidate beats (target 30–40) the GM draws on for scenes, Turning Points, and
 > Random Events. **Refreshed at every bookkeeping** from `.claude/skills/l5r-gm/bridge/seeds.md`
 > (campaign + Rokugan canon near the PC · live world state · random rolls on the bridge generators ·
-> L5R hooks). Consumed when used; replace to keep the deck full. _(Seeded from end-of-Scene-5 state.)_
+> L5R hooks). Consumed when used; replace to keep the deck full. _(Refreshed end of Scene 7 — on the road, Arc 2.)_
 
 ## Deck
-- **The long road back** from the First Yotogi's barrow — a week+ has passed; Scorpion and harvest movement waited while Akihiko was away.
-- **Gennai probes** — the escaped Scorpion spymaster knows Akihiko's face and that he hides something; he sends word, watches the roads, or moves first.
-- **The captured porter** — left bound on the hill "for the Kami to judge": frees himself / dies of exposure / is retrieved by Gennai — and remembers the Warden who abandoned him.
-- **The Scorpion cell acts on the leak** — handlers now hold the report that *a Falcon Warden rides the hills secretly*; they probe Toritaka lands while the marches seem open.
-- **Lord Hatsue's decline worsens** — she spends her sight on the deep Shinomen and awaits the First Ward; her court notices her withdrawal.
-- **The deep power, fixed on Akihiko** — does the Mark (contained) stir now that he bears the Mirror? Its one fear is the sun; he carries Lady Sun's fire.
+
+### The road home (Arc 2 — immediate)
+- **The herders' ford at dusk** — cross now in failing light onto an unseen far bank, or camp and lose a night to the clock.
+- **The far bank, going to shadow** — willow and reed; what waits in it (nothing / a watcher / outlaws / a spirit) is unknown until tested.
+- **The bridge-town downstream** *(novelty: "a bridge over a gorge or river")* — the proper crossing, with tea-houses, travelers, and an almost-certain Scorpion watcher and his purse of questions. Avoided — but it watches the river.
+- **Bandits / rōnin on the marches** *(novelty: "bandit / hinin outlaw")* — a hungry band works the back-tracks the company is using; the most interesting prey on the road is a small troop guarding "a holy relic."
+- **Haru** *(novelty name)* — a face met on the road: a desperate hinin, a frightened drover, a Falcon herder, or a Scorpion agent wearing one of those masks.
+- **A fellow Toritaka** *(novelty: family "Toritaka")* — a clan-kin patrol, messenger, or refugee crosses their path; news from home, or a claim on Akihiko's aid.
+- **The wrapped Mirror draws notice** — a curious ashigaru, an innkeeper's eyes, a beggar-priest who "feels" the holy weight; the secret strains to keep itself.
+- **The Mark vs. the borne Mirror** — does the contained Mark stir, or stay quiet, as he carries Lady Sun's relic? Its one fear is the sun; he holds the sun. (Beacon-blunting holding for now.)
+- **The dawn-rite on the road** — Akihiko's sun-hymn at first light clears strife and may wake something faint in the Mirror; a quiet moment the men watch.
+- **Weather / river in spate** — the brown, season-swollen river; a crossing gone wrong; a storm pinning the company.
+
+### The Scorpion / the leak (active clock)
+- **Gennai probes** — the escaped spymaster knows Akihiko's face and that he hides something; he sends word, watches the roads, or moves first.
+- **The Scorpion cell acts on the leak** — handlers hold the report that *a Falcon Warden rides the hills secretly*; they probe Toritaka lands while the marches seem open.
+- **The captured porter's fate returns** — freed / dead / retrieved by Gennai; if alive, he remembers the Warden who abandoned him "for the Kami to judge."
+- **Scorn of the Scorpion** — a door barred, a slight, a refused parley; the clan's standing grudge surfaces on the road.
+- **A Scorpion gambit at home** — the land-grab advances while Akihiko is away: a forged claim, a bribed magistrate, a "border incident."
+
+### The deep power / the spirit-dark (looming)
 - **The taken souls of Hibari Mura** — woven toward a purpose, not destroyed; reachable, perhaps, through the Mirror or the gate.
-- **Suzu** — the sole survivor, soul-shocked and sleeping, bonded to her rescuer; the only living witness to the village's fate; she may wake, speak, or be sought.
-- **The confirmed Imperial blood** — the Dawn Mirror named Akihiko kin to the line of Lady Sun; *how* is the live mystery, and others would kill or use him for it. Who senses it next?
-- **Jōji waiting outside the barrow** — what to tell him about what happened within (giri vs candor; a comrade's trust).
-- **The Mirror's binding-duty** — cure the mark, free the souls, bind the deep power: the long campaign ahead, willingly taken.
-- **Toritaka Yuki (grandmother)** — keeper of old family stories and, perhaps, the truth of the Imperial line.
-- **Family pull** — Akiro (devoted brother-healer), Hizashi (heretic sun-priest father), Sumiko (the family bedrock, carrier of the quiet Imperial claim).
-- **The Scattered Corps** — a distant comrade's call (Jōji near; Eniko, Genzō, Bara, Hiroyuki, Saburō, Kasumi far) on duty or in need.
-- **Clan friction** — Phoenix disdain for Moshi sun-worship; Scorpion scorn (doors barred to him); the Falcon's dismissed-Minor-Clan standing.
-- **Novelty rolls** (re-skinned to the road home / the marches): `generators/location.json`, `generators/family_name.json` + `given_name.json` + `npc_role.json` for a fresh place or person met en route.
+- **A new sign of the harvest** — another emptied hamlet, a fouled shrine, a cold portal tearing open near the road.
+- **The power reaches** — across a threshold, for Akihiko personally, despite the blunted beacon; the Mark aches near a breach.
+- **A spirit drawn to the Mark** — a lesser yūrei, gaki, or kitsune finds him on the haunted marches.
+- **The Mirror tested** — Akihiko probes what it can do (Theology/Meditation); it shows him something true and costly.
+
+### Home & the daimyō (the delivery)
+- **Lord Hatsue's decline worsens** — she spends her sight on the deep Shinomen and awaits the First Ward; her court notices her withdrawal.
+- **The report to Hatsue** — what he tells her, who else is in the room, and what she charges him with next (the binding, an open dawn).
+- **Suzu wakes / speaks** — the sole survivor, soul-shocked and bonded to her rescuer; the only living witness; she may wake, name a truth, or be sought.
+- **Akiro at home** — the devoted brother-healer tending Suzu; a bond that grounds Akihiko, or is endangered.
+- **Court at Kyūden Toritaka** — the intrigue waiting at home: who noticed the Warden's secret errand, who covets the relic, who suspects the blood.
+
+### Family, blood & belonging (Personal/Social themes)
+- **Seppun Yuki (grandmother)** — the scary matriarch, minor Imperial scion, keeper of the line's truth; she summons him, tests him, or shields him with Imperial weight.
+- **The Seppun blood honored or exploited** — a high-Status figure courts, claims, or resents Akihiko's Imperial thread; Blessed Lineage in play.
+- **Family pull** — Hizashi (heretic sun-priest father) with a theory about the Mirror; Sumiko (the family bedrock) with a quiet warning.
+- **The Scattered Corps** — a distant comrade's call (Eniko, Genzō, Bara, Hiroyuki, Saburō, Kasumi) on duty or in need; the binding-duty isolates him from them.
+- **Ninjō bites** — a moment that offers belonging at the price of the duty, or the duty at the price of belonging.
+- **Jōji's blunt counsel** — the senior Warden names a hard truth Akihiko is avoiding; loyalty that refuses to flatter.
+
+### Novelty / oracle hooks
+- **Novelty rolls** (re-skin to the road / the marches): `generators/location.json`, `generators/family_name.json` + `given_name.json` + `npc_role.json` for a fresh place or person met en route.
+- **A Fate Question's Random Event** — a doubles-≤-CF result chains a focus+meaning twist mid-scene; honor it.
 
 ## Recently consumed (this session)
-- _(none yet — Scene 5 closed; next bookkeeping refreshes from here)_
+- Scene 6 — the barrow morning / route-planning (Jōji sets the slow safe way).
+- Scene 7 — *Down to the Marches*: two days cautious travel (Expected; earned safety) → arrive at the herders' ford at dusk.
