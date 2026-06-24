@@ -4,12 +4,12 @@
   {
    "name": "Gennai (Scorpion spymaster)",
    "weight": 2,
-   "note": "Posed as a medicine-peddler; charming, sharp, escaped into the hills with his swordsman — wants the Falcon's secret; hostile, now exposed."
+   "note": "CAPTURED (Sc.9): his leak-bought ambush in the sunken lane smashed; Akihiko ran him down and maimed his sword-hand, handed him in irons to Matsu. A captured nemesis — interrogation, escape risk, and his masters' reaction all loom. Taunted about 'who else is listening on these roads.'"
   },
   {
    "name": "The Scorpion Clan",
    "weight": 2,
-   "note": "Seize Toritaka lands; their cell holds the leak and is moving — hostile / closing in."
+   "note": "Their ambush cell smashed & Gennai taken (Sc.9); the land-grab continues but now under Emerald Magistrate scrutiny — and they'll move to recover or silence Gennai. Hostile, bloodied, exposed to Imperial wrath."
   },
   {
    "name": "The power in the deep Shinomen",
@@ -33,8 +33,8 @@
   },
   {
    "name": "Matsu Toshimoko (Emerald Magistrate)",
-   "weight": 2,
-   "note": "Emerald Magistrate (Lion/Matsu), gray-templed, by-the-book; came to the marches over the silenced villages & the Scorpion border. Witnessed Akihiko free the husk-boy with sun-fire. Wary, duty-bound, DEFERRED not won over — rides to Kyūden Toritaka for Lord Hatsue's answers; 'resumes on the Emperor's terms' if they don't hold."
+   "weight": 3,
+   "note": "ALLY now (Sc.9): Akihiko handed her a live Scorpion agent, cracking her marches-investigation open; rides to Kyūden Toritaka as ally, not inquisitor — still owed Lord Hatsue's answers. Vowed the Scorpion will answer to the Throne for the ambush."
   },
   {
    "name": "The freed boy of Hibari Mura",

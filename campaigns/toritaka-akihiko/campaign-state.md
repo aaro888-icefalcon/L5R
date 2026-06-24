@@ -33,49 +33,49 @@ archive the rest._
 - **Adventure status:** **active** — Arc 1 (*The First Ward*) concluded as a capstone (the Dawn Mirror claimed, Imperial blood confirmed). Arc 2 opens with the journey home to deliver the Mirror to Lord Hatsue, through a week-stale, Scorpion-watched march — then the long work of wielding it (cure the mark · free the souls · bind the deep power).
 - **Theme priority (this adventure):** **Tension › Action › Social › Mystery › Personal** — stored in `adventure.json` (`state.py adventure show campaigns/toritaka-akihiko`); _rolled `adventure_crafter.py themes --style drama`, Arc 2 open._
 
-## Chaos Factor: 6
-_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 8: an Interrupt the deep power drove — a soul-harvest puppet ambushed the camp and the Falcon mask shattered (unmask); reactive & chaotic → +1, 5→6.)_
+## Chaos Factor: 5
+_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 9: ambushed in the sunken lane, but Akihiko seized control — slew a Scorpion, downed the duelist, ran down & captured Gennai, won the magistrate → in control by scene-end, −1, 6→5.)_
 
 ## Threads — snapshot of `threads.json` · GENERATED (edit the JSON + re-render; do not hand-edit)
 1. **The Dawn Mirror & the binding-duty (PRIMARY QUEST)** *(w3)* — *Asahi no Kagami*, claimed (Sc.5), now borne by Akihiko. Not a weapon — it BINDS the deep power in captured sunlight; can cure his mark & free the taken souls. Wake it: Akihiko's Sacred sun-fire at an open dawn, by a willing soul who takes the binding as a lasting duty (Akihiko, the chain's new anchor). Immediate: deliver it safely to Lord Hatsue.
 2. **The Mark — danger AND key (the leash)** *(w3)* — The power's hook in Akihiko (Marked by the Deep); CONTAINED but used as the conduit (Sc.8) to reach & sear the power — double-edged, proven both ways. The leash by which he may drag the power to the Mirror.
 3. **The power in the deep Shinomen** *(w2)* — Nameless, older than the Empire & the Kami; cannot be killed, only BOUND; its one fear is the sun. STUNG (Sc.8): Akihiko ran sun-fire up a soul-thread and wounded it — first hurt in 1200 years; it now knows his fire all the way down, fixed on him.
 4. **The taken souls of Hibari Mura** *(w2)* — Gathered & woven toward some purpose, NOT destroyed. PROVEN partly reclaimable (Sc.8): Akihiko's sun-fire severed one puppet-thread & freed a boy's body — the soul still in the deep (the Mirror is the full cure).
-5. **The leak / the Scorpion closing in** *(w2)* — Gennai got limited word out (a Falcon Warden rides the hills secretly) and escaped. The handlers now hold the report and are acting on it; expect a probe while the marches seem open.
+5. **The leak / the Scorpion closing in** *(w2)* — The Scorpion acted on it — and the ambush was DEFEATED, Gennai captured (Sc.9). Immediate threat foiled; but the broader word is out and the cell will react to losing him. Now entangled with the Emerald Magistrate's Scorpion investigation.
 6. **Ninjō — to truly belong** *(w2)* — The binding-duty sets Akihiko apart even as he longs for a place. Jōji named it: not an errand with an end — the relic delivers him.
 7. **Lord Hatsue's fraying mind** *(w1)* — Spending her sight on the threat; declining at home while Akihiko is away.
 8. **The Imperial (Seppun) blood — known heritage** *(w1)* — No buried secret: runs through grandmother Seppun Yuki (minor Imperial scion) → Sumiko → Akihiko, and grants the house a notch of extra Falcon standing. The Dawn Mirror recognized it. Still a thing high-Status others could exploit or resent.
 
 ## Characters & Factions — snapshot of `characters.json` · GENERATED (NPC/force — want — disposition; PC NOT listed)
-- **Gennai (Scorpion spymaster)** *(w2)* — Posed as a medicine-peddler; charming, sharp, escaped into the hills with his swordsman — wants the Falcon's secret; hostile, now exposed.
-- **The Scorpion Clan** *(w2)* — Seize Toritaka lands; their cell holds the leak and is moving — hostile / closing in.
+- **Gennai (Scorpion spymaster)** *(w2)* — CAPTURED (Sc.9): his leak-bought ambush in the sunken lane smashed; Akihiko ran him down and maimed his sword-hand, handed him in irons to Matsu. A captured nemesis — interrogation, escape risk, and his masters' reaction all loom. Taunted about 'who else is listening on these roads.'
+- **The Scorpion Clan** *(w2)* — Their ambush cell smashed & Gennai taken (Sc.9); the land-grab continues but now under Emerald Magistrate scrutiny — and they'll move to recover or silence Gennai. Hostile, bloodied, exposed to Imperial wrath.
 - **The power in the deep Shinomen** *(w2)* — Harvest souls / spread — malign, looming (quiet near the PC for now).
 - **Toritaka Jōji** *(w2)* — Akihiko's closest comrade-Warden, sworn confidant; senior to him; riding home at his side, blunt and loyal.
 - **Lord Toritaka Hatsue** *(w1)* — Hold the line via Akihiko — his lord & secret-sharer; fraying, declining.
 - **The captured porter** *(w1)* — Left bound on the hill 'for the Kami to judge' (days ago): freed himself, died, or retrieved by Gennai — and remembers the Warden who left him.
-- **Matsu Toshimoko (Emerald Magistrate)** *(w2)* — Emerald Magistrate (Lion/Matsu), gray-templed, by-the-book; came to the marches over the silenced villages & the Scorpion border. Witnessed Akihiko free the husk-boy with sun-fire. Wary, duty-bound, DEFERRED not won over — rides to Kyūden Toritaka for Lord Hatsue's answers; 'resumes on the Emperor's terms' if they don't hold.
+- **Matsu Toshimoko (Emerald Magistrate)** *(w3)* — ALLY now (Sc.9): Akihiko handed her a live Scorpion agent, cracking her marches-investigation open; rides to Kyūden Toritaka as ally, not inquisitor — still owed Lord Hatsue's answers. Vowed the Scorpion will answer to the Throne for the ambush.
 - **The freed boy of Hibari Mura** *(w1)* — A Hibari Mura reed-cutter the deep power puppeted across the ford; Akihiko severed the thread with Sacred sun-fire. Body alive & reclaimed, soul still gathered in the deep — soul-empty like Suzu.
 
 ## Adventure Features (prepared-adventure mode only)
 - n/a (Pure Mythic)
 
 ## Campaign roster (persists across adventures: recurring NPCs, long arcs — full detail in `setting-canon.md`)
-- **Gennai** — Scorpion spymaster; recurring antagonist who knows Akihiko's face and that he hides something.
+- **Gennai** — Scorpion spymaster; recurring antagonist who knows Akihiko's face and that he hides something. **CAPTURED (Sc.9)**, sword-hand maimed, in Matsu's irons — interrogation / escape / his masters' reaction all loom.
 - **Lord Toritaka Hatsue, "the Yotogi"** — Akihiko's lord, hard mentor, and secret-sharer; spending her sight on the deep Shinomen.
 - **Family** — Akiro (brother, apprentice healer), Hizashi (father, heretic Centipede sun-priest), Sumiko (mother; carrier of the Seppun blood), **Seppun Yuki** (grandmother; minor Imperial scion, family matriarch, keeper of the line's truth).
 - **Suzu** — sole survivor of Hibari Mura's soul-harvest; soul-shocked, bonded to her rescuer; the only living witness; recovering with Akiro at Kyūden Toritaka.
 - **Toritaka Jōji** — Akihiko's closest comrade-Warden; senior; rode to the barrow and home.
 - **The Scattered Corps** — healers & wardens of many clans bound to Akihiko by a past crisis; far apart on duty (Eniko, Genzō, Bara, Hiroyuki, Saburō, Kasumi).
-- **Matsu Toshimoko** — Emerald Magistrate (Lion); witnessed the ford and rides to Kyūden Toritaka for the daimyō's answers. Imperial law, wary, deferred not won.
+- **Matsu Toshimoko** — Emerald Magistrate (Lion); witnessed the ford, then the lane. **Now an ally (Sc.9)** after Akihiko handed her a live Scorpion; rides to Kyūden Toritaka, still owed Lord Hatsue's answers.
 - **The freed boy of Hibari Mura** — reclaimed from the deep power's puppetry by Akihiko's sun-fire; body alive, soul still taken (a second soul-shocked survivor, like Suzu).
 - **Long arcs:** the Seppun blood (who exploits or honors it); the Dawn Mirror's binding-duty (cure the mark · free the souls · bind the deep power).
 
-## Clocks (offscreen factions / threats / progress — advanced by `tick.py`; a night passed at the ford)
-- **The leak / Scorpion:** handlers acting on the report; the marches are being watched — though an Emerald Magistrate found Akihiko before the Scorpion did
-- **Scorpion land-grab scheme:** advancing — probing Toritaka lands while Akihiko is away; border tension now drawing Imperial attention
-- **Hatsue's decline:** worsening — and an Emerald Magistrate now rides to her gate demanding answers she may be too frayed to manage
-- **The Shinomen harvest:** active — the deep power spent reach to strike Akihiko at the ford and was **WOUNDED** (sun-fire up a soul-thread); repelled here, but fixed on him and aware his fire can hurt it
-- **NEW — Imperial scrutiny:** Matsu Toshimoko (Emerald Magistrate) rides with the company to Kyūden Toritaka; the secret errand & the Mirror are now under the Emperor's eye
+## Clocks (offscreen factions / threats / progress — advanced by `tick.py`; the morning of the road)
+- **The leak / Scorpion ambush:** **FOILED (Sc.9)** — the cell sprang the trap and lost: Gennai captured, his men dead/taken. The broader word is still out, but this gambit is spent.
+- **Scorpion land-grab scheme:** continues — but bloodied and now under an Emerald Magistrate's open investigation; expect them to move to recover or silence Gennai, and to feel Imperial heat.
+- **Hatsue's decline:** worsening — and an Emerald Magistrate now rides to her gate as an ally-investigator over a Scorpion attack on the Throne.
+- **The Shinomen harvest:** active — the deep power (WOUNDED at the ford) regroups offscreen; fixed on Akihiko, aware his fire can hurt it.
+- **Imperial scrutiny → alliance:** Matsu Toshimoko rides with the company, now an **ally** (Akihiko handed her a live Scorpion); still owed Lord Hatsue's answers; the Mirror/errand remain under her eye.
 
 ## Overlays
 - **Keyed Scenes:** none
@@ -85,11 +85,11 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 ## Adventure Crafter state (crafter mode only)
 - n/a (Pure Mythic)
 
-## Current scene — Scene 9: *The Sunken Lane* (Altered · Turning Point) — **IN PROGRESS (ambush sprung)**
-- **Where / when:** a sunken, brush-banked lane a few hours' ride from the ford, mid-morning, riding home.
-- **Last beat (2–3 sentences):** At dawn Akihiko tended the wounded — the watchman **Gorobei** will mend (ruined voice a week); the freed boy's body is stable but soul-empty (a second Suzu), bound to a horse. They rode out, Matsu Toshimoko at the flank. **Scene Test 1 vs CF 6 → Altered:** in a sunken lane the **Scorpion sprang the leak's trap** — a thrown blade killed the ashigaru **Haru**, and **Gennai's** voice demanded the bundle. Skirmish opening; Akihiko's sun-fire is useless here (it heals the living) — a cold-steel fight, with an Emerald Magistrate beside him.
-- **Akihiko's state:** strife **1/8**, fatigue **1/10**, Void 2/2; bears the Dawn Mirror; fire NOT lit (Katana of Fire scattered at the unmask). Honor 55 / Glory 38 / Status 36. XP 0.
-- **Stakes on the table now:** boxed in the defile — Haru dead, Gorobei & the soul-empty boy helpless mid-column, Scorpion on both banks with the high ground, Gennai demanding the Mirror. Defeat = the relic taken / capture / more dead. Wild card: Matsu Toshimoko (Emerald Magistrate) is caught in the trap too — the Scorpion just attacked the Emperor's law.
+## Current scene — Scene 9: *The Sunken Lane* (Altered · Turning Point) → **CLOSED (ambush broken, won)**
+- **Where / when:** a sunken, brush-banked lane a few hours from the ford, mid-morning → back on the road home.
+- **Last beat (2–3 sentences):** The Scorpion sprang the leak's trap (Haru killed). Akihiko's sun-fire was useless on living men, so he fought with steel + Biting Steel: slew a Scorpion, then duelled Gennai's elite swordsman — taking a maiming sword-arm wound and **UNMASKING** (strife reset) before downing him. He chased the fleeing **Gennai** up the bank, ran him down, **disabled & captured** him, and handed him to Matsu — who turned from inquisitor to **ally.**
+- **Akihiko's state:** strife **7/8** (running hot — needs the dawn-rite/meditation to clear), fatigue **6/10**, Void 2/2; **Wounded (sword-arm, field-bound)**; bears the Dawn Mirror; Glory **41**. Honor 55 / Status 36. XP 0 (tally at session-end).
+- **Stakes on the table now:** the road home resumes toward Kyūden Toritaka — a captive Scorpion in irons, an allied Emerald Magistrate at his side, Haru's body to carry home, his own wounds untended and strife near the cliff. Ahead: delivering the Mirror, Hatsue (failing) answering the Throne, the wounded power regrouping.
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer

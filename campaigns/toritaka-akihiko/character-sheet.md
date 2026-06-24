@@ -18,12 +18,12 @@
 - **Trade:** Survival 1 · Meditation 1
 
 ## Derived attributes
-- **Endurance** 10 (fatigue threshold) · current fatigue: 2 _(husk's cold Sc.8 +1; a Scorpion blade turned by his armor Sc.9 +1)_
-- **Composure** 8 (strife threshold) · current **strife: 1** ← *unmask if strife > composure*
+- **Endurance** 10 (fatigue threshold) · current fatigue: 6 _(Sc.9 ambush: the duel & the chase; tiring but far from spent)_
+- **Composure** 8 (strife threshold) · current **strife: 7** ← *unmask if strife > composure (running hot — clear with the dawn-rite/meditation)*
 - **Focus** 5 · **Vigilance** 2
 
 ## Social standing
-- **Honor** 55 · **Glory** 38 · **Status** 36  _(Glory +3, Sc.8: freed a child from a demon with holy fire before an Emerald Magistrate & her troop)_
+- **Honor** 55 · **Glory** 41 · **Status** 36  _(Glory +3 Sc.8 holy rescue; +3 Sc.9 — ran down & captured a Scorpion spymaster before an Emerald Magistrate)_
 
 ## Ninjō (desire) & Giri (duty) — the heart of the drama
 - **Ninjō — *To truly belong.*** Half-Falcon, half-Moshi, fully neither — and, secretly, of Imperial blood. He belongs more than any of them know, and cannot say so. He aches for true acceptance — or to prove he needs no one.
@@ -64,4 +64,5 @@
 - **Jade-inlaid field medicine kit** — a parting gift of the Scattered Corps; jade wards the Taint. *(keepsake, Q16)*
 - **★ Asahi no Kagami — the Dawn Mirror** *(gained Sc.5)* — a bronze disc, jade-rimmed, blessed by Amaterasu at the Empire's dawn. **Binds** (never kills) the deep-Shinomen power in captured sunlight; can cure his mark and free the taken souls. **Wakes to Akihiko's Sacred sun-fire at an open dawn**, by a willing soul who takes up the binding **as a lasting duty** (which Akihiko now has). It **recognized his Imperial blood** — confirming, beyond doubt, that the line of Amaterasu runs in him.
 
-## Conditions / injuries: none
+## Conditions / injuries
+- **Wounded (right sword-arm)** — a Scorpion wakizashi laid it open (Sc.9); field-bound. Melee strikes hampered (+1 strife when forcing a blow with it) until proper rest/tending.

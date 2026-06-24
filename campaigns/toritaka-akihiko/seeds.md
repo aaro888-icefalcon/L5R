@@ -8,7 +8,9 @@
 ## Deck
 
 ### The road home (Arc 2 — immediate)
-- **Riding with the Emerald Magistrate** — Matsu Toshimoko at his side to Kyūden Toritaka, the wrapped Mirror under her eye; days of careful talk, her questions, her watching.
+- **Riding with the now-allied Magistrate** — Matsu Toshimoko rides as ally, a captive Gennai in irons in the column; days of road talk, her Scorpion-investigation, and what she'll make of Lord Hatsue's answers.
+- **The Scorpion move to recover or silence Gennai** — a captured spymaster is a liability; expect a rescue, an assassination, or a deal — and Imperial heat now on the cell.
+- **Akihiko's untended wounds & hot strife** — sword-arm Wounded, strife 7/8; he needs a halt, the dawn-rite, and his own medicine before the next trouble finds him.
 - **The freed boy** — soul-empty in the company's care (a second Suzu); does he stir, speak a word from the deep, or fade? Tend him (Medicine), or bear him home to Akiro.
 - **The wounded power retaliates** — hurt for the first time in 1200 years and fixed on Akihiko; expect it to reach again, harder, or send worse than one puppet.
 - **The dawn-rite, now** — Akihiko's sun-hymn at first light (clears strife); and the Mirror stirred against a wounded enemy — does it answer differently now?
@@ -58,3 +60,4 @@
 - Scene 6 — the barrow morning / route-planning (Jōji sets the slow safe way).
 - Scene 7 — *Down to the Marches*: two days cautious travel (Expected; earned safety) → the herders' ford at dusk.
 - Scene 8 — *The Cold Crossing* (Interrupt): the deep power's puppet-boy ambush; Akihiko freed the boy & wounded the power (UNMASK); won Emerald Magistrate Matsu Toshimoko to a deferral.
+- Scene 9 — *The Sunken Lane* (Altered): the Scorpion's leak-trap ambush; Haru killed; Akihiko slew/downed the cell, took a sword-arm wound & UNMASKED, then ran down & **captured Gennai** — turning Matsu from inquisitor to ally.
