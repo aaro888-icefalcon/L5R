@@ -18,8 +18,8 @@
 - **Trade:** Survival 1 · Meditation 1
 
 ## Derived attributes
-- **Endurance** 10 (fatigue threshold) · current fatigue: 6 _(Sc.9 ambush: the duel & the chase; tiring but far from spent)_
-- **Composure** 8 (strife threshold) · current **strife: 7** ← *unmask if strife > composure (running hot — clear with the dawn-rite/meditation)*
+- **Endurance** 10 (fatigue threshold) · current fatigue: 0 _(rested over the 5-day ride home)_
+- **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife > composure (cleared by 5 days of dawn-rites on the road)*
 - **Focus** 5 · **Vigilance** 2
 
 ## Social standing
@@ -64,5 +64,4 @@
 - **Jade-inlaid field medicine kit** — a parting gift of the Scattered Corps; jade wards the Taint. *(keepsake, Q16)*
 - **★ Asahi no Kagami — the Dawn Mirror** *(gained Sc.5)* — a bronze disc, jade-rimmed, blessed by Amaterasu at the Empire's dawn. **Binds** (never kills) the deep-Shinomen power in captured sunlight; can cure his mark and free the taken souls. **Wakes to Akihiko's Sacred sun-fire at an open dawn**, by a willing soul who takes up the binding **as a lasting duty** (which Akihiko now has). It **recognized his Imperial blood** — confirming, beyond doubt, that the line of Amaterasu runs in him.
 
-## Conditions / injuries
-- **Wounded (right sword-arm)** — a Scorpion wakizashi laid it open (Sc.9); field-bound. Melee strikes hampered (+1 strife when forcing a blow with it) until proper rest/tending.
+## Conditions / injuries: none _(the Sc.9 sword-arm wound tended & healed over the ride — a fresh scar on the right forearm remains)_

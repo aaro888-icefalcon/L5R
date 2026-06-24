@@ -33,8 +33,8 @@ archive the rest._
 - **Adventure status:** **active** — Arc 1 (*The First Ward*) concluded as a capstone (the Dawn Mirror claimed, Imperial blood confirmed). Arc 2 opens with the journey home to deliver the Mirror to Lord Hatsue, through a week-stale, Scorpion-watched march — then the long work of wielding it (cure the mark · free the souls · bind the deep power).
 - **Theme priority (this adventure):** **Tension › Action › Social › Mystery › Personal** — stored in `adventure.json` (`state.py adventure show campaigns/toritaka-akihiko`); _rolled `adventure_crafter.py themes --style drama`, Arc 2 open._
 
-## Chaos Factor: 5
-_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 9: ambushed in the sunken lane, but Akihiko seized control — slew a Scorpion, downed the duelist, ran down & captured Gennai, won the magistrate → in control by scene-end, −1, 6→5.)_
+## Chaos Factor: 4
+_(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 10: an Expected, controlled ride home — recovery & safe arrival → −1, 5→4.)_
 
 ## Threads — snapshot of `threads.json` · GENERATED (edit the JSON + re-render; do not hand-edit)
 1. **The Dawn Mirror & the binding-duty (PRIMARY QUEST)** *(w3)* — *Asahi no Kagami*, claimed (Sc.5), now borne by Akihiko. Not a weapon — it BINDS the deep power in captured sunlight; can cure his mark & free the taken souls. Wake it: Akihiko's Sacred sun-fire at an open dawn, by a willing soul who takes the binding as a lasting duty (Akihiko, the chain's new anchor). Immediate: deliver it safely to Lord Hatsue.
@@ -70,12 +70,11 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 - **The freed boy of Hibari Mura** — reclaimed from the deep power's puppetry by Akihiko's sun-fire; body alive, soul still taken (a second soul-shocked survivor, like Suzu).
 - **Long arcs:** the Seppun blood (who exploits or honors it); the Dawn Mirror's binding-duty (cure the mark · free the souls · bind the deep power).
 
-## Clocks (offscreen factions / threats / progress — advanced by `tick.py`; the morning of the road)
-- **The leak / Scorpion ambush:** **FOILED (Sc.9)** — the cell sprang the trap and lost: Gennai captured, his men dead/taken. The broader word is still out, but this gambit is spent.
-- **Scorpion land-grab scheme:** continues — but bloodied and now under an Emerald Magistrate's open investigation; expect them to move to recover or silence Gennai, and to feel Imperial heat.
-- **Hatsue's decline:** worsening — and an Emerald Magistrate now rides to her gate as an ally-investigator over a Scorpion attack on the Throne.
-- **The Shinomen harvest:** active — the deep power (WOUNDED at the ford) regroups offscreen; fixed on Akihiko, aware his fire can hurt it.
-- **Imperial scrutiny → alliance:** Matsu Toshimoko rides with the company, now an **ally** (Akihiko handed her a live Scorpion); still owed Lord Hatsue's answers; the Mirror/errand remain under her eye.
+## Clocks (offscreen factions / threats / progress — advanced by `tick.py`; ~5 days passed, now at Kyūden Toritaka)
+- **Hatsue's decline → CRISIS:** **she is dying** — refused treatment and held on three days for Akihiko and the First Ward. The clock is at its end; her fate resolves now, on his arrival.
+- **Scorpion (post-ambush):** bloodied, Gennai captured; regrouping to recover/silence him and answer the Emerald scrutiny — no move on the road, but they will react.
+- **The Shinomen harvest:** active — the WOUNDED deep power regroups offscreen, fixed on Akihiko.
+- **Imperial scrutiny → alliance:** Matsu Toshimoko arrives an ally, captive Scorpion in hand — and her promised answers from Hatsue now collide with Hatsue's deathbed.
 
 ## Overlays
 - **Keyed Scenes:** none
@@ -85,11 +84,11 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 ## Adventure Crafter state (crafter mode only)
 - n/a (Pure Mythic)
 
-## Current scene — Scene 9: *The Sunken Lane* (Altered · Turning Point) → **CLOSED (ambush broken, won)**
-- **Where / when:** a sunken, brush-banked lane a few hours from the ford, mid-morning → back on the road home.
-- **Last beat (2–3 sentences):** The Scorpion sprang the leak's trap (Haru killed). Akihiko's sun-fire was useless on living men, so he fought with steel + Biting Steel: slew a Scorpion, then duelled Gennai's elite swordsman — taking a maiming sword-arm wound and **UNMASKING** (strife reset) before downing him. He chased the fleeing **Gennai** up the bank, ran him down, **disabled & captured** him, and handed him to Matsu — who turned from inquisitor to **ally.**
-- **Akihiko's state:** strife **7/8** (running hot — needs the dawn-rite/meditation to clear), fatigue **6/10**, Void 2/2; **Wounded (sword-arm, field-bound)**; bears the Dawn Mirror; Glory **41**. Honor 55 / Status 36. XP 0 (tally at session-end).
-- **Stakes on the table now:** the road home resumes toward Kyūden Toritaka — a captive Scorpion in irons, an allied Emerald Magistrate at his side, Haru's body to carry home, his own wounds untended and strife near the cliff. Ahead: delivering the Mirror, Hatsue (failing) answering the Throne, the wounded power regrouping.
+## Current scene — Scene 10: *The Long Road Home* (Expected) → **at the gates of Kyūden Toritaka**
+- **Where / when:** the Falcon's seat at dusk on the fifth day; mourning/sickroom lanterns at the keep's high windows.
+- **Last beat (2–3 sentences):** Scene Test 10 vs CF 5 → Expected: the ride home was merciful. Akihiko recovered fully — dawn-rites cleared his strife, rest mended fatigue, his Medicine healed the sword-arm to a scar; the Scorpion didn't try again; Matsu's alliance settled. At the gate, brother **Akiro** met him: **Lord Hatsue is dying**, has refused treatment, and has held on three days for Akihiko and the First Ward.
+- **Akihiko's state:** strife **0/8**, fatigue **0/10**, Void 2/2; sword-arm healed (scar); **bears the Dawn Mirror.** Honor 55 / Glory 41 / Status 36. XP 0 (tally at session-end).
+- **Stakes on the table now:** a dying daimyō in the high room waiting for him and the Mirror; an Emerald Magistrate at his shoulder owed answers; a captive Scorpion; the soul-empty boy & Haru's body to settle; family (Akiro, Suzu) at hand. First move at the threshold of home.
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer
