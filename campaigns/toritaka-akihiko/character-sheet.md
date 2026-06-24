@@ -18,7 +18,7 @@
 - **Trade:** Survival 1 · Meditation 1
 
 ## Derived attributes
-- **Endurance** 10 (fatigue threshold) · current fatigue: 1 _(the husk's cold, Sc.8)_
+- **Endurance** 10 (fatigue threshold) · current fatigue: 2 _(husk's cold Sc.8 +1; a Scorpion blade turned by his armor Sc.9 +1)_
 - **Composure** 8 (strife threshold) · current **strife: 1** ← *unmask if strife > composure*
 - **Focus** 5 · **Vigilance** 2
 
@@ -60,7 +60,7 @@
 
 ## Gear / koku
 - **3 koku**
-- Sanctified robes · **daishō** (katana + wakizashi) with ray-etched scabbard · **bō** (staff) · scroll satchel · traveling pack · religious texts
+- **Light lacquered field armor** [Physical 3] — worn on the mortal road · **Sanctified robes** [Physical 1 / **Supernatural 3**] — shugenja vestments, worn vs the spirit-dark (*only one armor's resistance applies at a time — choose loadout to the threat*) · **daishō** (katana + wakizashi) with ray-etched scabbard · **bō** (staff) · scroll satchel · traveling pack · religious texts
 - **Jade-inlaid field medicine kit** — a parting gift of the Scattered Corps; jade wards the Taint. *(keepsake, Q16)*
 - **★ Asahi no Kagami — the Dawn Mirror** *(gained Sc.5)* — a bronze disc, jade-rimmed, blessed by Amaterasu at the Empire's dawn. **Binds** (never kills) the deep-Shinomen power in captured sunlight; can cure his mark and free the taken souls. **Wakes to Akihiko's Sacred sun-fire at an open dawn**, by a willing soul who takes up the binding **as a lasting duty** (which Akihiko now has). It **recognized his Imperial blood** — confirming, beyond doubt, that the line of Amaterasu runs in him.
 
