@@ -54,6 +54,10 @@ def cmd_fate(odds, cf, mode=None, threads=0, characters=0, campaign=None, bridge
     print(f"   1d100 = {r}   (Yes if ≤{cell['yes_max']}; ExcYes ≤{cell['exc_yes_max']}; ExcNo ≥{cell['exc_no_min']})")
     print(f"   ANSWER: {ans}")
     print(f"   [src mythic.fate_chart]")
+    if not rule:
+        print("   ⚖ rung-4 WORLD oracle — NOT a PC's own action. Anything a PC *does* with a TN")
+        print("     (incl. invocations/rituals/kata/techniques) is a system CHECK; near-certain still")
+        print("     rolls — strife & opportunity are outputs. Roll it; don't narrate it unrolled.")
     if ev:
         print(f"   ⚡ RANDOM EVENT (doubles, digit {digit} ≤ CF {eff_cf}) — the answer above still stands:")
         # hard-coded chain: run the full Random Event right here

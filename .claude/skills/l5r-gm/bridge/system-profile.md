@@ -4,6 +4,17 @@
 > l5r-gm**; the engine defers world yes/no questions, scene framing, Chaos, random events,
 > and plot to itself. Precedence: this profile > rulebook > recollection.
 
+> **Operative digest:** *(the resolve imperative — surfaced by `bridge.py brief`, loaded at boot)*
+> - A PC *doing* anything with a **TN** is an **L5R CHECK** — `dice.py check --ring R --skill S --tn T`.
+>   This **includes invocations, rituals, kata, techniques, attacks, and skill uses**, not only "risky" ones.
+> - The trigger is **"has a TN," NOT "might fail."** **Roll even when success is near-certain** — because
+>   **strife (✷) and opportunity (●) are the live outputs of every roll**, and strife→**unmask** is the drama.
+>   Forfeiting them by narrating an effect unrolled is the failure to avoid.
+> - **Roll before you narrate:** state an invocation/technique's effect only after its check is shown in an
+>   `[Adjudication]` block.
+> - **Fate Questions are rung 4** — world facts the PC can't settle by acting. Never resolve a PC's own action with one.
+> - A check that opens a fight → the matching **conflict subsystem** (skirmish · duel · intrigue · mass battle).
+
 - **Dice convention:** L5R roll-and-keep custom dice (Ring d6 + Skill d12). Express a check as
   `python3 .claude/skills/l5r-gm/scripts/dice.py check --ring R --skill S --tn T`.
   (Generic dice, if ever needed: `dice.py roll 1d10`.)

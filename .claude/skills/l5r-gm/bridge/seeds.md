@@ -1,4 +1,9 @@
 # Seed Sources — Rokugan / L5R 5E   (hook: seeds)
+
+> **Operative digest:** Refresh the campaign seed deck to **30–40** candidate beats **every bookkeeping**, drawn
+> near the PC from canon, live world state, and honest generator rolls. Seeds are candidates, not scripted
+> events — the dice still decide if and how one fires.
+
 - deck size: 35            # 30–40 candidate beats kept ready for scenes / Turning Points / Random Events
 - refresh: each bookkeeping
 - sources (drawn near the PC, weighted toward what is live and proximate):

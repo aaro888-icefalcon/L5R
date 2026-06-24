@@ -29,8 +29,11 @@ campaign", a clan name, "duel/intrigue/skirmish/mass battle"):
 
 1. **Load both skills** and the bridge. Invoke **`l5r-gm`** (the L5R rules + the `bridge/`) and
    **`mythic-gm`** (the engine). The engine runs the play loop; at session start, load the
-   companion bridge: `python3 .claude/skills/mythic-gm/scripts/bridge.py summary
-   .claude/skills/l5r-gm/bridge` — use an override where present, else the engine default.
+   companion bridge — run **both** `bridge.py summary` (which hooks are overridden) **and
+   `bridge.py brief`** (the operative *imperatives* behind them — READ these into working context;
+   the summary only names the doors, `brief` opens them):
+   `python3 .claude/skills/mythic-gm/scripts/bridge.py brief .claude/skills/l5r-gm/bridge`
+   — use an override where present, else the engine default.
 2. **Find the campaign.** Look in `campaigns/`. If a campaign folder with a
    `campaign-state.md` exists, **continue it**. Otherwise run **Session Zero** to create one.
 3. **Follow the skills' play loop and discipline verbatim.** This file is the orchestrator and
@@ -128,8 +131,11 @@ matching subsystem) → apply strife/honor/conditions/clocks → **bookkeep**: C
 > the discipline that's merely *pointed to* (in `system-profile.md`) silently loses. So route **at the
 > moment of resolution**, every time:
 
-- **The PC *does* something uncertain → it is an L5R CHECK, not a Fate Question.**
-  `l5r-gm/scripts/dice.py check --ring R --skill S --tn T`. Strife is the price of success — foreground it.
+- **The PC *does* anything with a TN → it is an L5R CHECK, not a Fate Question.**
+  `l5r-gm/scripts/dice.py check --ring R --skill S --tn T`. **This includes invocations, rituals, kata,
+  techniques, attacks, and skill uses.** **"Uncertain" means *has a TN*, NOT *might fail*:** roll even when
+  success is near-certain — **strife (✷) and opportunity (●) are the live outputs**, and strife→unmask is the
+  drama. **Roll before you narrate** — never state an invocation/technique's effect before its `[Adjudication]`.
 - **A world fact the PC can't settle by acting → Fate Question** (`mythic-gm/scripts/dice.py fate …`).
   That is **rung 4**, not rung 1. *Never resolve a PC's action with a Fate Question.*
 - **An action opens a conflict → drop into the subsystem** (skirmish · duel · intrigue · mass battle).
@@ -138,7 +144,7 @@ matching subsystem) → apply strife/honor/conditions/clocks → **bookkeep**: C
 
 | In the fiction… | Fires |
 |---|---|
-| PC attempts anything with a real chance of failure | **L5R check** (ring+skill+TN); strife offered |
+| PC *does* anything with a **TN** — incl. invocation / ritual / kata / technique / attack / skill use | **L5R check** (`dice.py check`); **roll even if near-certain** — strife (✷) & opportunity (●) are the outputs |
 | Strife climbs past **composure** | **UNMASK** — the giri-vs-ninjō break; play it, don't skip it |
 | The PC's **anxiety / adversity / passion** is poked *(see `character-sheet.md`: Softheartedness on a kill-or-spare choice · Fear of Failure on a high-stakes check that would harm dependents · Scorn of the Scorpion on Scorpion rapport · Marked by the Deep near a breach/Taint · Sixth Sense near hidden spirits · Stories/Blessed Lineage)* | that disadvantage's **strife / reroll / Void** |
 | An oath sworn · a public act · dishonor · a notable deed | **Honor / Glory / Status** change |
@@ -166,6 +172,9 @@ This is the whole point — do not relax it to be agreeable:
 
 - **Every uncertain outcome is decided by a script and shown** in a `[Adjudication: …]` block.
   If you state an outcome you did not roll, you have failed. Never invent or estimate a result.
+- **Invocations, rituals, kata, techniques, and attacks are checks too.** Any PC action with a TN is rolled
+  and shown — *regardless of how likely it is to succeed* — because strife and opportunity are outputs of the
+  roll. Narrating a technique's effect before its check is shown is the same failure as inventing a result.
 - **Pre-commit the stakes before the roll. Roll before you narrate. Honor the oracle** — a No
   is a real No; a bad event is not "rescued."
 - **You roll; the player chooses** which dice to keep. **Player knowledge ≠ PC knowledge.**

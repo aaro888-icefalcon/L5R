@@ -1,4 +1,9 @@
 # Theme Weights — Rokugan / L5R 5E   (hook: themes; FIXED for the whole campaign)
+
+> **Operative digest:** Each new adventure rolls its 5 Theme priorities from these drama weights
+> (`adventure_crafter.py themes --style drama --campaign <dir>` → saved to adventure.json). Themes bias every
+> Turning Point; honor the rolled order — don't reorder them to steer the story.
+
 # Every adventure rolls its 5 Theme priorities from these weights (adventure_crafter.py themes).
 # Samurai drama: the giri/ninjō heart (Personal) and the court (Social) lead; honor & the
 # spirit-dark keep Tension high; mysteries of blood, omen, and scheme recur; violence is decisive
