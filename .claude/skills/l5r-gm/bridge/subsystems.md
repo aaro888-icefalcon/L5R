@@ -2,6 +2,13 @@
 # The offscreen world keeps moving while the PC acts. At bookkeeping, tick.py reports which
 # are DUE this scene; the engine then advances each honestly (roll a table / tick a clock /
 # ask a Fate Question) and records it to campaign-state.md.
+
+> **Operative digest:** Run `tick.py <bridge> <scene#>` **every bookkeeping — mandatory, not optional.**
+> For each DUE subsystem advance it with an honest, shown roll (clock +1 / table / Fate Question) and record it
+> to `campaign-state.md`: offscreen clocks (every scene), rival clan schemes (q3 scenes), faction standing (on
+> public acts → Glory/Status), the spirit-dark/Taint (every scene in haunted regions), season & duty (when time
+> passes). Silently skipping the tick stalls the offscreen world — that is a discipline failure.
+
 | subsystem            | cadence            | advance by |
 |----------------------|--------------------|-----------|
 | Offscreen clocks     | every scene        | tick each open Clock in campaign-state +1 toward its outcome; at full → it happens (resolve honestly) |

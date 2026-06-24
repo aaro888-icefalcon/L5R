@@ -8,7 +8,7 @@
   {
    "min": 1,
    "max": 8,
-   "value": "Conclusion"
+   "value": "Conclusion (ends the Thread if an Advancement)"
   },
   {
    "min": 9,
@@ -23,12 +23,12 @@
   {
    "min": 27,
    "max": 27,
-   "value": "A Non-Lethal Way A Needed Resource Runs Out"
+   "value": "A Needed Resource Runs Out"
   },
   {
    "min": 28,
    "max": 28,
-   "value": "An Unknown Source Impending Doom"
+   "value": "Impending Doom"
   },
   {
    "min": 29,
@@ -48,7 +48,7 @@
   {
    "min": 33,
    "max": 33,
-   "value": "In A Lethal Way Do It, Or Else"
+   "value": "Do It, Or Else"
   },
   {
    "min": 34,
@@ -58,7 +58,7 @@
   {
    "min": 35,
    "max": 35,
-   "value": "From A Known Source Catastrophe"
+   "value": "Catastrophe"
   },
   {
    "min": 36,
@@ -78,12 +78,14 @@
   {
    "min": 40,
    "max": 40,
-   "value": "A Character Disappears"
+   "value": "A Character Disappears",
+   "char": true
   },
   {
    "min": 41,
    "max": 41,
-   "value": "Hunted"
+   "value": "Hunted",
+   "char": true
   },
   {
    "min": 42,
@@ -108,12 +110,14 @@
   {
    "min": 46,
    "max": 46,
-   "value": "Betrayal!"
+   "value": "Betrayal!",
+   "char": true
   },
   {
    "min": 47,
    "max": 47,
-   "value": "A Character Is Incapacitated"
+   "value": "A Character Is Incapacitated",
+   "char": true
   },
   {
    "min": 48,
@@ -138,12 +142,14 @@
   {
    "min": 53,
    "max": 53,
-   "value": "Dead"
+   "value": "Dead",
+   "char": true
   },
   {
    "min": 54,
    "max": 54,
-   "value": "Suspicion"
+   "value": "Suspicion",
+   "char": true
   },
   {
    "min": 55,
@@ -158,12 +164,14 @@
   {
    "min": 57,
    "max": 58,
-   "value": "A Character Is Diminished"
+   "value": "A Character Is Diminished",
+   "char": true
   },
   {
    "min": 59,
    "max": 59,
-   "value": "Enemies"
+   "value": "Enemies",
+   "char": true
   },
   {
    "min": 60,
@@ -173,7 +181,7 @@
   {
    "min": 61,
    "max": 61,
-   "value": "A Crucial Life Support"
+   "value": "A Crucial Life Support System Begins To Fail"
   },
   {
    "min": 62,
@@ -188,7 +196,8 @@
   {
    "min": 64,
    "max": 64,
-   "value": "Sole Survivor"
+   "value": "Sole Survivor",
+   "char": true
   },
   {
    "min": 65,
@@ -233,7 +242,7 @@
   {
    "min": 78,
    "max": 79,
-   "value": "It’s A Trap!"
+   "value": "It's A Trap!"
   },
   {
    "min": 80,
@@ -243,7 +252,7 @@
   {
    "min": 82,
    "max": 83,
-   "value": "A Needed Resource"
+   "value": "A Needed Resource Is Running Short"
   },
   {
    "min": 84,
@@ -278,7 +287,8 @@
   {
    "min": 93,
    "max": 93,
-   "value": "A New Enemy"
+   "value": "A New Enemy",
+   "char": true
   },
   {
    "min": 94,
@@ -292,15 +302,10 @@
   },
   {
    "min": 96,
-   "max": 99,
-   "value": "Roll on the Meta Plot Points Table"
-  },
-  {
-   "min": 100,
    "max": 100,
-   "value": "96- 96- 96- 96- 96- Meta"
+   "value": "Roll on the Meta Plot Points Table"
   }
  ],
- "note": "1-8 Conclusion (if advancement); 9-24 None; 96-100 Meta. Names may carry minor wrap artifacts; ranges are authoritative.",
- "checksum": "sha256:fbde61d810ad1c92"
+ "note": "1-8 Conclusion (if advancement); 9-24 None; 96-100 Meta. Names hand-verified from canon. entries with char=true invoke the Characters List.",
+ "checksum": "sha256:862243a4d91dd37d"
 }

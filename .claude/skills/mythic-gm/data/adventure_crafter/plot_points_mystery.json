@@ -8,7 +8,7 @@
   {
    "min": 1,
    "max": 8,
-   "value": "Conclusion"
+   "value": "Conclusion (ends the Thread if an Advancement)"
   },
   {
    "min": 9,
@@ -23,7 +23,7 @@
   {
    "min": 27,
    "max": 28,
-   "value": "Useful Information From"
+   "value": "Useful Information From An Unknown Source"
   },
   {
    "min": 29,
@@ -33,12 +33,13 @@
   {
    "min": 31,
    "max": 32,
-   "value": "A Character Disappears"
+   "value": "A Character Disappears",
+   "char": true
   },
   {
    "min": 33,
    "max": 33,
-   "value": "This Isn’t Working"
+   "value": "This Isn't Working"
   },
   {
    "min": 34,
@@ -58,12 +59,12 @@
   {
    "min": 38,
    "max": 39,
-   "value": "Useful Information"
+   "value": "Useful Information From A Known Source"
   },
   {
    "min": 40,
    "max": 40,
-   "value": "Cryptic Information"
+   "value": "Cryptic Information From A Known Source"
   },
   {
    "min": 41,
@@ -83,7 +84,7 @@
   {
    "min": 46,
    "max": 47,
-   "value": "It’s A Secret"
+   "value": "It's A Secret"
   },
   {
    "min": 48,
@@ -93,7 +94,8 @@
   {
    "min": 49,
    "max": 49,
-   "value": "The Observer"
+   "value": "The Observer",
+   "char": true
   },
   {
    "min": 50,
@@ -103,22 +105,25 @@
   {
    "min": 51,
    "max": 52,
-   "value": "System Begins To Fail Liar!"
+   "value": "Liar!",
+   "char": true
   },
   {
    "min": 53,
    "max": 53,
-   "value": "A Character Acts Out Of Character"
+   "value": "A Character Acts Out Of Character",
+   "char": true
   },
   {
    "min": 54,
    "max": 54,
-   "value": "Dead"
+   "value": "Dead",
+   "char": true
   },
   {
    "min": 55,
    "max": 56,
-   "value": "From An Unknown Source Mystery Solved"
+   "value": "Mystery Solved"
   },
   {
    "min": 57,
@@ -128,7 +133,8 @@
   {
    "min": 58,
    "max": 59,
-   "value": "Suspicion"
+   "value": "Suspicion",
+   "char": true
   },
   {
    "min": 60,
@@ -148,12 +154,12 @@
   {
    "min": 65,
    "max": 65,
-   "value": "A Crucial Life Support"
+   "value": "A Crucial Life Support System Begins To Fail"
   },
   {
    "min": 66,
    "max": 67,
-   "value": "Cryptic Information"
+   "value": "Cryptic Information From An Unknown Source"
   },
   {
    "min": 68,
@@ -163,7 +169,8 @@
   {
    "min": 70,
    "max": 70,
-   "value": "Not Their Master"
+   "value": "Not Their Master",
+   "char": true
   },
   {
    "min": 71,
@@ -178,7 +185,7 @@
   {
    "min": 75,
    "max": 75,
-   "value": "An Object Of"
+   "value": "An Object Of Unknown Use Is Found"
   },
   {
    "min": 76,
@@ -198,7 +205,8 @@
   {
    "min": 79,
    "max": 80,
-   "value": "The Hidden Hand"
+   "value": "The Hidden Hand",
+   "char": true
   },
   {
    "min": 81,
@@ -218,7 +226,8 @@
   {
    "min": 85,
    "max": 85,
-   "value": "A Mysterious New Person"
+   "value": "A Mysterious New Person",
+   "char": true
   },
   {
    "min": 86,
@@ -228,7 +237,8 @@
   {
    "min": 87,
    "max": 88,
-   "value": "Someone Is Where"
+   "value": "Someone Is Where They Should Not Be",
+   "char": true
   },
   {
    "min": 89,
@@ -257,15 +267,10 @@
   },
   {
    "min": 96,
-   "max": 99,
-   "value": "Roll on the Meta Plot Points Table"
-  },
-  {
-   "min": 100,
    "max": 100,
-   "value": "96- 96- 96- 96- 96- Meta"
+   "value": "Roll on the Meta Plot Points Table"
   }
  ],
- "note": "1-8 Conclusion (if advancement); 9-24 None; 96-100 Meta. Names may carry minor wrap artifacts; ranges are authoritative.",
- "checksum": "sha256:a1fe9e87c19bd4c0"
+ "note": "1-8 Conclusion (if advancement); 9-24 None; 96-100 Meta. Names hand-verified from canon. entries with char=true invoke the Characters List.",
+ "checksum": "sha256:671abfdfa0f7eead"
 }

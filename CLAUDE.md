@@ -29,8 +29,11 @@ campaign", a clan name, "duel/intrigue/skirmish/mass battle"):
 
 1. **Load both skills** and the bridge. Invoke **`l5r-gm`** (the L5R rules + the `bridge/`) and
    **`mythic-gm`** (the engine). The engine runs the play loop; at session start, load the
-   companion bridge: `python3 .claude/skills/mythic-gm/scripts/bridge.py summary
-   .claude/skills/l5r-gm/bridge` — use an override where present, else the engine default.
+   companion bridge — run **both** `bridge.py summary` (which hooks are overridden) **and
+   `bridge.py brief`** (the operative *imperatives* behind them — READ these into working context;
+   the summary only names the doors, `brief` opens them):
+   `python3 .claude/skills/mythic-gm/scripts/bridge.py brief .claude/skills/l5r-gm/bridge`
+   — use an override where present, else the engine default.
 2. **Find the campaign.** Look in `campaigns/`. If a campaign folder with a
    `campaign-state.md` exists, **continue it**. Otherwise run **Session Zero** to create one.
 3. **Follow the skills' play loop and discipline verbatim.** This file is the orchestrator and
@@ -121,12 +124,57 @@ matching subsystem) → apply strife/honor/conditions/clocks → **bookkeep**: C
 
 ---
 
+## ⚖️ Resolution discipline — STOP at rung 1 *before* you reach for the oracle
+
+> Why this is here, loud, in the always-on doc: a **Fate Question is an in-hand, tooled move you run
+> every turn**; the **L5R check is the correct-but-passive** one. Under load the salient tool wins and
+> the discipline that's merely *pointed to* (in `system-profile.md`) silently loses. So route **at the
+> moment of resolution**, every time:
+
+- **The PC *does* anything with a TN → it is an L5R CHECK, not a Fate Question.**
+  `l5r-gm/scripts/dice.py check --ring R --skill S --tn T`. **This includes invocations, rituals, kata,
+  techniques, attacks, and skill uses.** **"Uncertain" means *has a TN*, NOT *might fail*:** roll even when
+  success is near-certain — **strife (✷) and opportunity (●) are the live outputs**, and strife→unmask is the
+  drama. **Roll before you narrate** — never state an invocation/technique's effect before its `[Adjudication]`.
+- **A world fact the PC can't settle by acting → Fate Question** (`mythic-gm/scripts/dice.py fate …`).
+  That is **rung 4**, not rung 1. *Never resolve a PC's action with a Fate Question.*
+- **An action opens a conflict → drop into the subsystem** (skirmish · duel · intrigue · mass battle).
+
+**Trigger list — when this shows up in the fiction, the mechanic fires (don't wait to remember it):**
+
+| In the fiction… | Fires |
+|---|---|
+| PC *does* anything with a **TN** — incl. invocation / ritual / kata / technique / attack / skill use | **L5R check** (`dice.py check`); **roll even if near-certain** — strife (✷) & opportunity (●) are the outputs |
+| Strife climbs past **composure** | **UNMASK** — the giri-vs-ninjō break; play it, don't skip it |
+| The PC's **anxiety / adversity / passion** is poked *(see `character-sheet.md`: Softheartedness on a kill-or-spare choice · Fear of Failure on a high-stakes check that would harm dependents · Scorn of the Scorpion on Scorpion rapport · Marked by the Deep near a breach/Taint · Sixth Sense near hidden spirits · Stories/Blessed Lineage)* | that disadvantage's **strife / reroll / Void** |
+| An oath sworn · a public act · dishonor · a notable deed | **Honor / Glory / Status** change |
+| A spirit/world yes-no the PC can't act on | **Fate Question** (rung 4) — *then* interpret |
+
+## ✅ Per-scene bookkeeping checklist — run at every scene end; none are optional
+1. **Triggers cleared?** Did any anxiety/adversity/passion fire this scene (above)? Apply its strife/effect.
+2. **State applied?** strife → composure (**unmask?**) · honor/glory/status · conditions · resources · clocks.
+3. **World-tick:** `python3 .claude/skills/mythic-gm/scripts/tick.py .claude/skills/l5r-gm/bridge <scene#>`.
+4. **Lists — edit the JSON, then regenerate the snapshot (never hand-edit the snapshot):**
+   `state.py thread|char …` (weight) · `render_lists.py set-note …` (prose) → then
+   `python3 .claude/skills/l5r-gm/scripts/render_lists.py render campaigns/<slug> --in-place`
+   (verify with `… render campaigns/<slug> --check`).
+5. **Chaos** ±1.   6. **Seeds** refreshed to 30–40.   7. **Self-audit.**   8. **Overwrite `campaign-state.md`.**
+
+> **On resume / after context summarization:** re-read `character-sheet.md` (the PC's triggers) and the
+> bridge's `system-profile.md`. The rules you *read once* decay; the loop you *run* stays hot — so reload
+> the load-bearing imperatives, don't trust them to still be in context.
+
+---
+
 ## Honest dice & the discipline (non-negotiable)
 
 This is the whole point — do not relax it to be agreeable:
 
 - **Every uncertain outcome is decided by a script and shown** in a `[Adjudication: …]` block.
   If you state an outcome you did not roll, you have failed. Never invent or estimate a result.
+- **Invocations, rituals, kata, techniques, and attacks are checks too.** Any PC action with a TN is rolled
+  and shown — *regardless of how likely it is to succeed* — because strife and opportunity are outputs of the
+  roll. Narrating a technique's effect before its check is shown is the same failure as inventing a result.
 - **Pre-commit the stakes before the roll. Roll before you narrate. Honor the oracle** — a No
   is a real No; a bad event is not "rescued."
 - **You roll; the player chooses** which dice to keep. **Player knowledge ≠ PC knowledge.**
@@ -174,15 +222,36 @@ python3 .claude/skills/mythic-gm/scripts/dice.py table \
         .claude/skills/l5r-gm/bridge/generators/family_name.json                             # roll a bridge table (honest)
 
 # ── Oracle / pacing / plot (mythic-gm — the engine owns this) ────────────────
-python3 .claude/skills/mythic-gm/scripts/dice.py fate <Odds> <CF>               # Fate Question (yes/no; auto-chains a Random Event)
+python3 .claude/skills/mythic-gm/scripts/dice.py fate <Odds> <CF> [--campaign campaigns/<slug>]   # Fate Question (auto-chains a Random Event; --campaign rolls the JSON Lists)
 python3 .claude/skills/mythic-gm/scripts/dice.py scene <CF>                     # Scene Test (Adventure Crafter always on)
-python3 .claude/skills/mythic-gm/scripts/oracle.py event --threads N --characters M [--crafter]   # full Random Event chain
-python3 .claude/skills/mythic-gm/scripts/oracle.py character                    # new NPC (Character Crafter)
-python3 .claude/skills/mythic-gm/scripts/adventure_crafter.py themes --style drama            # roll the adventure's Themes
-python3 .claude/skills/mythic-gm/scripts/adventure_crafter.py turning-point --plotlines N --characters M
+python3 .claude/skills/mythic-gm/scripts/oracle.py event --campaign campaigns/<slug> [--crafter]   # full Random Event chain (reads threads.json/characters.json)
+python3 .claude/skills/mythic-gm/scripts/oracle.py character --campaign campaigns/<slug> --bridge .claude/skills/l5r-gm/bridge   # new NPC (L5R role + AC Crafter)
+python3 .claude/skills/mythic-gm/scripts/oracle.py thread-list    --campaign campaigns/<slug>   # two-stage Thread invoke (NEW/PRE-EXISTING/CHOOSE)
+python3 .claude/skills/mythic-gm/scripts/oracle.py character-list --campaign campaigns/<slug> --bridge .claude/skills/l5r-gm/bridge   # Character invoke (a NEW auto-generates)
+python3 .claude/skills/mythic-gm/scripts/adventure_crafter.py themes --style drama --campaign campaigns/<slug>   # roll & save the adventure's Themes → adventure.json
+python3 .claude/skills/mythic-gm/scripts/adventure_crafter.py turning-point --campaign campaigns/<slug> [--existing]   # Turning Point (themes+tens from adventure.json)
 python3 .claude/skills/mythic-gm/scripts/state.py chaos <+1|-1> <CF>            # adjust Chaos Factor
 python3 .claude/skills/mythic-gm/scripts/tick.py .claude/skills/l5r-gm/bridge <scene#>        # world-tick (bookkeeping)
+
+# ── The JSON Lists (Threads / Characters / adventure config — the dice roll THESE, any length) ──
+python3 .claude/skills/mythic-gm/scripts/state.py thread add|weight|remove|show campaigns/<slug> "<name>"   # manage threads.json (weight = re-add, max 3)
+python3 .claude/skills/mythic-gm/scripts/state.py char   add|weight|remove|show campaigns/<slug> "<name>"   # manage characters.json
+python3 .claude/skills/mythic-gm/scripts/state.py adventure show|set-themes campaigns/<slug> [A,B,C,D,E]     # Theme priority + tens counter (adventure.json)
+python3 .claude/skills/mythic-gm/scripts/state.py list-count campaigns/<slug>                                # weighted-slot counts
+python3 .claude/skills/mythic-gm/scripts/state.py migrate  campaigns/<slug>                                  # one-time: build the JSON Lists from an old markdown state
+# the snapshot is GENERATED from the JSON — never hand-edit it (companion tool):
+python3 .claude/skills/l5r-gm/scripts/render_lists.py render   campaigns/<slug> --in-place               # regenerate the Markdown snapshot FROM the JSON (kills drift)
+python3 .claude/skills/l5r-gm/scripts/render_lists.py render   campaigns/<slug> --check                  # drift detector: exit 1 if snapshot ≠ JSON
+python3 .claude/skills/l5r-gm/scripts/render_lists.py set-note campaigns/<slug> thread|character "<name>" "<note>"   # set an entry's prose (JSON stays the single source)
 ```
+
+> **Lists are JSON — the single source of truth.** Each campaign's Threads/Characters Lists and Theme
+> priority live in `threads.json` · `characters.json` · `adventure.json` (the machine-rollable source the
+> dice roll over, any length; entries carry `{name, weight, note}`). The `## Threads` /
+> `## Characters & Factions` sections in `campaign-state.md` are a **GENERATED** view — **never hand-edit
+> them.** Edit the JSON (`state.py thread|char|adventure` for weight/themes, `render_lists.py set-note`
+> for prose), then `render_lists.py render … --in-place`; the snapshot can't drift because it's derived,
+> not synced by hand. A NEW Character result auto-generates one (L5R role generator + AC Crafter) via the bridge.
 
 Fate odds: `Certain` · `"Nearly Certain"` · `"Very Likely"` · `Likely` · `50/50` · `Unlikely` ·
 `"Very Unlikely"` · `"Nearly Impossible"` · `Impossible`.

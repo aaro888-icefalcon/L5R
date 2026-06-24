@@ -28,18 +28,26 @@ active_set:
 ## CURRENT ADVENTURE: <title>
 _Each adventure has its **own** Threads & Characters Lists and its own Theme priority. A **new
 adventure** begins when the current one's main Thread(s) Conclude (the Threads List empties) or the
-player declares one — then: roll new Themes (`adventure_crafter.py themes`, weighted by the bridge's
-`theme-weights.md`), start fresh Lists, carry over only still-relevant Characters/Threads, archive the rest._
+player declares one — then: roll new Themes (`adventure_crafter.py themes --style drama --campaign <dir>`,
+weighted by the bridge's `theme-weights.md`), clear the Threads List, carry over only still-relevant
+Characters/Threads, archive the rest._
 - **Adventure status:** active | concluding | concluded
-- **Theme priority (this adventure):** 1.Personal 2.Social 3.Tension 4.Mystery 5.Action  _(rolled from `theme-weights.md`)_
+- **Theme priority (this adventure):** in `adventure.json` (`state.py adventure show <dir>`) — _rolled from `theme-weights.md`_
+
+> **The Lists are JSON — the single source of truth.** Threads/Characters Lists + Theme priority live
+> in `threads.json` · `characters.json` · `adventure.json` (entries carry `{name, weight, note}`; the
+> dice roll over them, any length). `state.py init` scaffolds them; set weight/themes with `state.py
+> thread|char|adventure …` and prose with `render_lists.py set-note …`. The `## Threads` /
+> `## Characters & Factions` sections below are a **GENERATED** view — **never hand-edit them**;
+> regenerate with `l5r-gm/scripts/render_lists.py render <dir> --in-place` (drift-check: `… --check`).
 
 ## Chaos Factor: 5
 _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic — see `bridge/chaos-tendency.md`)_
 
-## Threads (this adventure; open goals/vows; weighted, max 3 entries each)
+## Threads — snapshot of `threads.json` · GENERATED (edit the JSON + re-render; do not hand-edit)
 1.
 
-## Characters & Factions (this adventure; NPCs/forces — want — disposition; weighted, max 3 each; PC NOT listed)
+## Characters & Factions — snapshot of `characters.json` · GENERATED (NPC/force — want — disposition; PC NOT listed)
 -
 
 ## Adventure Features (prepared-adventure mode only)

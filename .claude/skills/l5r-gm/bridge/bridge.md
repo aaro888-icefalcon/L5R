@@ -22,6 +22,10 @@ l5r-gm's) scripts — honest, shown, cited. Unfilled hooks (e.g. adventure-inges
     "subsystems": "subsystems.md",
     "seeds": "seeds.md",
     "canon": "setting-canon.md"
+  },
+  "generators_map": {
+    "character": { "mode": "conjunction", "table": "generators/npc_role.json",
+                   "note": "re-skin to Rokugan: give the NPC a clan/family and flesh from setting-canon factions; build a rival with l5r-gm npc.py if it must fight or scheme" }
   }
 }
 ```

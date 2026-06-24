@@ -1,5 +1,9 @@
 # Interpretation & GM Lens — Rokugan / L5R 5E   (hook: meaning)
 
+> **Operative digest:** Read every oracle result (Fate answer, Meaning pair, Random Event, NPC behavior) as
+> **samurai drama in Rokugan** — honor the raw result first, *then* re-skin to clan / giri-ninjō / honor / face.
+> A No is a real No; a bad event is not rescued. NPCs read setting-true, competent, and act to win.
+
 Broad GM-craft for **Rokugan**. NOT a reskin table — read this on every interpretation/NPC moment
 so oracle results and NPC behavior come out setting-true, competent, and dramatically L5R.
 
