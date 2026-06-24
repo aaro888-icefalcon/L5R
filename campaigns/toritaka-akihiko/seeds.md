@@ -8,8 +8,10 @@
 ## Deck
 
 ### The road home (Arc 2 — immediate)
-- **The herders' ford at dusk** — cross now in failing light onto an unseen far bank, or camp and lose a night to the clock.
-- **The far bank, going to shadow** — willow and reed; what waits in it (nothing / a watcher / outlaws / a spirit) is unknown until tested.
+- **Riding with the Emerald Magistrate** — Matsu Toshimoko at his side to Kyūden Toritaka, the wrapped Mirror under her eye; days of careful talk, her questions, her watching.
+- **The freed boy** — soul-empty in the company's care (a second Suzu); does he stir, speak a word from the deep, or fade? Tend him (Medicine), or bear him home to Akiro.
+- **The wounded power retaliates** — hurt for the first time in 1200 years and fixed on Akihiko; expect it to reach again, harder, or send worse than one puppet.
+- **The dawn-rite, now** — Akihiko's sun-hymn at first light (clears strife); and the Mirror stirred against a wounded enemy — does it answer differently now?
 - **The bridge-town downstream** *(novelty: "a bridge over a gorge or river")* — the proper crossing, with tea-houses, travelers, and an almost-certain Scorpion watcher and his purse of questions. Avoided — but it watches the river.
 - **Bandits / rōnin on the marches** *(novelty: "bandit / hinin outlaw")* — a hungry band works the back-tracks the company is using; the most interesting prey on the road is a small troop guarding "a holy relic."
 - **Haru** *(novelty name)* — a face met on the road: a desperate hinin, a frightened drover, a Falcon herder, or a Scorpion agent wearing one of those masks.
@@ -54,4 +56,5 @@
 
 ## Recently consumed (this session)
 - Scene 6 — the barrow morning / route-planning (Jōji sets the slow safe way).
-- Scene 7 — *Down to the Marches*: two days cautious travel (Expected; earned safety) → arrive at the herders' ford at dusk.
+- Scene 7 — *Down to the Marches*: two days cautious travel (Expected; earned safety) → the herders' ford at dusk.
+- Scene 8 — *The Cold Crossing* (Interrupt): the deep power's puppet-boy ambush; Akihiko freed the boy & wounded the power (UNMASK); won Emerald Magistrate Matsu Toshimoko to a deferral.

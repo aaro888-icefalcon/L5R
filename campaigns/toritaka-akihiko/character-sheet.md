@@ -18,12 +18,12 @@
 - **Trade:** Survival 1 · Meditation 1
 
 ## Derived attributes
-- **Endurance** 10 (fatigue threshold) · current fatigue: 0
+- **Endurance** 10 (fatigue threshold) · current fatigue: 1 _(the husk's cold, Sc.8)_
 - **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife > composure*
 - **Focus** 5 · **Vigilance** 2
 
 ## Social standing
-- **Honor** 55 · **Glory** 35 · **Status** 36
+- **Honor** 55 · **Glory** 38 · **Status** 36  _(Glory +3, Sc.8: freed a child from a demon with holy fire before an Emerald Magistrate & her troop)_
 
 ## Ninjō (desire) & Giri (duty) — the heart of the drama
 - **Ninjō — *To truly belong.*** Half-Falcon, half-Moshi, fully neither — and, secretly, of Imperial blood. He belongs more than any of them know, and cannot say so. He aches for true acceptance — or to prove he needs no one.
