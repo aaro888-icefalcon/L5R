@@ -19,7 +19,7 @@
 
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 1 _(the husk's cold, Sc.8)_
-- **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife > composure*
+- **Composure** 8 (strife threshold) · current **strife: 1** ← *unmask if strife > composure*
 - **Focus** 5 · **Vigilance** 2
 
 ## Social standing

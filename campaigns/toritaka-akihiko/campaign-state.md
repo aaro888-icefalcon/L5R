@@ -85,11 +85,11 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 ## Adventure Crafter state (crafter mode only)
 - n/a (Pure Mythic)
 
-## Current scene — Scene 8: *The Cold Crossing* (Interrupt · Turning Point) → **CLOSED**
-- **Where / when:** the herders' ford, the dead of night → toward grey dawn; a cold camp on the near bank.
-- **Last beat (2–3 sentences):** The deep power thinned the Mark's containment and sent a *puppeted Hibari Mura boy* up out of the ford to kill Akihiko (its terror is the sun, so it used a victim he couldn't burn). An Emerald Magistrate's patrol on the far bank rallied to him. He cast Katana of Fire + Biting Steel, *missed* a kill-stroke (his school ability won't let his fire harm the innocent), then chose to **sear the soul-thread** with Sacred fire — freeing the boy's body and WOUNDING the power, at the cost of the Falcon mask (UNMASK; strife → 0). He then won the magistrate to a deferral.
-- **Akihiko's state:** strife **0** (post-unmask), fatigue **1/10**, Void 2/2; Marked (contained, used as a conduit). **Bears the Dawn Mirror.** Honor 55 / Glory **38** (witnessed holy deed) / Status 36. XP 0.
-- **Stakes on the table now:** the road home resumes — now with **Matsu Toshimoko, Emerald Magistrate, at his side**, the wrapped Mirror under her eye, and a daimyō who must satisfy the Emperor's law without spilling a secret meant for "three mouths." A soul-empty freed boy and a half-throttled (alive) watchman to tend; Hatsue failing; the Scorpion still out there; the deep power now wounded and fixated.
+## Current scene — Scene 9: *The Sunken Lane* (Altered · Turning Point) — **IN PROGRESS (ambush sprung)**
+- **Where / when:** a sunken, brush-banked lane a few hours' ride from the ford, mid-morning, riding home.
+- **Last beat (2–3 sentences):** At dawn Akihiko tended the wounded — the watchman **Gorobei** will mend (ruined voice a week); the freed boy's body is stable but soul-empty (a second Suzu), bound to a horse. They rode out, Matsu Toshimoko at the flank. **Scene Test 1 vs CF 6 → Altered:** in a sunken lane the **Scorpion sprang the leak's trap** — a thrown blade killed the ashigaru **Haru**, and **Gennai's** voice demanded the bundle. Skirmish opening; Akihiko's sun-fire is useless here (it heals the living) — a cold-steel fight, with an Emerald Magistrate beside him.
+- **Akihiko's state:** strife **1/8**, fatigue **1/10**, Void 2/2; bears the Dawn Mirror; fire NOT lit (Katana of Fire scattered at the unmask). Honor 55 / Glory 38 / Status 36. XP 0.
+- **Stakes on the table now:** boxed in the defile — Haru dead, Gorobei & the soul-empty boy helpless mid-column, Scorpion on both banks with the high ground, Gennai demanding the Mirror. Defeat = the relic taken / capture / more dead. Wild card: Matsu Toshimoko (Emerald Magistrate) is caught in the trap too — the Scorpion just attacked the Emperor's law.
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer
