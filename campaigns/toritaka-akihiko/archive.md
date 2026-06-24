@@ -4,7 +4,9 @@
 > it lean. The campaign's memory — kept for callbacks and continuity.
 
 ## Concluded Threads (with how they ended)
-- _(none yet — Arc 1 closed as a capstone, but its Threads remain open: the Mirror's duty, the Mark, the deep power, the taken souls, the Scorpion, belonging, Hatsue, the Imperial blood.)_
+- **Ninjō — *To truly belong*** — **concluded Sc.11**: the dying Yotogi named Akihiko *"the other inheritance,"* the clan's ward & anchor — he belongs now, truly and irrevocably, at the price of being the thing the Mirror consumes. (A new ninjō to be chosen in play.)
+- **Lord Hatsue's fraying mind** — **concluded Sc.11** by her death: never madness — she had spent two years of her sight staring down the deep power so the Warden she chose could grow into facing it. Her watch ended; the cost was paid in full. (See her character entry below.)
+- **The Falcon's fate — the Lion protectorate (independence vs survival)** — **transformed Sc.12**, not closed: the binary "sign or refuse" became an *investigation* — Chiyo refused to be rushed, suspecting the protectorate was engineered, and set Akihiko to find the hand. Now lives as the threads "The Lion-lie — who engineered the Falcon's surrender?" and "The hand inside the walls."
 
 ## Dead / departed Characters
 - **Toritaka Genkō — "the Keeper of the Barrow"** — the bound grave-fire spirit (an ancient Falcon watchman set by the First Yotogi) who guarded the Dawn Mirror for 1200 years. **Mercy-killed by Akihiko with Lady Sun's fire (Scene 5)** before the deep power's rot could turn him — the bargain kept, against Akihiko's Softheartedness; he passed whole.

@@ -2,49 +2,59 @@
  "kind": "character",
  "entries": [
   {
-   "name": "Gennai (Scorpion spymaster)",
-   "weight": 2,
-   "note": "CAPTURED (Sc.9): his leak-bought ambush in the sunken lane smashed; Akihiko ran him down and maimed his sword-hand, handed him in irons to Matsu. A captured nemesis — interrogation, escape risk, and his masters' reaction all loom. Taunted about 'who else is listening on these roads.'"
+   "name": "Toritaka Chiyo (Lady of the Falcon / Clan Champion)",
+   "weight": 3,
+   "note": "Hatsue's eldest; iron-willed, the scariest of Akihiko's peers; NEW Lady of the Falcon (Sc.11). Made Akihiko her **yoriki** (Sc.12) with a three-part charge — the Mirror's price, the Lion-lie's forger, and watching her own blind side. Calls him hers, not the clan's; named the 'cousin'/vassal distinction deliberate elevated trust. Hides a specific FEAR she walled off hard (see thread). Akihiko's LORD now."
   },
   {
-   "name": "The Scorpion Clan",
+   "name": "Gennai (Scorpion spymaster) — silenced",
    "weight": 2,
-   "note": "Their ambush cell smashed & Gennai taken (Sc.9); the land-grab continues but now under Emerald Magistrate scrutiny — and they'll move to recover or silence Gennai. Hostile, bloodied, exposed to Imperial wrath."
+   "note": "Captured Sc.9 (sword-hand maimed), held in Kyūden Toritaka's cellar — then SILENCED overnight after Sc.12 by an inside Scorpion hand before Akihiko could interrogate him. The lead cut; now a corpse and a method to inspect, and proof the enemy walks the halls. -> toward archive once the morning scene resolves him."
   },
   {
-   "name": "The power in the deep Shinomen",
+   "name": "Ikoma Naoki (Lion diplomat)",
    "weight": 2,
-   "note": "Harvest souls / spread — malign, looming (quiet near the PC for now)."
+   "note": "NEW (Sc.12, named by Chiyo). The velvet courtier who carried the Lion protectorate to Ujiyasu three times, brushwork too polished for a thing dreamt up in a panic. The Lion FACE of the lie — genuine Lion grasping a real opening, or a mouth with another hand up the back of it? The first thread of the Lion-lie investigation now that the cellar lead is dead. Not yet met."
   },
   {
-   "name": "Toritaka Jōji",
+   "name": "Toritaka Yoshi (leader of the Yotogi priests)",
    "weight": 2,
-   "note": "Akihiko's closest comrade-Warden, sworn confidant; senior to him; riding home at his side, blunt and loyal."
-  },
-  {
-   "name": "The captured porter",
-   "weight": 1,
-   "note": "Left bound on the hill 'for the Kami to judge' (days ago): freed himself, died, or retrieved by Gennai — and remembers the Warden who left him."
+   "note": "NEW (Sc.12). Head of the Falcon's spirit-warding priesthood; Akihiko handed him the Dawn Mirror for safekeeping & study. Keeper of the binding-lore now — the natural ally in hunting a way to wield the Mirror that doesn't consume its anchor (Chiyo's charge #1)."
   },
   {
    "name": "Matsu Toshimoko (Emerald Magistrate)",
-   "weight": 3,
-   "note": "ALLY now (Sc.9): Akihiko handed her a live Scorpion agent, cracking her marches-investigation open; rides to Kyūden Toritaka as ally, not inquisitor — still owed Lord Hatsue's answers. Vowed the Scorpion will answer to the Throne for the ambush."
-  },
-  {
-   "name": "The freed boy of Hibari Mura",
-   "weight": 1,
-   "note": "A Hibari Mura reed-cutter the deep power puppeted across the ford; Akihiko severed the thread with Sacred sun-fire. Body alive & reclaimed, soul still gathered in the deep — soul-empty like Suzu."
-  },
-  {
-   "name": "Toritaka Chiyo (new Lady of the Falcon)",
    "weight": 2,
-   "note": "Hatsue's eldest daughter; tough-as-nails, the scariest of Akihiko's peers; NEW Lady of the Falcon (the seat). Leans on Akihiko's steadiness in the crisis. Carrying something hidden (see thread). Holds the deal-decision."
+   "note": "ALLY (Sc.9) — Akihiko handed her a live Scorpion, cracking her marches-investigation. A LION magistrate, now an awkward asset for a probe into a Lion-benefiting plot; owed the new Lady's account (Hatsue, whom she rode to answer, is dead). Vowed the Scorpion answer to the Throne for the ambush."
   },
   {
    "name": "Toritaka Ujiyasu (karō)",
    "weight": 1,
-   "note": "The clan's karō (seneschal); aged, ran the household for generations. A frightened pragmatist, NOT wicked — negotiated the Lion protectorate to save a drowning clan. Deferred to morning; will press the deal again."
+   "note": "The clan's aged seneschal; a frightened pragmatist, NOT wicked — the unwitting door the Lion-lie walked through. Chiyo won't break the old man (lose the door, never learn who used it). A dupe to be read, not punished."
+  },
+  {
+   "name": "Toritaka Jōji",
+   "weight": 2,
+   "note": "Akihiko's closest comrade-Warden, sworn confidant; senior to him; rode to the barrow and home. Blunt, loyal — the man who names the hard truth Akihiko is avoiding."
+  },
+  {
+   "name": "The Scorpion Clan",
+   "weight": 2,
+   "note": "Bloodied but ruthless: smashed at the lane (Sc.9), yet reached into a Champion's cellar to murder their own exposed agent rather than let him talk (Sc.12). The land-grab continues under Imperial scrutiny; a hand of theirs is inside Kyūden Toritaka. Hostile, exposed, patient."
+  },
+  {
+   "name": "The power in the deep Shinomen",
+   "weight": 2,
+   "note": "Harvest souls / spread — malign, looming; wounded by Akihiko's fire and fixed on him; regrouping quietly offscreen (no new sign the night of Sc.12)."
+  },
+  {
+   "name": "The freed boy of Hibari Mura",
+   "weight": 1,
+   "note": "A reed-cutter the deep power puppeted across the ford; Akihiko severed the thread with Sacred sun-fire. Body alive & reclaimed, soul still gathered in the deep — soul-empty like Suzu; recovering at Kyūden Toritaka."
+  },
+  {
+   "name": "The captured porter",
+   "weight": 1,
+   "note": "Gennai's courier, left bound on the hill 'for the Kami to judge' (days ago): freed himself, died, or retrieved — and remembers the Warden who left him. A dangling loose end on the marches."
   }
  ]
 }
