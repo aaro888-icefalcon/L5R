@@ -28,18 +28,25 @@ active_set:
 ## CURRENT ADVENTURE: <title>
 _Each adventure has its **own** Threads & Characters Lists and its own Theme priority. A **new
 adventure** begins when the current one's main Thread(s) Conclude (the Threads List empties) or the
-player declares one — then: roll new Themes (`adventure_crafter.py themes`, weighted by the bridge's
-`theme-weights.md`), start fresh Lists, carry over only still-relevant Characters/Threads, archive the rest._
+player declares one — then: roll new Themes (`adventure_crafter.py themes --style drama --campaign <dir>`,
+weighted by the bridge's `theme-weights.md`), clear the Threads List, carry over only still-relevant
+Characters/Threads, archive the rest._
 - **Adventure status:** active | concluding | concluded
-- **Theme priority (this adventure):** 1.Personal 2.Social 3.Tension 4.Mystery 5.Action  _(rolled from `theme-weights.md`)_
+- **Theme priority (this adventure):** in `adventure.json` (`state.py adventure show <dir>`) — _rolled from `theme-weights.md`_
+
+> **The Lists are JSON-backed.** Threads/Characters Lists + Theme priority live in `threads.json` ·
+> `characters.json` · `adventure.json` — the machine-rollable source of truth the dice roll over (any
+> length). `state.py init` scaffolds them; manage with `state.py thread|char add|weight|remove|show
+> <dir> "<name>"` and `state.py adventure set-themes <dir> A,B,C,D,E`. The `## Threads` /
+> `## Characters & Factions` sections below are the human-readable **snapshot** — keep them roughly in sync.
 
 ## Chaos Factor: 5
 _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic — see `bridge/chaos-tendency.md`)_
 
-## Threads (this adventure; open goals/vows; weighted, max 3 entries each)
+## Threads (snapshot of `threads.json`; open goals/vows; weight = re-add, max 3)
 1.
 
-## Characters & Factions (this adventure; NPCs/forces — want — disposition; weighted, max 3 each; PC NOT listed)
+## Characters & Factions (snapshot of `characters.json`; NPCs/forces — want — disposition; weight = re-add, max 3; PC NOT listed)
 -
 
 ## Adventure Features (prepared-adventure mode only)

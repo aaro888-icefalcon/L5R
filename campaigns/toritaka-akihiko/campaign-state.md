@@ -31,12 +31,12 @@ begins when the current one's main Thread(s) Conclude or the player declares one
 from `bridge/theme-weights.md`, start fresh Lists, carry over still-relevant Characters/Threads,
 archive the rest._
 - **Adventure status:** **active** — Arc 1 (*The First Ward*) concluded as a capstone (the Dawn Mirror claimed, Imperial blood confirmed). Arc 2 opens with the journey home to deliver the Mirror to Lord Hatsue, through a week-stale, Scorpion-watched march — then the long work of wielding it (cure the mark · free the souls · bind the deep power).
-- **Theme priority (this adventure):** **Tension › Action › Social › Mystery › Personal** _(rolled `adventure_crafter.py themes --style drama`, Arc 2 open)_
+- **Theme priority (this adventure):** **Tension › Action › Social › Mystery › Personal** — stored in `adventure.json` (`state.py adventure show campaigns/toritaka-akihiko`); _rolled `adventure_crafter.py themes --style drama`, Arc 2 open._
 
 ## Chaos Factor: 5
 _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 6: the barrow morning / route-planning ran calm and controlled → −1, 6→5.)_
 
-## Threads (open goals/vows; weighted; carry into the next adventure)
+## Threads — snapshot of `threads.json` (open goals/vows; weight = re-add, max 3; the dice roll the JSON)
 1. **The Dawn Mirror & the binding-duty (PRIMARY QUEST)** *(w3)* — *Asahi no Kagami*, claimed (Sc.5), now borne by Akihiko. **Not a weapon — it BINDS** the deep power in captured sunlight; can cure his mark & free the taken souls. **Wake it:** Akihiko's Sacred sun-fire, at an **open dawn**, by a willing soul who takes the binding **as a lasting duty** (Akihiko, now the chain's new anchor). **Immediate:** deliver it safely to Lord Hatsue.
 2. **The Mark — danger AND key** *(w3)* — the power's hook in Akihiko (**Marked by the Deep**); *double-edged*; **CONTAINED** (Sc.4, beacon blunted — quiet on the road so far). **The leash** by which he may drag the power to the Mirror to bind it.
 3. **The power in the deep Shinomen** *(w2)* — nameless, older than the Empire & the Kami; beneath the forest's heart (north). **CANNOT be killed — only BOUND; its one fear is the sun.** Harvests souls to loose its 1200-year binding; fixed on Akihiko personally.
@@ -46,7 +46,7 @@ _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. 
 7. **Lord Hatsue's fraying mind** *(w1)* — spending her sight on the threat; declining at home while Akihiko is away.
 8. **The Imperial (Seppun) blood — KNOWN heritage** *(w1)* — no buried secret: it runs through grandmother **Seppun Yuki** (minor scion of the Imperial guardian-family) → mother Sumiko → Akihiko, and grants the house a notch of extra Falcon standing. The Dawn Mirror recognized it. Still a thing high-Status others could exploit or resent.
 
-## Characters & Factions (NPC/force — want — disposition; weighted; PC NOT listed)
+## Characters & Factions — snapshot of `characters.json` (NPC/force — want — disposition; weight = re-add, max 3; PC NOT listed)
 - **Gennai** *(w2)* — Scorpion spymaster posing as a medicine-peddler; charming, sharp, **escaped into the hills** with his swordsman — wants the Falcon's secret; **hostile, now exposed**
 - **The Scorpion Clan** *(w2)* — seize Toritaka lands; their cell holds the leak and is moving — **hostile / closing in**
 - **The power in the deep Shinomen** *(w2)* — harvest souls / spread — malign, looming (quiet near the PC for now)

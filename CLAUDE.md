@@ -174,15 +174,30 @@ python3 .claude/skills/mythic-gm/scripts/dice.py table \
         .claude/skills/l5r-gm/bridge/generators/family_name.json                             # roll a bridge table (honest)
 
 # ── Oracle / pacing / plot (mythic-gm — the engine owns this) ────────────────
-python3 .claude/skills/mythic-gm/scripts/dice.py fate <Odds> <CF>               # Fate Question (yes/no; auto-chains a Random Event)
+python3 .claude/skills/mythic-gm/scripts/dice.py fate <Odds> <CF> [--campaign campaigns/<slug>]   # Fate Question (auto-chains a Random Event; --campaign rolls the JSON Lists)
 python3 .claude/skills/mythic-gm/scripts/dice.py scene <CF>                     # Scene Test (Adventure Crafter always on)
-python3 .claude/skills/mythic-gm/scripts/oracle.py event --threads N --characters M [--crafter]   # full Random Event chain
-python3 .claude/skills/mythic-gm/scripts/oracle.py character                    # new NPC (Character Crafter)
-python3 .claude/skills/mythic-gm/scripts/adventure_crafter.py themes --style drama            # roll the adventure's Themes
-python3 .claude/skills/mythic-gm/scripts/adventure_crafter.py turning-point --plotlines N --characters M
+python3 .claude/skills/mythic-gm/scripts/oracle.py event --campaign campaigns/<slug> [--crafter]   # full Random Event chain (reads threads.json/characters.json)
+python3 .claude/skills/mythic-gm/scripts/oracle.py character --campaign campaigns/<slug> --bridge .claude/skills/l5r-gm/bridge   # new NPC (L5R role + AC Crafter)
+python3 .claude/skills/mythic-gm/scripts/oracle.py thread-list    --campaign campaigns/<slug>   # two-stage Thread invoke (NEW/PRE-EXISTING/CHOOSE)
+python3 .claude/skills/mythic-gm/scripts/oracle.py character-list --campaign campaigns/<slug> --bridge .claude/skills/l5r-gm/bridge   # Character invoke (a NEW auto-generates)
+python3 .claude/skills/mythic-gm/scripts/adventure_crafter.py themes --style drama --campaign campaigns/<slug>   # roll & save the adventure's Themes → adventure.json
+python3 .claude/skills/mythic-gm/scripts/adventure_crafter.py turning-point --campaign campaigns/<slug> [--existing]   # Turning Point (themes+tens from adventure.json)
 python3 .claude/skills/mythic-gm/scripts/state.py chaos <+1|-1> <CF>            # adjust Chaos Factor
 python3 .claude/skills/mythic-gm/scripts/tick.py .claude/skills/l5r-gm/bridge <scene#>        # world-tick (bookkeeping)
+
+# ── The JSON Lists (Threads / Characters / adventure config — the dice roll THESE, any length) ──
+python3 .claude/skills/mythic-gm/scripts/state.py thread add|weight|remove|show campaigns/<slug> "<name>"   # manage threads.json (weight = re-add, max 3)
+python3 .claude/skills/mythic-gm/scripts/state.py char   add|weight|remove|show campaigns/<slug> "<name>"   # manage characters.json
+python3 .claude/skills/mythic-gm/scripts/state.py adventure show|set-themes campaigns/<slug> [A,B,C,D,E]     # Theme priority + tens counter (adventure.json)
+python3 .claude/skills/mythic-gm/scripts/state.py list-count campaigns/<slug>                                # weighted-slot counts
+python3 .claude/skills/mythic-gm/scripts/state.py migrate  campaigns/<slug>                                  # one-time: build the JSON Lists from an old markdown state
 ```
+
+> **Lists are JSON now.** Each campaign's Threads/Characters Lists and Theme priority live in
+> `threads.json` · `characters.json` · `adventure.json` (the machine-rollable source of truth the dice
+> roll over, any length). The `## Threads` / `## Characters & Factions` sections in `campaign-state.md`
+> are a human-readable **snapshot** — edit the JSON via `state.py thread|char|adventure`. A NEW
+> Character result auto-generates one (the L5R role generator + AC Character Crafter), via the bridge.
 
 Fate odds: `Certain` · `"Nearly Certain"` · `"Very Likely"` · `Likely` · `50/50` · `Unlikely` ·
 `"Very Unlikely"` · `"Nearly Impossible"` · `Impossible`.

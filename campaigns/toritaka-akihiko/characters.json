@@ -1,0 +1,29 @@
+{
+ "kind": "character",
+ "entries": [
+  {
+   "name": "Gennai (Scorpion spymaster)",
+   "weight": 2
+  },
+  {
+   "name": "The Scorpion Clan",
+   "weight": 2
+  },
+  {
+   "name": "The power in the deep Shinomen",
+   "weight": 2
+  },
+  {
+   "name": "Toritaka Jōji",
+   "weight": 2
+  },
+  {
+   "name": "Lord Toritaka Hatsue",
+   "weight": 1
+  },
+  {
+   "name": "The captured porter",
+   "weight": 1
+  }
+ ]
+}
