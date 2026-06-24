@@ -22,11 +22,6 @@
    "note": "Akihiko's closest comrade-Warden, sworn confidant; senior to him; riding home at his side, blunt and loyal."
   },
   {
-   "name": "Lord Toritaka Hatsue",
-   "weight": 1,
-   "note": "Hold the line via Akihiko — his lord & secret-sharer; fraying, declining."
-  },
-  {
    "name": "The captured porter",
    "weight": 1,
    "note": "Left bound on the hill 'for the Kami to judge' (days ago): freed himself, died, or retrieved by Gennai — and remembers the Warden who left him."
@@ -40,6 +35,16 @@
    "name": "The freed boy of Hibari Mura",
    "weight": 1,
    "note": "A Hibari Mura reed-cutter the deep power puppeted across the ford; Akihiko severed the thread with Sacred sun-fire. Body alive & reclaimed, soul still gathered in the deep — soul-empty like Suzu."
+  },
+  {
+   "name": "Toritaka Chiyo (new Lady of the Falcon)",
+   "weight": 2,
+   "note": "Hatsue's eldest daughter; tough-as-nails, the scariest of Akihiko's peers; NEW Lady of the Falcon (the seat). Leans on Akihiko's steadiness in the crisis. Carrying something hidden (see thread). Holds the deal-decision."
+  },
+  {
+   "name": "Toritaka Ujiyasu (karō)",
+   "weight": 1,
+   "note": "The clan's karō (seneschal); aged, ran the household for generations. A frightened pragmatist, NOT wicked — negotiated the Lion protectorate to save a drowning clan. Deferred to morning; will press the deal again."
   }
  ]
 }

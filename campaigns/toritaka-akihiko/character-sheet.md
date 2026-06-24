@@ -19,14 +19,14 @@
 
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 0 _(rested over the 5-day ride home)_
-- **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife > composure (cleared by 5 days of dawn-rites on the road)*
+- **Composure** 8 (strife threshold) · current **strife: 3** ← *unmask if strife > composure (Sc.11: the redirect + held grief at Hatsue's death)*
 - **Focus** 5 · **Vigilance** 2
 
 ## Social standing
 - **Honor** 55 · **Glory** 41 · **Status** 36  _(Glory +3 Sc.8 holy rescue; +3 Sc.9 — ran down & captured a Scorpion spymaster before an Emerald Magistrate)_
 
 ## Ninjō (desire) & Giri (duty) — the heart of the drama
-- **Ninjō — *To truly belong.*** Half-Falcon, half-Moshi, fully neither — and, secretly, of Imperial blood. He belongs more than any of them know, and cannot say so. He aches for true acceptance — or to prove he needs no one.
+- **Ninjō — *To truly belong.*** Half-Falcon, half-Moshi, fully neither — and, secretly, of Imperial blood. He belongs more than any of them know, and cannot say so. He aches for true acceptance — or to prove he needs no one. **RESOLVED (Sc.11):** the dying Yotogi named him *"the other inheritance"* — the clan's ward and anchor, its spine if not its head; he belongs now, truly and irrevocably. The ache is answered — and the belonging carries the Mirror's price: to be the anchor is to be slowly consumed. He got everything he wanted, and it may cost him everything. *(New ninjō to be chosen in play as the campaign turns.)*
 - **Giri — *Warden of the Physical.*** Sworn to Lord Toritaka Hatsue: physical security & healing. He leads patrols against rival clans, stands yōjimbō over Toritaka diplomats at court, and rides as the Falcon's representative when allied clans go to war.
 
 ## Techniques known
