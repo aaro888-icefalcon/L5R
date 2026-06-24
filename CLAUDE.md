@@ -121,6 +121,45 @@ matching subsystem) → apply strife/honor/conditions/clocks → **bookkeep**: C
 
 ---
 
+## ⚖️ Resolution discipline — STOP at rung 1 *before* you reach for the oracle
+
+> Why this is here, loud, in the always-on doc: a **Fate Question is an in-hand, tooled move you run
+> every turn**; the **L5R check is the correct-but-passive** one. Under load the salient tool wins and
+> the discipline that's merely *pointed to* (in `system-profile.md`) silently loses. So route **at the
+> moment of resolution**, every time:
+
+- **The PC *does* something uncertain → it is an L5R CHECK, not a Fate Question.**
+  `l5r-gm/scripts/dice.py check --ring R --skill S --tn T`. Strife is the price of success — foreground it.
+- **A world fact the PC can't settle by acting → Fate Question** (`mythic-gm/scripts/dice.py fate …`).
+  That is **rung 4**, not rung 1. *Never resolve a PC's action with a Fate Question.*
+- **An action opens a conflict → drop into the subsystem** (skirmish · duel · intrigue · mass battle).
+
+**Trigger list — when this shows up in the fiction, the mechanic fires (don't wait to remember it):**
+
+| In the fiction… | Fires |
+|---|---|
+| PC attempts anything with a real chance of failure | **L5R check** (ring+skill+TN); strife offered |
+| Strife climbs past **composure** | **UNMASK** — the giri-vs-ninjō break; play it, don't skip it |
+| The PC's **anxiety / adversity / passion** is poked *(see `character-sheet.md`: Softheartedness on a kill-or-spare choice · Fear of Failure on a high-stakes check that would harm dependents · Scorn of the Scorpion on Scorpion rapport · Marked by the Deep near a breach/Taint · Sixth Sense near hidden spirits · Stories/Blessed Lineage)* | that disadvantage's **strife / reroll / Void** |
+| An oath sworn · a public act · dishonor · a notable deed | **Honor / Glory / Status** change |
+| A spirit/world yes-no the PC can't act on | **Fate Question** (rung 4) — *then* interpret |
+
+## ✅ Per-scene bookkeeping checklist — run at every scene end; none are optional
+1. **Triggers cleared?** Did any anxiety/adversity/passion fire this scene (above)? Apply its strife/effect.
+2. **State applied?** strife → composure (**unmask?**) · honor/glory/status · conditions · resources · clocks.
+3. **World-tick:** `python3 .claude/skills/mythic-gm/scripts/tick.py .claude/skills/l5r-gm/bridge <scene#>`.
+4. **Lists — edit the JSON, then regenerate the snapshot (never hand-edit the snapshot):**
+   `state.py thread|char …` (weight) · `render_lists.py set-note …` (prose) → then
+   `python3 .claude/skills/l5r-gm/scripts/render_lists.py render campaigns/<slug> --in-place`
+   (verify with `… render campaigns/<slug> --check`).
+5. **Chaos** ±1.   6. **Seeds** refreshed to 30–40.   7. **Self-audit.**   8. **Overwrite `campaign-state.md`.**
+
+> **On resume / after context summarization:** re-read `character-sheet.md` (the PC's triggers) and the
+> bridge's `system-profile.md`. The rules you *read once* decay; the loop you *run* stays hot — so reload
+> the load-bearing imperatives, don't trust them to still be in context.
+
+---
+
 ## Honest dice & the discipline (non-negotiable)
 
 This is the whole point — do not relax it to be agreeable:
@@ -191,13 +230,19 @@ python3 .claude/skills/mythic-gm/scripts/state.py char   add|weight|remove|show 
 python3 .claude/skills/mythic-gm/scripts/state.py adventure show|set-themes campaigns/<slug> [A,B,C,D,E]     # Theme priority + tens counter (adventure.json)
 python3 .claude/skills/mythic-gm/scripts/state.py list-count campaigns/<slug>                                # weighted-slot counts
 python3 .claude/skills/mythic-gm/scripts/state.py migrate  campaigns/<slug>                                  # one-time: build the JSON Lists from an old markdown state
+# the snapshot is GENERATED from the JSON — never hand-edit it (companion tool):
+python3 .claude/skills/l5r-gm/scripts/render_lists.py render   campaigns/<slug> --in-place               # regenerate the Markdown snapshot FROM the JSON (kills drift)
+python3 .claude/skills/l5r-gm/scripts/render_lists.py render   campaigns/<slug> --check                  # drift detector: exit 1 if snapshot ≠ JSON
+python3 .claude/skills/l5r-gm/scripts/render_lists.py set-note campaigns/<slug> thread|character "<name>" "<note>"   # set an entry's prose (JSON stays the single source)
 ```
 
-> **Lists are JSON now.** Each campaign's Threads/Characters Lists and Theme priority live in
-> `threads.json` · `characters.json` · `adventure.json` (the machine-rollable source of truth the dice
-> roll over, any length). The `## Threads` / `## Characters & Factions` sections in `campaign-state.md`
-> are a human-readable **snapshot** — edit the JSON via `state.py thread|char|adventure`. A NEW
-> Character result auto-generates one (the L5R role generator + AC Character Crafter), via the bridge.
+> **Lists are JSON — the single source of truth.** Each campaign's Threads/Characters Lists and Theme
+> priority live in `threads.json` · `characters.json` · `adventure.json` (the machine-rollable source the
+> dice roll over, any length; entries carry `{name, weight, note}`). The `## Threads` /
+> `## Characters & Factions` sections in `campaign-state.md` are a **GENERATED** view — **never hand-edit
+> them.** Edit the JSON (`state.py thread|char|adventure` for weight/themes, `render_lists.py set-note`
+> for prose), then `render_lists.py render … --in-place`; the snapshot can't drift because it's derived,
+> not synced by hand. A NEW Character result auto-generates one (L5R role generator + AC Crafter) via the bridge.
 
 Fate odds: `Certain` · `"Nearly Certain"` · `"Very Likely"` · `Likely` · `50/50` · `Unlikely` ·
 `"Very Unlikely"` · `"Nearly Impossible"` · `Impossible`.

@@ -3,35 +3,43 @@
  "entries": [
   {
    "name": "The Dawn Mirror & the binding-duty (PRIMARY QUEST)",
-   "weight": 3
+   "weight": 3,
+   "note": "*Asahi no Kagami*, claimed (Sc.5), now borne by Akihiko. Not a weapon — it BINDS the deep power in captured sunlight; can cure his mark & free the taken souls. Wake it: Akihiko's Sacred sun-fire at an open dawn, by a willing soul who takes the binding as a lasting duty (Akihiko, the chain's new anchor). Immediate: deliver it safely to Lord Hatsue."
   },
   {
    "name": "The Mark — danger AND key (the leash)",
-   "weight": 3
+   "weight": 3,
+   "note": "The deep power's hook in Akihiko (Marked by the Deep); double-edged; CONTAINED (Sc.4, beacon blunted — quiet on the road so far). The leash by which he may drag the power to the Mirror to bind it."
   },
   {
    "name": "The power in the deep Shinomen",
-   "weight": 2
+   "weight": 2,
+   "note": "Nameless, older than the Empire & the Kami; beneath the forest's heart (north). CANNOT be killed — only BOUND; its one fear is the sun. Harvests souls to loose its 1200-year binding; fixed on Akihiko personally."
   },
   {
    "name": "The taken souls of Hibari Mura",
-   "weight": 2
+   "weight": 2,
+   "note": "Gathered & woven toward some purpose, NOT destroyed. Reclaimable, perhaps via the Mirror."
   },
   {
    "name": "The leak / the Scorpion closing in",
-   "weight": 2
+   "weight": 2,
+   "note": "Gennai got limited word out (a Falcon Warden rides the hills secretly) and escaped. The handlers now hold the report and are acting on it; expect a probe while the marches seem open."
   },
   {
    "name": "Ninjō — to truly belong",
-   "weight": 2
+   "weight": 2,
+   "note": "The binding-duty sets Akihiko apart even as he longs for a place. Jōji named it: not an errand with an end — the relic delivers him."
   },
   {
    "name": "Lord Hatsue's fraying mind",
-   "weight": 1
+   "weight": 1,
+   "note": "Spending her sight on the threat; declining at home while Akihiko is away."
   },
   {
    "name": "The Imperial (Seppun) blood — known heritage",
-   "weight": 1
+   "weight": 1,
+   "note": "No buried secret: runs through grandmother Seppun Yuki (minor Imperial scion) → Sumiko → Akihiko, and grants the house a notch of extra Falcon standing. The Dawn Mirror recognized it. Still a thing high-Status others could exploit or resent."
   }
  ]
 }

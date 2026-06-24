@@ -34,19 +34,20 @@ Characters/Threads, archive the rest._
 - **Adventure status:** active | concluding | concluded
 - **Theme priority (this adventure):** in `adventure.json` (`state.py adventure show <dir>`) — _rolled from `theme-weights.md`_
 
-> **The Lists are JSON-backed.** Threads/Characters Lists + Theme priority live in `threads.json` ·
-> `characters.json` · `adventure.json` — the machine-rollable source of truth the dice roll over (any
-> length). `state.py init` scaffolds them; manage with `state.py thread|char add|weight|remove|show
-> <dir> "<name>"` and `state.py adventure set-themes <dir> A,B,C,D,E`. The `## Threads` /
-> `## Characters & Factions` sections below are the human-readable **snapshot** — keep them roughly in sync.
+> **The Lists are JSON — the single source of truth.** Threads/Characters Lists + Theme priority live
+> in `threads.json` · `characters.json` · `adventure.json` (entries carry `{name, weight, note}`; the
+> dice roll over them, any length). `state.py init` scaffolds them; set weight/themes with `state.py
+> thread|char|adventure …` and prose with `render_lists.py set-note …`. The `## Threads` /
+> `## Characters & Factions` sections below are a **GENERATED** view — **never hand-edit them**;
+> regenerate with `l5r-gm/scripts/render_lists.py render <dir> --in-place` (drift-check: `… --check`).
 
 ## Chaos Factor: 5
 _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic — see `bridge/chaos-tendency.md`)_
 
-## Threads (snapshot of `threads.json`; open goals/vows; weight = re-add, max 3)
+## Threads — snapshot of `threads.json` · GENERATED (edit the JSON + re-render; do not hand-edit)
 1.
 
-## Characters & Factions (snapshot of `characters.json`; NPCs/forces — want — disposition; weight = re-add, max 3; PC NOT listed)
+## Characters & Factions — snapshot of `characters.json` · GENERATED (NPC/force — want — disposition; PC NOT listed)
 -
 
 ## Adventure Features (prepared-adventure mode only)

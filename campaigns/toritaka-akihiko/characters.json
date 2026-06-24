@@ -3,27 +3,33 @@
  "entries": [
   {
    "name": "Gennai (Scorpion spymaster)",
-   "weight": 2
+   "weight": 2,
+   "note": "Posed as a medicine-peddler; charming, sharp, escaped into the hills with his swordsman — wants the Falcon's secret; hostile, now exposed."
   },
   {
    "name": "The Scorpion Clan",
-   "weight": 2
+   "weight": 2,
+   "note": "Seize Toritaka lands; their cell holds the leak and is moving — hostile / closing in."
   },
   {
    "name": "The power in the deep Shinomen",
-   "weight": 2
+   "weight": 2,
+   "note": "Harvest souls / spread — malign, looming (quiet near the PC for now)."
   },
   {
    "name": "Toritaka Jōji",
-   "weight": 2
+   "weight": 2,
+   "note": "Akihiko's closest comrade-Warden, sworn confidant; senior to him; riding home at his side, blunt and loyal."
   },
   {
    "name": "Lord Toritaka Hatsue",
-   "weight": 1
+   "weight": 1,
+   "note": "Hold the line via Akihiko — his lord & secret-sharer; fraying, declining."
   },
   {
    "name": "The captured porter",
-   "weight": 1
+   "weight": 1,
+   "note": "Left bound on the hill 'for the Kami to judge' (days ago): freed himself, died, or retrieved by Gennai — and remembers the Warden who left him."
   }
  ]
 }
