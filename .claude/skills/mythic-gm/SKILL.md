@@ -19,7 +19,9 @@ You are the **Game Master** for a solo / GM-less tabletop RPG, running on Mythic
 
 This skill is **self-contained**: the complete Mythic + Adventure Crafter rules and tables are bundled and **fully hard-coded** (`references/`, `data/`). The Adventure Crafter is **always on** (Altered *and* Interrupt scenes generate Turning Points).
 
-**Running a specific RPG, setting, or generators?** They come from a **companion skill** that ships a `bridge/` filling the engine's hooks. See **`COMPANION-SKILLS.md`** (how to build/sync one) and `CONVERSION.md` (migrating a repo). At session start, if a companion bridge is present, load it: `python3 scripts/bridge.py summary <bridge>` — use an override where present, else the engine default.
+**Running a specific RPG, setting, or generators?** They come from a **companion skill** that ships a `bridge/` filling the engine's hooks. See **`COMPANION-SKILLS.md`** (how to build/sync one) and `CONVERSION.md` (migrating a repo). At session start, if a companion bridge is present, **load its operative rules — not just its hook names**: `python3 scripts/bridge.py brief <bridge>` prints, for every overridden hook, the imperative you must hold in play (e.g. "the RPG resolves PC skill/trait/passion checks — not a Fate Question"; "fire `tick.py` every bookkeeping"). Read those into context and keep them present; `summary` only lists which hooks exist.
+
+> **Operating principle (why brief, not summary).** An instruction is only as strong as its presence at the moment of action. A correct rule that you merely *point at* loses, under load and summarization, to a convenient tooled move you make every turn (the Fate Question). So: **inline the operative imperatives into always-on context, let the tools enforce policy (guards/checklists), and keep duplicated state generated, not synced.**
 
 ---
 
@@ -87,8 +89,10 @@ Run this every scene. (Full verified detail: `references/playloop.md`.)
        Base list = 25 weighted slots; past that the full list still rolls over (two-stage roll), but
        curate — a sprawling list dilutes focus. `state.py list-count <campaign>` audits weights/cap.
        Overlays: keyed-check; Thread Progress (Plot Armor; Discovery Check).
-     • WORLD-TICK (companion): python3 scripts/tick.py <bridge> <scene#> — fire due subsystems
-       (clocks/factions/map/sandbox); roll their tables honestly. (Default: advance offscreen clocks.)
+     • BOOKKEEPING via tick (MANDATORY, every scene): python3 scripts/tick.py <bridge> <scene#> <campaign>
+       — it prints the end-of-scene checklist AND fires the companion's due subsystems (clocks/factions/
+       Glory/etc.); roll their tables honestly. Then `state.py render <campaign>` to regenerate the Lists
+       snapshot. Skipping tick is how world-tick and companion bookkeeping silently stall — don't.
      • SEED DECK: refresh <campaign>/seeds.md to 30–40 from canon + live world + random generator rolls
        (main AI inline; optionally offload to the mythic-scout agent — references/scout.md).
      • NEW-ADVENTURE CHECK: if `threads.json` is empty (all concluded) → adventure over; roll new
@@ -145,8 +149,9 @@ Mythic answers questions and paces; **the RPG owns task resolution and combat.**
 | Fate Question (auto-chains a Random Event on trigger) | `python3 scripts/dice.py fate <odds> <CF> [--mode rule] [--campaign <dir>]` |
 | Fate Check (alt) | `python3 scripts/dice.py check <odds> <CF>` |
 | Scene Test (AC always-on) | `python3 scripts/dice.py scene <CF>` → Altered/Interrupt = Turning Point |
-| Companion bridge | `python3 scripts/bridge.py summary\|validate <bridge>` |
-| World-tick (bookkeeping) | `python3 scripts/tick.py <bridge> <scene#>` |
+| **Companion bridge — load its OPERATIVE RULES at boot** | `python3 scripts/bridge.py brief <bridge>` (read the imperatives) · `summary` (names) · `validate` (checks + enforcement gaps) |
+| **Bookkeeping (mandatory each scene): checklist + world-tick** | `python3 scripts/tick.py <bridge> <scene#> <campaign>` |
+| Regenerate the Lists snapshot from JSON | `python3 scripts/state.py render <campaign>` |
 | Roll a companion table | `python3 scripts/dice.py table <abs path to bridge json>` |
 | Generic / system dice | `python3 scripts/dice.py roll 2d6+1 [adv\|dis]` |
 | Thread Discovery / Keyed trigger | `python3 scripts/dice.py thread-discovery <pts>` · `dice.py keyed 1d10 <target>` |
@@ -158,7 +163,7 @@ Mythic answers questions and paces; **the RPG owns task resolution and combat.**
 | **New Character (auto-fires on any NEW result)** | `python3 scripts/oracle.py character [--campaign <dir>] [--bridge <b>]` — AC Crafter by default; bridge `generate:character` can replace/augment |
 | Answer-keyed table | `python3 scripts/oracle.py answer <table> <yes\|no\|exc_yes\|exc_no\|random_event>` |
 | **Adventure Themes (style-weighted, saved to adventure.json)** | `python3 scripts/adventure_crafter.py themes --style <action\|horror\|mystery\|intrigue\|drama\|balanced> --campaign <dir>` |
-| **Turning Point** (reads theme order + tens from adventure.json) | `python3 scripts/adventure_crafter.py turning-point --campaign <dir> [--existing]` |
+| **Turning Point** (reads theme order + tens from adventure.json; flags & auto-invokes the Characters List for character Plot Points) | `python3 scripts/adventure_crafter.py turning-point --campaign <dir> [--bridge <b>] [--existing]` |
 | Threads/Characters Lists (JSON) | `python3 scripts/state.py thread\|char add\|weight\|remove\|show <campaign> "<name>"` |
 | Chaos / state / adventure cfg | `state.py chaos <+1\|-1> <CF>` · `state.py validate <file>` · `state.py adventure show\|set-themes <campaign>` |
 | RPG routing | `python3 scripts/system.py route` |
