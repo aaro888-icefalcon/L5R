@@ -16,6 +16,7 @@ active_set:
 
 ## Frame
 - **Premise / tone:** Samurai drama on the haunted marches of **Toritaka Province**. Akihiko — a scorned Minor-Clan warrior-priest of known Seppun (Imperial) blood — guards flesh and steel against rival schemes and the spirit-dark, aching to belong. Full-spectrum: duel · intrigue · skirmish · mass battle.
+- **TONE CALIBRATION (set by player, Sc.13):** **realism · challenging · gritty.** Rokugan is a vast indifferent machine of rank & obligation; Status 40 is a LOW ceiling. **Counter the "chosen-one drift":** the big social facts (does an NPC trust/sponsor/elevate/betray him?) are ROLLED as Fate Questions at honest, often-unfavorable odds — NOT narrated to flatter. Every elevation Akihiko already holds (yoriki, Imperial blood, the Mirror-anchor) must grow STRINGS and COST: resentment from outranked peers, a leash from Chiyo (she *uses* him), Imperial blood as a liability others reach for, lapsed Warden duties leaving real people exposed. Allies act to win their own ends. Defeat is real and frequent.
 - **Adventure source:** **Pure Mythic** (mythic-gm owns oracle / scene pacing / Chaos / events / plot)
 - **Genre & stakes vocabulary:** samurai-drama — death / dishonor / seppuku / capture / ruin
 - **Resolution:** L5R roll-and-keep (l5r-gm) · oracle = Fate Chart (mythic-gm)
@@ -31,7 +32,7 @@ begins when the current one's main Thread(s) Conclude or the player declares one
 from `bridge/theme-weights.md`, start fresh Lists, carry over still-relevant Characters/Threads,
 archive the rest._
 - **Adventure status:** **active** — Arc 1 (*The First Ward*) closed as a capstone. Arc 2 (*The Long Road Back*) carried the Mirror home (Sc.7–10) through the deep power's ford-ambush and the Scorpion's lane-trap to a dying Lord Hatsue. **Sc.11–12 pivoted the arc:** Hatsue died, Chiyo succeeded, the Mirror passed to the Yotogi priests, and Akihiko became the new Champion's *yoriki*. Arc 2 now runs as the **court-and-investigation phase at Kyūden Toritaka** — the Mirror's price (a way that doesn't consume the anchor), the engineered Lion-lie, the killer inside the walls, Chiyo's hidden fear — under the long work (cure the mark · free the souls · bind the deep power).
-- **Theme priority (this adventure):** **Tension › Action › Social › Mystery › Personal** — stored in `adventure.json` (`state.py adventure show campaigns/toritaka-akihiko`); _rolled `adventure_crafter.py themes --style drama`, Arc 2 open._
+- **Theme priority (this adventure):** **Action › Social › Tension › Personal › Mystery** — stored in `adventure.json` (`state.py adventure show campaigns/toritaka-akihiko`); _player-set Sc.13 (was Tension›Action›Social›Mystery›Personal); biases Turning Points toward kinetic, consequence-forward beats._
 
 ## Chaos Factor: 3
 _(1–9; −1 if the PC was mostly in control last scene, +1 if it was chaotic. Scene 12: a calm political denouement Akihiko wholly steered (report, questions, accepting the charge) → −1 toward 2; BUT the world moved against him offscreen the same night — the Scorpion reached inside the walls and silenced his only lead → +1. Net wash → **HOLD at 3.** Expect the morning's discovery to push it up.)_
