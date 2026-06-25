@@ -1,0 +1,30 @@
+{
+ "kind": "thread",
+ "entries": [
+  {
+   "name": "The Toshi Ranbo front — the Lion–Crane war",
+   "weight": 3,
+   "note": "PRIMARY. The Lion and Crane — ancestral enemies — are at open war over the contested town of Toshi Ranbo (Akodo Arasou slain by Doji Hotaru's arrow, 1123). Akihiko's Legion is deployed to enforce an Imperial edict between two armies that hate each other. (facts.py relation lion crane)"
+  },
+  {
+   "name": "Keep my soldiers alive — ninjō vs the orders that spend them",
+   "weight": 3,
+   "note": "The engine of the drama. Every order that spends lives to win the Emperor's war pokes his ninjō; a healer commanding soldiers in a war of attrition. Watch for the kill-or-spare and harm-to-dependents triggers (Softheartedness, Fear of Failure)."
+  },
+  {
+   "name": "The black-sheep blood & uncle Seppun Tadanobu's leash",
+   "weight": 2,
+   "note": "His known Imperial blood comes from the scandalous branch — grandfather left the Seppun to marry a Toritaka; uncle Tadanobu redeemed it and sponsors Akihiko. The favor is a leash: what does the uncle expect in return, and who resents the upjumped black-sheep nephew?"
+  },
+  {
+   "name": "Officers who know whose nephew he is — expectation & resentment",
+   "weight": 2,
+   "note": "Akihiko serves under officers aware of his Seppun patron and his minor-clan origins. ELEVATION here is rolled, not narrated (Status-priced Fate Questions); trust and favor arrive with strings."
+  },
+  {
+   "name": "The spirit-dark of the battlefield — what the Falcon sees that the war hides",
+   "weight": 1,
+   "note": "Quiet thread. A battlefield is a feast for the dead; Akihiko's Falcon spirit-sight (Sixth Sense) may find yūrei, gaki, or worse moving under cover of the mundane war. Latent — let the dice surface it."
+  }
+ ]
+}
