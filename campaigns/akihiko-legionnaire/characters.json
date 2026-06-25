@@ -1,0 +1,30 @@
+{
+ "kind": "character",
+ "entries": [
+  {
+   "name": "Seppun Tadanobu (uncle / Imperial patron)",
+   "weight": 2,
+   "note": "Akihiko's illustrious maternal uncle, reclaimed into the Seppun; his sponsor into the Legions. Powerful, watchful; his patronage is a leash. Wants — UNKNOWN (roll it); disposition: proprietary, demanding."
+  },
+  {
+   "name": "Akihiko's cohort — the soldiers under his command",
+   "weight": 2,
+   "note": "The ashigaru and bushi he leads — the people his ninjō is sworn to keep alive. Names & faces to be drawn in play (npc.py / generators). Their lives are the stakes."
+  },
+  {
+   "name": "The Lion army at Toshi Ranbo",
+   "weight": 1,
+   "note": "The largest, most formidable army in Rokugan; martial, honor-bound, hungry for vengeance after Arasou's death. Right Hand of the Emperor — being policed by the Emperor's own Legion is a humiliation they feel keenly. (facts.py clan lion)"
+  },
+  {
+   "name": "The Crane army at Toshi Ranbo",
+   "weight": 1,
+   "note": "Smaller but exquisitely trained; the Left Hand of the Emperor, masters of court and the duel. Defending what they hold; will fight with law and word as much as steel. (facts.py clan crane)"
+  },
+  {
+   "name": "His commanding officer (Imperial Legion taisa — TBD in play)",
+   "weight": 1,
+   "note": "Akihiko's direct superior — a captain (taisa) of the Legion. Clan, name, and disposition to be generated when first met; knows of the Seppun connection."
+  }
+ ]
+}

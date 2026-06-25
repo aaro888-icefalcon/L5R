@@ -1,0 +1,288 @@
+{
+ "kind": "facts.clans",
+ "note": "Canon-grounded (FFG L5R 5E sourcebooks) and adversarially verified; verification corrections are tagged [corrected] in tensions. Relations use clan keys. Default 5E era (~1123). Consult BEFORE inventing any clan politics; record campaign-discovered facts to campaigns/<slug>/setting-canon.md (which overrides this).",
+ "clans": {
+  "crab": {
+   "name": "Crab Clan (Hida)",
+   "type": "great",
+   "leader": "Hida Kisada, called \"the Great Bear\" — Crab Clan Champion",
+   "agenda": "Hold the Kaiu (Carpenter) Wall and defend the entire Empire against the Shadowlands, no matter the cost in lives, honor, or Taint. The Crab grumble that this thankless duty is taken for granted while \"the effete and the careless play at games in an Empire kept safe by the spilled blood of the Crab.\" Motto: \"Courage. Duty. Sacrifice.\"",
+   "personality": "Blunt, gruff, brusque, pragmatic, utilitarian. Given a wide berth for their stature and lack of social niceties. They have no time for courtly games; results matter, beauty does not. The Hida are notoriously uncooperative and hate glory-seekers. Function over form in everything (their fortresses elevate towers and mustering rooms over ornament).",
+   "families": [
+    "Hida (warriors/leaders)",
+    "Hiruma (scouts)",
+    "Kaiu (engineers/smiths — the Wall, siege engines)",
+    "Kuni (Witch Hunters, Purifiers vs the Taint and mahō)",
+    "Yasuki (merchants/quartermasters — defected from the Crane centuries ago)"
+   ],
+   "court_power": "Weak by choice and circumstance. The Crab disdain court and have little patience for politics; their voice in the Imperial Court is limited, though defense-of-the-Wall business gets preferential treatment when raised. Even mighty Kyūden Hida is too consumed with the Shadowlands war to host Winter Court comfortably, though Emperors granted several Crab holdings the honorary title kyūden in recognition of their sacrifices.",
+   "military": "Among the most powerful and dedicated armies in the Empire — battle-hardened veterans pruned to only the hardiest by constant war on the Wall. In a perpetual state of war against the Shadowlands.",
+   "military_doctrine": "Defensive masters. Stalwart, unyielding veterans; the finest battlefield medics in Rokugan. Loath to mobilize against other clans — heavy armor slows them in the open and their specialized defensive techniques are easier to counter away from a stronghold. They hunker down, stockpile, seek the most defensible terrain, and strike when the time is right. Strengths: incredible defense, excellent tacticians, superb support. Weaknesses: slow to muster, reactive rather than offensive. Composition: spear ashigaru, heavily armored bushi, scouts. Signature: Hida Defender.",
+   "allies": [
+    "falcon",
+    "badger"
+   ],
+   "rivals": [
+    "crane"
+   ],
+   "enemies": [],
+   "tensions": "Long-running border friction and historic enmity with the Crane over their mutual border and over the Yasuki family, which renounced loyalty to the Crane and swore fealty to the Crab Champion in the late 4th century (the Yasuki War); a brutal Crane-Crab clash in the early 5th century prompted Emperor Hantei Fujiwa's edict requiring Imperial sanction for war between clans. The constant existential war is the Shadowlands itself, not another clan — making the Crab reluctant participants in interclan politics. [corrected] Falcon & Badger are allies/kin; Hida Kisada holds a notoriously low opinion of the Dragon."
+  },
+  "crane": {
+   "name": "Crane Clan (Doji)",
+   "type": "great",
+   "leader": "Doji Hotaru — Crane Clan Champion (sister of Kuwanan; daughter of the late Emerald Champion Doji Satsume)",
+   "agenda": "Serve as the Left Hand of the Emperor — stewards of the Throne's political power — and as wardens of Rokugan's cultural heritage and the guardians of its beating heart, fulfilling Lady Doji's vision of beauty, order, and civility. Architects of the Empire's courtly institutions and laws. Motto: \"There is a proper technique for all things.\"",
+   "personality": "Proud, graceful, refined, traditional to the point of obsession with propriety and face — and lethal. Masters of subtlety, layered meaning, the language of flowers (hanakotoba), and the secret Crane code Cadence. Outwardly the most generous and amiable family, building the largest network of friends and allies of any family; inwardly will accept death before a loss of face. Peerless duelists despite their courtly veneer.",
+   "families": [
+    "Doji (leaders, courtiers, the voice of the clan)",
+    "Kakita (duelists, artisans — most Emerald Champions; the iaijutsu tradition)",
+    "Daidoji (the \"Iron Warriors\" — guardians, shock troops, protectors of clan honor and wealth)",
+    "Asahina (pacifist shugenja, star-watchers, artisans)"
+   ],
+   "court_power": "Traditionally the supreme political power of the Empire and the clan closest to the Imperial line (the Emperor usually marries a Doji; Imperial heirs are naturally sympathetic to the Crane). However, their dominance has slipped: the Bayushi now hold many court positions traditionally held by Crane, and the Crane have \"effectively lost control of the courts\" to the Scorpion. Still one of the primary political powers.",
+   "military": "Smaller armies than the great martial clans, but every soldier is held to exacting standards. Relies heavily on rōnin. Highly respected for swift, lethal close combat.",
+   "military_doctrine": "Subtle artistry and adaptability — no signature formation; units shift fluidly, commanders direct from the rear like a game of Go. Cavalry and archers hang back to let elite infantry/duelists thin the enemy, then finish them. Strengths: highly skilled duelists, adaptable units. Weaknesses: small armies, lack of specialization, predictable assets. Composition: archer ashigaru, highly skilled bushi and rōnin. Signature: Daidoji Iron Warrior.",
+   "allies": [
+    "unicorn"
+   ],
+   "rivals": [
+    "scorpion",
+    "lion"
+   ],
+   "enemies": [],
+   "tensions": "Active war with the Lion over the contested town of Toshi Ranbo — escalating since the year 1123, when Lion Champion Akodo Arasou died at the point of Doji Hotaru's arrow; the Lion are encamped and eager for revenge. Simultaneously locked in a losing court rivalry with the Scorpion (Bayushi), who frustrate the Crane at every turn for the aging Emperor's favor. The clan's vast wealth is finally drying up after a catastrophic tsunami devastated their coastal villages plus the cost of the Lion war — though they hide this to save face. The Emerald Champion (former Crane Champion) Doji Satsume recently died under mysterious circumstances; Hotaru has so far declined her brother Kuwanan's urging to investigate. Historic border friction with the Crab (the Yasuki defection). [corrected] Among the FEWEST forces in the Empire (only Dragon & Phoenix smaller). Lion are ANCESTRAL enemies. Crane is the Emperor's LEFT HAND (laws/edicts), in a court war with the ascendant Scorpion.",
+   "ancestral_enemy": "lion",
+   "at_war": [
+    "lion"
+   ]
+  },
+  "dragon": {
+   "name": "Dragon Clan (Togashi)",
+   "type": "great",
+   "leader": "Togashi Yokuni — Dragon Clan Champion & head of the Togashi Order",
+   "agenda": "Watch over the other clans from their mountains, record the history of Rokugan, and ensure the Empire does not become too self-focused and solipsistic — that its future transpires in an orderly, elegant manner. Pursue Enlightenment and one's own path. Intervene in the clashes of the Great Clans only rarely, for seemingly inscrutable reasons. Motto: \"Find your own path.\"",
+   "personality": "Aloof, enigmatic, cryptic, introspective, individualist. Mountain mystics. From the strange tattooed ise zumi (Tattooed Monks of Togashi) to the Kitsuki investigators who challenge the Empire's system of justice. Each samurai pursues a personal path to truth; meditation infuses even their warfare.",
+   "families": [
+    "Togashi (the enlightened/tattooed order — ise zumi monks)",
+    "Mirumoto (swordsmen — the two-sword style)",
+    "Kitsuki (magistrates/investigators — evidence-based justice, challenging testimony-only norms)",
+    "Agasha (shugenja/alchemists — controversial, experimental methods)"
+   ],
+   "court_power": "Minimal and deliberately so. The Dragon are reclusive and aloof, rarely engaging in court. They use the Minor Clan Dragonfly (Tonbo) as their \"gatekeepers\" and intermediaries with the rest of Rokugan, preferring to stay out of imperial politics.",
+   "military": "Among the smallest armies in Rokugan — at best the hardiest, most specialized militia. Rugged mountain terrain makes mobilizing an active army very difficult.",
+   "military_doctrine": "Small, flexible, independent, monastic. Armies split into neatly organized lineups that operate independently and strike in rhythm \"like a many-headed dragon\" — constant, coordinated aggression that few can withstand when surprised. The ise zumi epitomize the ethos, filling almost every role. Less concerned with rank/honor/status than with each soldier's role in the plan. Strengths: independent troops, adaptable structure, monastic support. Weaknesses: tiny armies, dependent on leadership, weak on large open battlefields. Composition: small units of warrior monks and swordsmen. Signature: Togashi Ise Zumi.",
+   "allies": [
+    "dragonfly"
+   ],
+   "rivals": [],
+   "enemies": [],
+   "tensions": "Largely disengaged from interclan war in the default era. Frictions are ambiguous in the sources read here — the Dragon's intervening 'for inscrutable reasons' is canon, but no active war is named. Kitsuki investigators create quiet friction wherever they challenge the testimony-and-confession basis of Rokugani justice. (Relationship details beyond the Dragonfly intermediary role are not elaborated in these files.)"
+  },
+  "lion": {
+   "name": "Lion Clan (Akodo)",
+   "type": "great",
+   "leader": "Akodo Arasou was Lion Clan Champion until he was killed at Toshi Ranbo in 1123 (by Doji Hotaru's arrow); the succession in the immediate aftermath is a live question. The Akodo or Matsu most often hold the championship.",
+   "agenda": "Be the Right Hand of the Emperor — the military arm of the Throne, the Empire's sword and armor, its 'living memory' and 'lantern in the night.' Preserve and champion Rokugan's warrior heritage and Bushidō (which Akodo codified in his text 'Leadership'), and remind all samurai what honor demands. Staunchest allies of the Hantei line. Motto: \"For my ancestors!\"",
+   "personality": "Martial, proud, honor-obsessed, ancestor-venerating. The Lion exemplify Bushidō and live as though they invented it. The Akodo are unyielding, principled, slow to forgive — they remember every slight and may reject even a logical alliance until an ancestor's old insult is apologized for. The Matsu are warlike and ferocious; the Ikoma are the diplomatic/scholarly face and historians; the Kitsu are the spiritual anchor. Fiercely loyal, fellowship-bound (the sacred dōshi bond).",
+   "families": [
+    "Akodo (leaders, the moral compass, master generals — the Akodo War College)",
+    "Matsu (the largest family — the bulk of the army; Berserkers, Deathseekers)",
+    "Ikoma (historians, bards, diplomats, the court face)",
+    "Kitsu (shugenja — the ancestral/spiritual connection)"
+   ],
+   "court_power": "Moderate-to-strong but bluntly principled. The Ikoma are the clan's diplomatic face and the Akodo compete with the Doji for the Emperor's favor, but the Akodo are notoriously difficult to negotiate with — far less pragmatic than rivals. As the Emperor's right hand, the Lion carry great prestige at court even when outmaneuvered there.",
+   "military": "The largest and most formidable army in Rokugan in sheer size and skill — a 'mobile city' of troops with incredible logistics. Unmatched in numbers.",
+   "military_doctrine": "Overwhelming numbers and aggression, meticulously organized (a Lion army 'resembles a honeycomb from above'). Leaders ride at the front to inspire courage. Legendary ferocity — the Deathseekers charge in fearsome masks — but disciplined, not reckless; meteoric valorous gambits. Internal roads are the Empire's best (for rapid deployment); border roads kept deliberately run-down to frustrate invaders. The Lion uniquely permit limited, supervised internal warfare between their own lords to hone armies and cull the weak. Strengths: massive size, incredible logistics. Weaknesses: lack of stealth/subtlety, poor in treacherous terrain. Composition: bushi with vast sword/spear/naginata ashigaru. Signature: Matsu Berserker.",
+   "allies": [
+    "badger"
+   ],
+   "rivals": [
+    "crane",
+    "unicorn"
+   ],
+   "enemies": [],
+   "tensions": "Active, escalating war with the Crane over Toshi Ranbo — the death of Champion Akodo Arasou at Doji Hotaru's arrow (1123) has the Lion encamped and hungry for vengeance, and 'anyone who can silence the bickering between Crane and Lion quickly earns the Emperor's favor.' The Akodo also hold a paused claim on Centipede (Moshi) lands — a past siege of Mukade no Tani was rebuffed by Moshi shugenja and diplomatic pressure, and the Akodo consider that war merely 'paused until the appropriate moment.' Uneasy trade alliance with the Badger (whose manners they scorn). Some friction with the returned Unicorn over reintegration norms. [corrected] Crane are the Lion's ANCESTRAL ENEMIES (active Toshi Ranbo war since 1123, Akodo Arasou slain by Doji Hotaru's arrow). Lion–Unicorn is an active TERRITORIAL war over the northwestern lands (Drowned Merchant R. / Three Sides R.) the Lion held ~800y as caretakers and the Emperor restored to the returned Unicorn.",
+   "ancestral_enemy": "crane",
+   "at_war": [
+    "crane",
+    "unicorn"
+   ]
+  },
+  "phoenix": {
+   "name": "Phoenix Clan (Isawa)",
+   "type": "great",
+   "leader": "Shiba Tsukune — Clan Champion (yōjimbō to the Council); TRUE power = the Isawa Elemental Council of five Masters",
+   "agenda": "Guard the Empire's soul — keep safe and arbitrate the myriad religious and spiritual paths of Rokugan, master the elements and the kami, and foster peace and understanding among the clans, even sacrificing themselves to do so. Motto: \"Master the elements and be reborn.\"",
+   "personality": "Scholarly, spiritual, contemplative, peace-seeking — and self-righteous. The greatest concentration of shugenja, scholars of the Tao, and servants of the spirits in the Empire. They revere knowledge above all (libraries receive pride of place in their keeps) and 'speak with a single voice.' Their pacifism is real but their pride and certainty in spiritual matters can come across as superiority.",
+   "families": [
+    "Isawa (the dominant shugenja family — the Elemental Council, masters of the kami and the Void)",
+    "Shiba (bushi — yōjimbō and protectors of the Isawa; the clan champion's line, wielding Ofushikai)",
+    "Asako (scholars, monks, henshin mystics — keepers of venerable pre-Rokugani traditions)"
+   ],
+   "court_power": "Significant moral and spiritual authority — the recognized arbiters of religious truth in the Empire — but the Phoenix engage court less aggressively than the Crane or Scorpion, preferring diplomacy, mediation, and the weight of their spiritual prestige to political maneuvering.",
+   "military": "Modest infantry numbers, but uniquely augmented by the most powerful shugenja in Rokugan, who can turn the elements and even the weather against a foe.",
+   "military_doctrine": "Elemental warfare — the army taps the region's terrain and spiritual climate (a dry forest may suddenly blaze). The whole force exists to protect the shugenja whose invocations decide the battle; armies form a ring of protection, and use decoy shugenja and yōjimbō in a 'shell game' to misdirect enemies trying to disrupt the rites. Strengths: powerful elemental shugenja, adept tacticians. Weaknesses: over-dependent on shugenja, lackluster cavalry and archers. Composition: infantry augmented by shugenja. Signature: Isawa Elementalist.",
+   "allies": [],
+   "rivals": [],
+   "enemies": [
+    "mantis"
+   ],
+   "tensions": "Enmity with the Mantis Clan, who are explicitly named as 'enemies of the Phoenix' — and the strained relationship with their own offshoot, the Centipede (Moshi), who broke from the Isawa, took a new name (seen as arrogant abandonment of the Isawa name), and pointedly severed Phoenix access to the strategic Mukade no Tani port while granting it to the Phoenix's Mantis enemies — a 'particularly egregious insult,' though it remains tense-but-cordial rather than open war because the Phoenix respect the Centipede's Library and Shrine. Some intellectual/spiritual rivalry with the Dragon's experimental Agasha methods. [corrected] Dragon 'rivalry' is only minor Agasha methodological tension, NOT a formal clan rival."
+  },
+  "scorpion": {
+   "name": "Scorpion Clan (Bayushi)",
+   "type": "great",
+   "leader": "Not personally named in these sources — led by the Bayushi line. The Scorpion Clan Champion is bound to the ancestral blade Itsuwari (the Yogo daimyō imprints the champion's name on it so the sword can slay them should they ever betray the Empire).",
+   "agenda": "Be the Emperor's loyal villain — 'I will be your villain, Hantei.' By the Scorpion Kami's contention that enemies need not be external, they fight fire with fire: do the dishonorable, deniable work that keeps the Empire safe. Keep all clans united in hatred against the Scorpion yet divided, so no single clan can threaten the Hantei line to whom the Scorpion owe undying loyalty. Currency: secrets, blackmail, deniability.",
+   "personality": "Secretive, cunning, manipulative, masked and veiled. They smile grimly and accept being hated as their sacrifice. Cynical about Bushidō (viewing it as a 'nicety for idealistic samurai') yet utterly loyal to the Throne. They unsettle and deceive — even the beautiful, comfortable face of Kyūden Bayushi is a lie concealing a labyrinth, traps, and secret tunnels; Traitor's Grove openly warns the cost of disloyalty.",
+   "families": [
+    "Bayushi (leaders, courtiers, duelists — masters of court intrigue and blackmail)",
+    "Shosuro (actors, infiltrators, shinobi/spies)",
+    "Soshi (shugenja — illusion and deception magic)",
+    "Yogo (cursed shugenja, ward-makers; keepers of the Itsuwari assassination duty against a traitor champion)"
+   ],
+   "court_power": "Currently ascendant and arguably the dominant court power. The Bayushi have seized numerous important positions close to the aging Emperor that were traditionally held by the Crane, and have 'effectively' wrested control of the courts from the Doji, frustrating Crane efforts to reclaim them at every turn. Masters of espionage, leverage, and deniable influence.",
+   "military": "A small army with mediocre conventional infantry — the Scorpion are 'simply not cut out for real wars' on fair terms, so they ensure the terms are never fair.",
+   "military_doctrine": "Subterfuge, stealth, and psychological warfare. Troops are preceded by a silent invasion of scouts and spies; they impersonate the enemy's own messengers and personnel to sabotage from within, travel and attack under cover of darkness, and use illusion-casting shugenja to misdirect. Archers ring the battlefield to thin foes before the clash; careful communication and retreat turn situational strengths into victory. Strengths: psychological tactics, stealth, night-marching. Weaknesses: small army, highly situational tactics, mediocre infantry. Composition: scouts and shinobi plus ashigaru and archer bushi. Signature: Shosuro Infiltrator.",
+   "allies": [],
+   "rivals": [
+    "crane"
+   ],
+   "enemies": [],
+   "tensions": "Locked in a court war with the Crane (Bayushi vs Doji) for control of the Imperial Court and the aging Emperor's favor — currently winning. Suspected (per Falcon rumor) of covertly fomenting the Hare-vs-Falcon bandit hostilities to keep both Minor Clans weak and to potentially lure Great Clans into proxy war. As the universally distrusted 'loyal villain,' the Scorpion are everyone's suspect and no clan's open friend — a deliberate posture."
+  },
+  "unicorn": {
+   "name": "Unicorn Clan (Shinjo)",
+   "type": "great",
+   "leader": "Shinjo Altansarnai — Unicorn Clan Champion (bears a name from the lands beyond Rokugan)",
+   "agenda": "Having spent centuries outside the Empire and returned in a glorious cavalry charge, the Clan of the Wind serves its duty and roots out foreign manipulation and infiltration — they faced innumerable horrors and traitors in their wandering years and are best suited to detecting them. Reclaim and steward their ancestral place in the Empire. Motto: \"One cannot capture the wind.\"",
+   "personality": "Forthright, direct, fierce, and foreign — gaijin-touched. Their barbaric (by Rokugani standards) customs, foreign weapons, gaijin trade (the city of Khanbulak), and reverence for their horses (their stables are grander than their living quarters) shock and disgust the other clans. Yet they are fierce in duty and unwavering in honor.",
+   "families": [
+    "Shinjo (leaders, scouts, explorers — the returned wanderers)",
+    "Moto (heavy cavalry, hardy warriors — touched by the wider world)",
+    "Iuchi (meishōdō shugenja — name-magic learned abroad)",
+    "Utaku (the Battle Maidens — elite, near-sacred mounted warrior women)",
+    "Ide (diplomats, merchants — the clan's emissaries and traders)"
+   ],
+   "court_power": "Growing but still partly outsider. The Ide are skilled diplomats and traders, and the clan's reintegration was sponsored by the Crane; but their foreign ways keep many courts wary. Their trade success (Khanbulak, gaijin goods) gives them economic clout while inviting suspicion.",
+   "military": "A massive, supremely mobile army — the most mobile in Rokugan — built on unmatched cavalry. Even foot soldiers keep and ride horses for transport.",
+   "military_doctrine": "Mounted shock and swift deployment. Two forces: pods of mounted cavalry with scouts to cut through the enemy, plus heavily outfitted foot troops for extreme conditions. Cavalry engulf and thin slower infantry like a swarm, then the rest cleans up. Movement and tactics are dictated by access to grazing land and water. Tactics are unfamiliar and unsettling to other clans. Strengths: excel in open spaces, massive army, alien tactics. Weaknesses: choke in tight/treacherous terrain, poor communication. Composition: heavy and light cavalry, horse-archers, foot soldiers. Signature: Utaku Battle Maiden. (Some Unicorn daimyō consider the clan exempt from the Imperial edict requiring sanction for war, since the Unicorn were absent from the Empire when it was issued — though they follow it out of respect for the Throne.)",
+   "allies": [
+    "crane"
+   ],
+   "rivals": [
+    "lion"
+   ],
+   "enemies": [],
+   "tensions": "Their return and foreign customs still shock and disgust the traditionalist clans; reintegration friction persists, especially with the rigid Lion (over conduct and over the Unicorn's claimed exemption from the war-sanction edict). Their gaijin trade is seen to condone foreign practices, drawing conservative suspicion. Counterbalancing this is a deep, enduring alliance with the Crane (Doji): the founders Doji and Shinjo were close siblings, and when the returning Unicorn appeared as presumed invaders, Shinjo Nishijin returned Doji's sandalwood fan to Champion Doji Ryobu, who embraced them — securing Unicorn recognition as a Great Clan; the two houses maintain good relations to this day."
+  },
+  "mantis": {
+   "name": "Mantis Clan (no family name — members carry the name of their ship or port; capital Kyūden Gotei / Gotei City)",
+   "type": "minor",
+   "leader": "Yoritomo — Mantis Clan Champion",
+   "agenda": "Control the lucrative trade routes from the Islands of Spice and Silk and the gaijin trade (their relative acceptance of foreign merchants makes Gotei City Rokugan's busiest international port), and — Champion Yoritomo's driving ambition — to elevate the Mantis from Minor Clan to full Great Clan status. Arguably the most powerful Minor Clan.",
+   "personality": "Scrappy, ambitious, brash, grandiose to the point of garish (Kyūden Gotei flaunts foreign wealth, copper roofs, tropical exotica — daring others to take offense). Often dismissed by Great Clans as mere pirates and thieves. Heavy drinkers (notably of shōchū). Pragmatic seafarers and traders who blend mercenary, pirate, and merchant roles. Unusually for a clan, they bear no family name.",
+   "families": [
+    "No family name — members take the name of the ship or port on which they serve (the elite unit is the Storm Legion; Yoritomo's line dominates leadership)"
+   ],
+   "court_power": "Limited but rising — a Minor Clan with outsized wealth. Notably, the Emperor invited Yoritomo and his Mantis delegation to Winter Court, a significant elevation of their standing. Their gaijin trade gives them economic leverage that translates into growing (if grudging) political relevance.",
+   "military": "A formidable naval and mercenary power for a Minor Clan, built on ships, pirate raids, and recruited rōnin sellswords; the Storm Legion is their elite unit. Strong at sea and in raiding rather than mass land battle.",
+   "military_doctrine": "Naval power, piracy, raiding, and mercenary recruitment. They control trade routes by sea, conduct pirate raids, smuggle (hidden ports beneath Kyūden Gotei), and recruit able rōnin and sellswords (e.g., the mercenary Koharu) into clan service. Their strength lies on the waves and in opportunistic, deniable force rather than honor-bound field warfare.",
+   "allies": [
+    "centipede",
+    "wasp"
+   ],
+   "rivals": [
+    "crane"
+   ],
+   "enemies": [
+    "phoenix"
+   ],
+   "tensions": "Open enmity with the Phoenix Clan (explicitly 'enemies of the Phoenix'); the Centipede's granting of Mukade no Tani port access to the Mantis while denying the Phoenix is a flashpoint of that rivalry. Their gaijin trade and 'pirate' reputation earn scorn from traditionalist Great Clans (Gotei City sits just a day's sail off the Crane coast). Yoritomo's bid for Great Clan status is the clan's defining ambition and friction point. Allied with the newly founded Wasp Clan (Tsuruchi archers), who are on unfriendly terms with both Scorpion and Lion."
+  },
+  "falcon": {
+   "name": "Falcon Clan (Toritaka)",
+   "type": "minor",
+   "leader": "Toritaka Hatsue — the current Yotogi (the title for the Falcon daimyō, after founder Yotogi); ruled ~12 years",
+   "agenda": "Hunt, understand, and banish malevolent spirits — yūrei, gaki, and other ghostly predators that infest all of Rokugan — and gather knowledge of the Spirit Realms to better protect the Empire. Founded after Yotogi's father died protecting the Emperor's advisor; guided by the mysterious, possibly-not-mortal Lady Mazoku. Based in haunted Toritaka Province (the Valley of the Spirits) north of Crab lands by the Shinomen Forest.",
+   "personality": "Keen-sighted, watchful, pragmatic, solemn, and steeped in the supernatural. Like the Crab, results-focused — 'there is little that is forbidden if it achieves desired results,' even trafficking with minor spirits to hunt worse ones. Lonely, brave bushi who live alongside ghosts daily. Famed falconers with preternatural spirit-sense.",
+   "families": [
+    "Toritaka (the sole family — ghost-hunting bushi, Phantom Hunters, falconers; guided by the Council of Twilight)"
+   ],
+   "court_power": "Negligible. The Falcon are a small, isolated, spiritually focused Minor Clan with little political presence; they sell their famed falconers' scouting services to other clans for gold and supplies, but do not play the court game.",
+   "military": "Small — a handful of elite spirit-hunting bushi who are second to none against ghostly threats but few in number, often dispatched alone to distant hauntings.",
+   "military_doctrine": "Specialist supernatural hunting rather than mass warfare. Unmatched at detecting, banishing, and destroying yūrei and predatory ghosts; willing to use unorthodox means (deals with minor malign spirits, the nightly ring of watch-fires, offerings) to track and counter greater threats. Famed falconers serve as scouts.",
+   "allies": [
+    "crab",
+    "centipede"
+   ],
+   "rivals": [],
+   "enemies": [
+    "hare"
+   ],
+   "tensions": "Strong alliance with the Crab against their shared supernatural enemies (the Crab handle physical/Shadowlands threats, the Falcon the ghostly ones) — but with real friction: many Kuni Witch Hunters distrust the Falcon's seek-to-understand approach and unorthodox spirit-deals (Toritaka Phantom Hunters making pacts with minor spirits), watching them for possession or heresy. Long-running enmity with the Hare Clan over periodic bandit attacks on Falcon lands the Hare are blamed for (the Hare deny it; the neighboring Scorpion are suspected of stoking the conflict). Allied with the Centipede, who offer Falcon shugenja a place in their dōjō. Concern grows as guiding spirit Lady Mazoku has been unseen for generations. [corrected] Crab are STRONG ALLIES, not rivals — shared duty vs the supernatural (Crab=physical/Shadowlands, Falcon=ghostly); the only Crab-side friction is Kuni Witch Hunters distrusting the Falcon's spirit-speaking."
+  },
+  "centipede": {
+   "name": "Centipede Clan (Moshi)",
+   "type": "minor",
+   "leader": "Moshi Chiasa — Centipede Clan Champion (young, idealistic, with an extraordinarily strong bond to Amaterasu; politically inexperienced)",
+   "agenda": "As the foremost followers of the Sun Goddess Amaterasu, preserve ancient sacred traditions and tend the most revered sun-sites — the Shrine of the Lady Sun (where Amaterasu descended to speak with their founder) and the Library of the Fiery Centipede. Mostly keep to themselves in their isolated valley, Mukade no Tani. Matriarchal (the Blessing of Amaterasu means female children outnumber others three-to-one).",
+   "personality": "Traditional, devout, matriarchal, serene, and somewhat insular — but increasingly welcoming to outsiders (rōnin who learn Moshi ways are more readily accepted here than almost anywhere). An internal tension simmers between tradition-bound elders and a small group of scholars (influenced by the Dragon's Agasha) who theorize invocations are natural rather than purely divine — dismissed as heresy.",
+   "families": [
+    "Moshi (the sole family — originally Isawa; shugenja Sun Sentinels specializing in Fire and Air healing/invocations, plus the bushi Guardians of the Sun)"
+   ],
+   "court_power": "Limited but not powerless — when the Lion besieged their lands, Centipede, Mantis, and even Phoenix courtiers lobbied successfully for them at Winter Court. They wield leverage via control of the Shrine of Lady Sun, the Library of the Fiery Centipede, and the strategic Mukade no Tani port.",
+   "military": "Small but defensively potent — protected by powerful Moshi shugenja (whose long-ranged Fire/Air invocations rebuffed a Lion siege) and harsh mountain-valley terrain, plus the bushi Guardians of the Sun.",
+   "military_doctrine": "Defensive, shugenja-centered. The clan relies on its Sun Sentinel shugenja's devastating long-range Fire and Air invocations and on the near-impregnable terrain of their cliff-walled valley; the Guardians of the Sun (favoring the traditional Moshi Sun Ax) protect the shugenja and shrines. Defense and divine favor over offense.",
+   "allies": [
+    "mantis",
+    "falcon"
+   ],
+   "rivals": [
+    "phoenix"
+   ],
+   "enemies": [
+    "lion"
+   ],
+   "tensions": "Strained but tense-and-cordial relationship with their parent clan the Phoenix (Isawa), who resent the Moshi for abandoning the Isawa name and were egregiously insulted when the Centipede severed Phoenix port access at Mukade no Tani while granting it to the Phoenix's Mantis enemies — held back from war only by mutual respect for the Library and Shrine. Standing enmity with the Lion: the Akodo once laid claim to and besieged Centipede lands, were rebuffed, and consider that war merely 'paused' until they can take what they believe is theirs. Allied closely with their oldest friends the Mantis (intermarriage, port access, dōjō places) and with the Falcon (shared mysticism, dōjō places)."
+  },
+  "minor_clans_other": {
+   "name": "Other Minor Clans (brief notes)",
+   "type": "minor",
+   "leader": "Various (e.g., Wasp founded by the bounty hunter Tsuruchi; Mantis-aligned)",
+   "agenda": "Specialized, slighted, and scrappy — each Minor Clan holds unparalleled expertise in a narrow area or guards a specific place, task, or secret, occupying a real but lesser rung of the Celestial Order. Created by schism, accident of inheritance/geography, or Imperial reward.",
+   "personality": "Specialized and often underestimated; the Great Clans are rarely foolish enough to dismiss them. Each carries a distinct register tied to its niche.",
+   "families": [
+    "Badger (Ichiro) — northern mountain border guards against gaijin; tough, jovial, master engineers/trap-makers; Crab kin, uneasy Lion trade-ally",
+    "Wasp (Tsuruchi) — newly founded, finest archers in the Empire; unfriendly with Scorpion and Lion; allying with the Mantis",
+    "Hare (Usagi) — hunters of mahō-tsukai (blood sorcerers); long enmity with the Falcon over bandit raids",
+    "Fox (Kitsune) — former Shinjo followers who stayed; scholars, herbalists, subtle shugenja, allied with fox-spirits",
+    "Sparrow (Suzume) — a 5th-century Crane offshoot; honorable poverty, noted storytellers",
+    "Tortoise (Kasuga) — magistrates of Slow Tide Harbor, Imperially sanctioned to treat with gaijin/smugglers; tainted reputation",
+    "Dragonfly (Tonbo) — 'gatekeepers to the Dragon,' intermediaries between the reclusive Dragon and Rokugan",
+    "Cat (Nekoma) — playful actors/acrobats who are secretly mercenary shinobi spies/assassins",
+    "Deer (Shika) — matchmakers, who arrange marriages between clans (Courts of Stone)",
+    "Badger, Moth, Bat and dozens more exist"
+   ],
+   "court_power": "Generally low individually; their influence comes from niche indispensability (Tortoise gaijin-dealings, Deer matchmaking, Dragonfly as Dragon's voice) rather than raw political weight.",
+   "military": "Small, single-school forces specialized to their niche — Badger trap-defense of mountain passes, Wasp archery, etc.",
+   "military_doctrine": "Niche specialists: Badger defend mountain passes with traps, drums, and engineering and supply cheap reliable arms to the Lion; Wasp excel at archery; Cat/Nekoma operate as covert shinobi. None field Great-Clan-scale armies.",
+   "allies": [],
+   "rivals": [],
+   "enemies": [],
+   "tensions": "Badger: Crab kin who share a goal but fight the Shadowlands far less often (a point the Crab make); uneasy trade alliance with the scornful Lion. Wasp: on unfriendly terms with both Scorpion and Lion, seeking allies and finding one in the Mantis. Hare: enmity with the Falcon over blamed bandit raids, possibly stoked by the Scorpion. Tortoise: tainted by their gaijin/smuggler associations. Dragonfly: caught between the Dragon and the wider Empire."
+  }
+ },
+ "relations_summary": [
+  "lion ⚔ crane — ANCESTRAL enemies; active war over Toshi Ranbo (Arasou slain by Hotaru's arrow, 1123)",
+  "lion ⚔ unicorn — active TERRITORIAL war (restored NW lands; Drowned Merchant / Three Sides rivers)",
+  "scorpion ⚔ crane — court war for the aging Emperor's favor; Scorpion currently ascendant",
+  "crab ~ crane — old border enmity + the Yasuki defection (Crane→Crab)",
+  "crane + unicorn — allied; unicorn + crane vs lion pressure",
+  "crab + falcon + badger — allied/kin vs the supernatural & Shadowlands",
+  "centipede(moshi) + mantis + falcon — Minor-Clan mutual aid; centipede strained with parent Phoenix",
+  "phoenix ⚔ mantis — named enemies",
+  "Emperor's hands: crane = LEFT (laws/edicts), lion = RIGHT (the army)"
+ ]
+}

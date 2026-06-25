@@ -3,6 +3,18 @@
 > **Operative digest:** Read every oracle result (Fate answer, Meaning pair, Random Event, NPC behavior) as
 > **samurai drama in Rokugan** — honor the raw result first, *then* re-skin to clan / giri-ninjō / honor / face.
 > A No is a real No; a bad event is not rescued. NPCs read setting-true, competent, and act to win.
+> **Three load-bearing rules (anti-softening):**
+> 1. **Fate-YES → COMPLICATION.** When a Fate Question comes back Yes, read it toward the answer that
+>    *opens* trouble / a new thread, never toward comfort. "Yes, **and** it costs / draws notice / pulls a
+>    string." (Exceptional Yes = a Yes whose complication is large.) A Yes that makes the PC's life easier
+>    is almost always the wrong reading.
+> 2. **ELEVATION IS A FATE QUESTION.** Any beat that would *trust, reward, promote, befriend, or center*
+>    the PC — an NPC's favor, a lord's notice, a title, an inheritance — is NOT narrated; it is a Fate
+>    Question at odds priced by the PC's real **Status** (low Status ⇒ Unlikely/Very Unlikely). This is the
+>    fix for the "chosen-one drift": the softening used to live in the big questions never asked.
+> 3. **CONSULT THE FACTS, don't remember them.** Before inventing any clan/court/military/political detail,
+>    run `facts.py clan|relation|imperial|map` — grounded canon, not convenient memory. Record campaign-new
+>    facts to the campaign's `setting-canon.md`. Track Honor/Glory/Status/titles via `social.py` (never freehand).
 
 Broad GM-craft for **Rokugan**. NOT a reskin table — read this on every interpretation/NPC moment
 so oracle results and NPC behavior come out setting-true, competent, and dramatically L5R.
@@ -18,6 +30,26 @@ so oracle results and NPC behavior come out setting-true, competent, and dramati
 - The supernatural is **real and close** — kami answer invocations, ancestors watch, the Shadowlands
   Taint corrupts, ghosts and yūrei linger. Treat omen/spirit results as literally true unless canon says otherwise.
 - **Honor the result, then record the new fact** to the campaign's `setting-canon.md`.
+
+### The three anti-softening rules (read these every oracle/elevation moment)
+1. **A Fate YES leans toward complication, not comfort.** The oracle saying "yes" is the engine handing
+   you a *new problem*, not a reprieve. Read every Yes as the door that opens trouble or a thread:
+   *Yes — and the favor has a price · and someone now owes/is owed · and it draws a rival's eye · and it
+   binds the PC to a duty.* Save the frictionless reading for when the fiction genuinely has no edge (rare).
+   A **No** still stands as a hard No (it is not softened either) — but a Yes is never a gift.
+2. **Never narrate the PC's elevation — roll it.** Rokugan is an indifferent machine of rank; it does not
+   rearrange itself around a low-Status samurai to be kind. So any beat that *trusts / rewards / promotes /
+   befriends / centers* the PC is a **Fate Question**, asked and shown, at odds set by realism: a great
+   lord confiding in a Status-30 vassal is *Unlikely*; being named heir over trueborn kin is *Very Unlikely*.
+   If the dice say Yes, it arrives **with the strings a real Rokugani would attach** — a leash, a debt, a
+   target on the back, the resentment of those passed over. (This is the documented fix for the prior
+   campaign's "chosen-one drift," where the big elevations were authored, never rolled, and all broke the
+   PC's way.)
+3. **Ground politics in the facts layer.** The clan map, rivalries, court, military, and Imperial structure
+   are canon — `facts.py clan <key>` · `facts.py relation <a> <b>` · `facts.py imperial` · `facts.py map`.
+   Consult before inventing; the Lion and Crane are *ancestral enemies at war over Toshi Ranbo* whether or
+   not that's convenient. Honor/Glory/Status & titles are mechanical — move them only through `social.py`
+   (Table 7-1 scale, threshold alarms, title Status-awards), so standing can't drift upward for free.
 
 ## NPCs in this world (so NPC-behavior interpretations are competent)
 - Everyone serves **someone**: a lord, a clan, an ancestor, the Emperor, a Fortune. An NPC's first

@@ -1,0 +1,31 @@
+{
+ "kind": "social",
+ "character": "Toritaka Akihiko",
+ "honor": 55,
+ "glory": 35,
+ "status": 36,
+ "titles": [
+  {
+   "name": "Gunsō",
+   "assigned_by": "Imperial Legions — commissioned a chūi (lieutenant); Gunsō title used for the mechanics; Status held at baseline per campaign ruling",
+   "status_award": 0,
+   "status_cap": null,
+   "xp_to_completion": 24,
+   "xp_progress": 0,
+   "ability": "Lead from the Front: when you defeat an opponent in a clash, your cohort removes panic equal to the opponent's glory rank; once per round on a successful Attack check in a mass battle, your cohort removes panic equal to half the attrition you inflict.",
+   "complete": false,
+   "active": true
+  }
+ ],
+ "stakes": [],
+ "log": [
+  {
+   "attr": "status",
+   "delta": 0,
+   "scale": "title",
+   "reason": "title assigned: Gunsō",
+   "kind": "title",
+   "value_after": 36
+  }
+ ]
+}

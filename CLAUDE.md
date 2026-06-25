@@ -147,12 +147,15 @@ matching subsystem) → apply strife/honor/conditions/clocks → **bookkeep**: C
 | PC *does* anything with a **TN** — incl. invocation / ritual / kata / technique / attack / skill use | **L5R check** (`dice.py check`); **roll even if near-certain** — strife (✷) & opportunity (●) are the outputs |
 | Strife climbs past **composure** | **UNMASK** — the giri-vs-ninjō break; play it, don't skip it |
 | The PC's **anxiety / adversity / passion** is poked *(see `character-sheet.md`: Softheartedness on a kill-or-spare choice · Fear of Failure on a high-stakes check that would harm dependents · Scorn of the Scorpion on Scorpion rapport · Marked by the Deep near a breach/Taint · Sixth Sense near hidden spirits · Stories/Blessed Lineage)* | that disadvantage's **strife / reroll / Void** |
-| An oath sworn · a public act · dishonor · a notable deed | **Honor / Glory / Status** change |
+| An oath sworn · a public act · dishonor · a notable deed | **Honor / Glory / Status** change — via **`social.py`** (Table 7-1 scale, logged), never freehand |
 | A spirit/world yes-no the PC can't act on | **Fate Question** (rung 4) — *then* interpret |
+| The world / an NPC would **trust · reward · promote · befriend · center** the PC (favor, a lord's notice, a title, an inheritance) | **ELEVATION = a Fate Question** at **Status-priced odds** (low Status ⇒ Unlikely/Very Unlikely) — *never narrated*; a Yes arrives **with strings** (debt, leash, resentment). The fix for chosen-one drift. |
+| A **Fate Question returns YES** | read it toward **complication / a new thread**, never comfort — "Yes, **and** it costs / draws notice / pulls a string" |
+| About to **invent** clan / court / military / political / map detail | **consult `facts.py`** first (`clan` · `relation` · `imperial` · `map`) — grounded canon, not convenient memory |
 
 ## ✅ Per-scene bookkeeping checklist — run at every scene end; none are optional
 1. **Triggers cleared?** Did any anxiety/adversity/passion fire this scene (above)? Apply its strife/effect.
-2. **State applied?** strife → composure (**unmask?**) · honor/glory/status · conditions · resources · clocks.
+2. **State applied?** strife → composure (**unmask?**) · **honor/glory/status & titles via `social.py`** (never freehand — Table 7-1 scale, threshold alarms) · conditions · resources · clocks.
 3. **World-tick:** `python3 .claude/skills/mythic-gm/scripts/tick.py .claude/skills/l5r-gm/bridge <scene#>`.
 4. **Lists — edit the JSON, then regenerate the snapshot (never hand-edit the snapshot):**
    `state.py thread|char …` (weight) · `render_lists.py set-note …` (prose) → then
@@ -212,6 +215,13 @@ python3 .claude/skills/l5r-gm/scripts/lookup.py find "<query>"                  
 python3 .claude/skills/l5r-gm/scripts/lookup.py list techniques --clan crane --rank 1
 python3 .claude/skills/l5r-gm/scripts/npc.py build-rival --name N --clan C --rank R
 python3 .claude/skills/l5r-gm/scripts/state.py validate campaigns/<slug>/campaign-state.md
+
+# ── Social standing & canon facts (l5r-gm) — the anti-softening enforcement layer ──
+python3 .claude/skills/l5r-gm/scripts/social.py show campaigns/<slug>                      # Honor/Glory/Status/titles ledger
+python3 .claude/skills/l5r-gm/scripts/social.py award campaigns/<slug> glory minor "<deed>" # Table 7-1 scale, logged; forfeit/stake too
+python3 .claude/skills/l5r-gm/scripts/social.py title campaigns/<slug> add "Gunsō (Sergeant)" --award 5 --xp 24 --ability "…"
+python3 .claude/skills/l5r-gm/scripts/facts.py relation lion crane                          # canon clan relations (consult before inventing)
+python3 .claude/skills/l5r-gm/scripts/facts.py clan <key> | imperial | map | titles | search "<q>"
 
 # ── The bridge (companion ↔ engine seam) ─────────────────────────────────────
 python3 .claude/skills/mythic-gm/scripts/bridge.py summary  .claude/skills/l5r-gm/bridge   # hooks: override vs default

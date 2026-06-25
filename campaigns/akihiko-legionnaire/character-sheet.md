@@ -1,0 +1,71 @@
+# Character — Toritaka Akihiko (明彦, "the bright prince")  ·  he/him
+*(Adapted from Abhishek "Shake" Rao · reset to creation baseline, commissioned into the Imperial Legions)*
+
+- **Clan / Family / School:** Falcon · Toritaka · **Moshi Sun Sentinel** [Bushi, Shugenja]
+  *(out-of-clan school — Falcon-born, trained at the Light of the Lady Sun Dōjō through his Moshi father; canon-supported: the Moshi keep a permanent place for Falcon at the shrine)*
+- **Concept / role:** Warrior-priest of Amaterasu — **battlefield medic & sun-priest**, now a junior officer of the Emperor's army.
+- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 1** (Moshi Sun Sentinel) · **XP available: 0**.
+
+## Rings (the approach to each check)
+- Air **1**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**
+- **Void points:** 2 / 2
+
+## Skills (rank) — by group
+- **Artisan:** —
+- **Social:** Courtesy 1
+- **Scholar:** Theology 2 · Medicine 2 · Sentiment 1
+- **Martial:** Martial Arts [Melee] 1 · Tactics 1
+- **Trade:** Survival 1 · Meditation 1
+
+## Derived attributes
+- **Endurance** 10 (fatigue threshold) · current fatigue: 0
+- **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife > composure*
+- **Focus** 4 · **Vigilance** 2
+
+## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
+- **Honor** 55 · **Glory** 35 · **Status** 36  _(Status held at baseline; the Gunsō commission's usual +5 award was waived per campaign ruling)_
+- **Title:** Gunsō (0 / 24 XP to completion → unlocks *Lead from the Front*)
+
+## Ninjō (desire) & Giri (duty) — the heart of the drama
+- **Ninjō — *Keep the soldiers under me alive as people, not fuel.*** A healer at heart given a sword and a command, Akihiko cannot see the ashigaru and bushi under him as the Empire sees them — renewable, expendable, a number on a quartermaster's slate. He wants every soldier he leads to go home. In the Imperial Legions — where peasants sign six-year terms and great battles are won by spending lives — this desire collides with duty at nearly every order.
+- **Giri — *Chūi of the Imperial Legions.*** Sworn to the Emperor's own army: hold the line, enforce Imperial edicts between feuding clans, win the wars the Throne commands — *whatever the cost in lives his ninjō would spare.* His commission came through the sponsorship of his illustrious uncle, **Seppun Tadanobu**; he serves under officers who know exactly whose nephew — and whose black-sheep grandson — he is.
+
+## Techniques known
+- **Invocations:** Armor of Radiance · Biting Steel · Extinguish · Katana of Fire
+- **Rituals:** Cleansing Rite · Commune with the Spirits
+- **School ability — Blazing Tears of Lady Sun:** Fire-invocation damage gains *Sacred* (items he augments/summons with Fire are *Sacred*). Against a **non-Tainted human**, his Fire invocations deal no damage/conditions — instead the target **removes fatigue** equal to school rank + the damage it would have dealt (once per character per scene). *His fire heals the worthy and burns the wicked.*
+
+## Advantages
+- **Sixth Sense (Void)** [distinction] — feels the presence of hidden spirits (ominous when their intent is evil); reroll up to 2 dice on hunch checks.
+- **Stories (Earth)** [passion] — folktales & ballads; reroll up to 2 on relevant checks; cancels a paired anxiety on a shared check.
+- **Blessed Lineage (Void)** [distinction — Imperial] — characters of Status 50+ will not choose to kill him as a first option, lest harming **known Imperial blood** cost them prestige. *(His Seppun descent is openly known — see Heritage.)*
+
+## Disadvantages
+- **Scorn of the Scorpion Clan (Water)** [adversity] — the Scorpion bar their doors; on rapport checks with them, choose & reroll 2 dice showing success; gain 1 Void on failure.
+- **Softheartedness (Fire)** [anxiety] — given the choice to kill or spare, he *always* spares; 3 strife after kill-related checks (1 Void first time/scene). *(In sharp tension with a soldier's duty.)*
+- **Fear of Failure (Water)** [anxiety, custom] — dread of falling short for those who depend on him; 3 strife after a high-stakes check whose failure would gravely harm others (1 Void first time/scene).
+
+## Heritage — the known Seppun blood
+Akihiko's Imperial descent is **no secret**; it is openly known, and it is *complicated*.
+- **Maternal grandfather — Toritaka Michio (born Seppun Michio):** a genuinely **talented** Seppun who became the **black sheep** of the Imperial family by **leaving the Seppun to marry a Toritaka** — trading the honor of guarding the Emperor's person for a haunted minor clan on the marches. The family never quite forgave the slight. *(deceased)*
+- **Illustrious maternal uncle — Seppun Tadanobu:** Michio's son, Akihiko's mother's brother, who **distinguished himself** in Imperial service and was **reclaimed into the Seppun** — partly **redeeming** the line's standing and keeping the bloodline's name known. Akihiko's sponsor into the Legions; a powerful, watchful patron whose favor is also a leash.
+- **Net:** openly-acknowledged Imperial blood, but from the *scandalous branch* — high enough that others court or resent him, low enough that he is always the black sheep's grandson with something to prove, riding on his uncle's prestige.
+
+## Personality
+- **First impression / flair:** a daishō scabbard etched edge-to-edge with **Amaterasu's rays** — the sacred fused to the instrument of violence.
+- **Stress tell / unmasking:** *the Falcon mask* — he goes rigid and icily formal, holding, holding, until it shatters all at once.
+- **Temperament (from Shake):** calm, contained, dry-funny, practical, focused on the next step; not cold but emotionally reserved; blunt when task-focused; gives others autonomy (sometimes too much); flexible and resourceful under pressure, though follow-through can be inconsistent.
+
+## Bonds
+- **Toritaka Akiro** — younger brother; apprentice healer-shugenja; calm, devoted; the one Akihiko would truly miss. *(Akhil)*
+- **Moshi Hizashi** — father; brilliant, scattered, entrepreneurial Centipede sun-priest-physician; a "radical" Moshi. *(Bhaskar)*
+- **Toritaka Sumiko** — mother; retired, grounded Falcon healer-warden; Michio's daughter, half-Seppun, carrier of the known Imperial line. *(Sudha)*
+- **Seppun Tadanobu** — illustrious maternal uncle; reclaimed Imperial servant; Akihiko's patron and the hand that placed him in the Legions. A liege-by-blood whose expectations weigh.
+- **The Scattered Corps** — healers and wardens of several clans bound to Akihiko by a past crisis they survived together; duty keeps them far apart now. *(his real friends/colleagues — see setting-canon.md)*
+
+## Gear / koku
+- **3 koku**
+- **Light lacquered field armor** [Physical 3] — campaign loadout · **Sanctified robes** [Physical 1 / **Supernatural 3**] — shugenja vestments (*only one armor's resistance applies at a time — choose loadout to the threat*) · **daishō** (katana + wakizashi) with ray-etched scabbard · **bō** (staff) · scroll satchel · traveling pack · religious texts
+- **Jade-inlaid field medicine kit** — a parting gift of the Scattered Corps; jade wards the Taint.
+
+## Conditions / injuries: none
