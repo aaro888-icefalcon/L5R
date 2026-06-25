@@ -1,0 +1,102 @@
+{
+ "kind": "facts.map",
+ "note": "DERIVED map-building from shared rivers/mountains/cities/climate in the refs — NOT canon-stated adjacencies. Playable & mostly defensible; a few edges are approximate. Use for travel/war geography; defer to any campaign setting-canon.md.",
+ "regions": [
+  {
+   "clan": "crab",
+   "region": "Southern Rokugan — the Empire's southern frontier at the foot of the Twilight Mountains, holding the Kaiu Wall (Carpenter Wall) against the Shadowlands to the south; warm, humid, subtropical, rainy coast on Earthquake Fish Bay.",
+   "borders": [
+    "crane",
+    "scorpion",
+    "shadowlands"
+   ],
+   "notes": "Guards the Carpenter/Kaiu Wall along the desolate SOUTHERN border; beyond lies the SHADOWLANDS (a constant martial frontier, not a clan). CONTESTED: the Tidal Landbridge across the mouth of Earthquake Fish Bay linking Crab and Crane holdings has been contested for centuries, with garrisons on both sides. Historic Crane-Crab war over mutual borders when the Yasuki family renounced the Crane and swore to the Crab. The River of the Last Stand fronts the Kaiu Wall.",
+   "source": "emerald-empire.md (Welcome to Rokugan; Grass and Snow; The Tidal Landbridge; Time of Greed - Yasuki/Crane-Crab border war; Kaiu Wall references) + intro-rokugan.md (The Crab Clan)"
+  },
+  {
+   "clan": "crane",
+   "region": "Southern/south-central Rokugan — fertile coastal plains (some of the most fertile in the Empire) along the southern coast and Earthquake Fish Bay; warm, subtropical south. Seat at Kyuden Doji.",
+   "borders": [
+    "crab",
+    "lion",
+    "scorpion"
+   ],
+   "notes": "CONTESTED: the Tidal Landbridge to the Crab; and a long-running LION-CRANE border war over Toshi Ranbo (the death of Lion Champion Akodo Arasou by Crane Champion Doji Hotaru's arrow, 1123, is the central live conflict). Coastal Crane plains were recently flooded by tsunami. The Crane are the 'Left Hand of the Emperor' (political aides to the throne) and traditionally provide the Hantei's spouse.",
+   "source": "emerald-empire.md (Grass and Snow; Toshi Ranbo / Contested Truths; The Tidal Landbridge; Kyuden Doji; Natural Disasters - Crane tsunami) + intro-rokugan.md (The Crane Clan)"
+  },
+  {
+   "clan": "lion",
+   "region": "Central Rokugan — fertile temperate plains with clear skies and the full range of seasons; the Empire's dominant military clan. Borders the old Ki-Rin/Unicorn lands.",
+   "borders": [
+    "crane",
+    "scorpion",
+    "dragon",
+    "unicorn",
+    "phoenix"
+   ],
+   "notes": "Most militarily aggressive Great Clan; central position gives it many neighbors. CONTESTED: LION-CRANE war over Toshi Ranbo (Akodo Arasou slain 1123). Lingering animosity toward the UNICORN — the Lion had been given stewardship of the Ki-Rin lands, lost as fertile farmland when the Emperor returned them to the Unicorn in 815. Shares interest in the City of the Rich Frog (with Dragon, Unicorn, Dragonfly). Lion lands border the Unicorn across the Spine of the World approaches.",
+   "source": "emerald-empire.md (Grass and Snow; Toshi Ranbo; A Clan of Horses and Samurai - Ki-Rin lands/Lion animosity; City of the Rich Frog) + intro-rokugan.md (The Lion Clan)"
+  },
+  {
+   "clan": "scorpion",
+   "region": "Central/south-central Rokugan along the windward (eastern) side of the Spine of the World Mountains; temperate with the full range of seasons, more rain/snow than the Lion. Seat at Kyuden Bayushi; holds Ryoko Owari Toshi (the City of Lies).",
+   "borders": [
+    "crane",
+    "lion",
+    "crab",
+    "unicorn"
+   ],
+   "notes": "Sits on the eastern flank of the Spine of the World Mountains (the Unicorn lie beyond/across them to the west). Holds the opium monopoly around Ryoko Owari Toshi. Was attacked by the Unicorn cavalry when the Ki-Rin/Unicorn first crossed the Spine of the World in 815. Its 'loyal villain' role keeps it set against most neighbors.",
+   "source": "emerald-empire.md (Grass and Snow; A Clan of Horses and Samurai - Scorpion attacked by Unicorn; Ryoko Owari Toshi / opium; Kyuden Bayushi) + intro-rokugan.md (The Scorpion Clan)"
+  },
+  {
+   "clan": "unicorn",
+   "region": "Western/northwestern Rokugan — the old Ki-Rin lands beyond the Spine of the World Mountains; kept warmer than its latitude by warm winds off the western Great Wall of the North and the Spine of the World. Frontier holdings (e.g. Khanbulak, Kobaku Province) reach toward the Burning Sands. Seat region includes Shiro Ide.",
+   "borders": [
+    "lion",
+    "scorpion",
+    "dragon",
+    "phoenix"
+   ],
+   "notes": "Returned from exile in 815, crossing the Spine of the World Mountains; clashed with the Crab (overran defensive lines coming out of the Shadowlands' northern edge), Scorpion, and nearly the Lion. Lingering LION animosity over the granted Ki-Rin lands. Western frontier opens onto the Burning Sands / gaijin lands (Khanbulak is the terminus of the Sand Road and Ki-Rin's Road). Shares interest in the City of the Rich Frog.",
+   "source": "emerald-empire.md (Grass and Snow; A Clan of Horses and Samurai; Khanbulak/White Guard; Kobaku Province; City of the Rich Frog) + intro-rokugan.md (The Unicorn Clan)"
+  },
+  {
+   "clan": "dragon",
+   "region": "Northern Rokugan — high, cold mountains (the Great Wall of the North range); mild summers and biting winters, some Togashi monasteries snow-covered year-round. Reclusive, with great suspension bridges in the peaks. Seat at Shiro Mirumoto.",
+   "borders": [
+    "phoenix",
+    "lion",
+    "unicorn"
+   ],
+   "notes": "Aloof northern mountain clan, screened from the rest of the Empire by the DRAGONFLY Minor Clan (the Tonbo, 'gatekeepers to the Dragon') who act as intermediaries. Shares interest in the City of the Rich Frog (with Lion, Unicorn, Dragonfly). The Kitsuki family's evidence-based investigative method (controversial outside Dragon lands) originates here.",
+   "source": "emerald-empire.md (Grass and Snow; Shiro Mirumoto hosting the Emperor; City of the Rich Frog; suspension bridges; Evidence vs Testimony - Kitsuki) + intro-rokugan.md (The Dragon Clan; Minor Clans - Dragonfly)"
+  },
+  {
+   "clan": "phoenix",
+   "region": "Northern Rokugan — cool, with mild summers and biting/snowy winters; coastal lands more temperate, inland frigid with terrible blizzards. Home to the Isawa Forest and Pale Oak Castle (favored by the Hantei for Winter Courts).",
+   "borders": [
+    "dragon",
+    "lion",
+    "unicorn"
+   ],
+   "notes": "Northern, spiritually-focused clan (guardians of the Empire's soul/religion). Rising tensions with the UNICORN are noted in the present era (Shiba scouts shadowing Unicorn pilgrims; more frequent border patrols from Shiro Gisu). The Cat Clan (Nekoma) lives on an island off the Phoenix coast. Asako Inquisitors stand in for the absent Jade Magistrates here.",
+   "source": "emerald-empire.md (Grass and Snow; Pale Oak Castle; Phoenix-Unicorn border tension at Shiro Gisu; The Spine of the World - Phoenix blizzards) + intro-rokugan.md (The Phoenix Clan; Minor Clans - Cat)"
+  },
+  {
+   "clan": "shadowlands",
+   "region": "Beyond the southern frontier, past the Carpenter/Kaiu Wall — a blighted land tainted by Jigoku/Hell, not a clan but the Empire's great external threat.",
+   "borders": [
+    "crab"
+   ],
+   "notes": "NOT a clan — included as a territorial neighbor to make the southern frontier real. Held back by the Crab at the Kaiu Wall; a successful incursion would be catastrophic. The Shadowlands Marshes festers on the eastern border of the Shinomen Forest.",
+   "source": "emerald-empire.md (Welcome to Rokugan; War; Kaiu Wall) + intro-rokugan.md (The World of Rokugan - 'Beyond the Wall lies the Shadowlands')"
+  }
+ ],
+ "landmarks": {
+  "capital": "Otosan Uchi — the Forbidden City / Imperial capital",
+  "contested": "Toshi Ranbo (Lion↔Crane war); the NW lands on the Drowned Merchant & Three Sides rivers (Lion↔Unicorn)",
+  "the_wall": "The Kaiu (Carpenter) Wall — Crab frontier vs the Shadowlands (south)",
+  "the_shinomen": "Shinomen Mori — vast primeval forest; spirit-haunted (the Falcon's beat)"
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "kind": "facts.titles",
+ "note": "Canon L5R 5E TITLES (curriculum-style) relevant to military/Imperial service, + the CORRECTED Table 7-4 Status bands. Assign with: social.py title <campaign> add. Each title = a Status award (often capped) + XP-to-completion that unlocks a title ability. A character holds only ONE incomplete title at a time.",
+ "status_bands_table_7_4_corrected": [
+  {
+   "band": "25-29",
+   "exemplars": "average Great Clan samurai; Abbot of the Brotherhood"
+  },
+  {
+   "band": "30-39",
+   "exemplars": "LIEUTENANT (chūi); clan magistrate; sensei; Emerald/Jade Magistrate"
+  },
+  {
+   "band": "40-49",
+   "exemplars": "CAPTAIN (taisa) of a company; city governor; hatamoto(low); vassal-family daimyō"
+  },
+  {
+   "band": "50-59",
+   "exemplars": "hatamoto; provincial governor; commander of multiple companies"
+  },
+  {
+   "band": "60-69",
+   "exemplars": "GREAT GENERAL (taishō); Great Clan family daimyō; Minor Clan Champion; Imperial Herald/Treasurer"
+  },
+  {
+   "band": "70-89",
+   "exemplars": "Great Clan Champion-tier"
+  },
+  {
+   "band": "90+",
+   "exemplars": "Imperial-tier"
+  }
+ ],
+ "titles": [
+  {
+   "name": "Gunsō (Sergeant)",
+   "assigned_by": "A daimyō may assign a samurai a rank within their military forces; samurai serving within the military rank structure may be promoted by a superior officer. (Explicitly covers service 'either in the armies of their own clan or in the Imperial Legions.')",
+   "status_award": "+5 (to a minimum of 20)",
+   "xp_to_completion": 24,
+   "title_ability": "Lead from the Front: When you defeat an opponent in a clash, your cohort removes panic equal to the opponent's glory rank. Additionally, once per round when you succeed at an Attack action check during a mass battle, your cohort removes panic equal to half of the attrition you inflict.",
+   "source": "emerald-empire.md, 'Additional Titles' — Gunsō"
+  },
+  {
+   "name": "General (Taishō)",
+   "assigned_by": "A clan or family daimyō with a status of 60 or higher, often following a great military achievement by the character.",
+   "status_award": "+25 (to a maximum of 85)",
+   "xp_to_completion": 50,
+   "title_ability": "Superior Command: While you are the commander of an army during a mass battle, your army's discipline value is increased by your ranks in Command. Additionally, when making an Initiative check during a mass battle, increase the result by your ranks in Tactics. (Also Glory Award +10.)",
+   "source": "fields-of-victory.md, 'New Titles' — General"
+  },
+  {
+   "name": "Quartermaster",
+   "assigned_by": "Clan or castle daimyō, army general, or other officer of sufficient rank.",
+   "status_award": "+5 (to a maximum of 35)",
+   "xp_to_completion": 24,
+   "title_ability": "Procurement and Supply: When you make a check as a downtime activity to provision an army, you may spend opportunity — opportunity+: if you succeed, your army increases its discipline and strength each by 1 per opportunity spent this way (persists until the end of the next mass battle scene).",
+   "source": "fields-of-victory.md, 'New Titles' — Quartermaster"
+  },
+  {
+   "name": "Renowned Warrior",
+   "assigned_by": "A daimyō or army commander with status 60 or higher, after you have been part of a mass battle in which your cohort was the one to complete at least one strategic objective.",
+   "status_award": "+5 (to a maximum of 40)",
+   "xp_to_completion": 16,
+   "title_ability": "Behold the Legend: Once per scene, after you make a successful Martial Arts check that inflicts fatigue or a critical strike on the target, you may have each friendly character at range 0–3 of you or the target remove an amount of strife equal to the TN of the check. (Also Glory Award +5.)",
+   "source": "fields-of-victory.md, 'New Titles' — Renowned Warrior"
+  },
+  {
+   "name": "Poet of War",
+   "assigned_by": "A general or other officer with status 50 or higher.",
+   "status_award": "None listed (Glory Award +10, to a maximum of 55)",
+   "xp_to_completion": 20,
+   "title_ability": "The Hand of Our Ancestors: After you perform a successful Rally action, the targeted cohort deals 1 additional attrition when its leader performs a successful Attack action check (persists for one round).",
+   "source": "fields-of-victory.md, 'New Titles' — Poet of War"
+  },
+  {
+   "name": "Master Saboteur",
+   "assigned_by": "Three other master saboteurs (usually members of a general's command staff or leaders of specialized clandestine units).",
+   "status_award": "None",
+   "xp_to_completion": 40,
+   "title_ability": "Ender of Works: When a fortification's difficulty value would be reduced during a mass battle, the value is lowered by that amount plus your ranks in Labor instead; if a cohort occupies it, that cohort's army suffers panic equal to your ranks in Skulduggery.",
+   "source": "fields-of-victory.md, 'New Titles' — Master Saboteur"
+  },
+  {
+   "name": "War College Graduate (Akodo War College)",
+   "assigned_by": "An instructor at the Akodo War College (the oldest military institution in Rokugan; Lion).",
+   "status_award": "+10 (to a maximum of 40)",
+   "xp_to_completion": 36,
+   "title_ability": "Learned from History: During a mass battle, when you accrue 1+ momentum points toward the Draw Them In or Seize Victory strategic objective, you accrue that many momentum points plus 1 instead; if your action completes that objective, the enemy army receives additional casualties and panic equal to your ranks in Tactics. (Also Glory Award +5, to a max of 60.)",
+   "source": "fields-of-victory.md, 'New Titles' — War College Graduate"
+  },
+  {
+   "name": "Ashigaru",
+   "assigned_by": "Any samurai officer; you must survive at least one mass battle to receive this title. (Useful mainly for Rise-from-the-Dust peasants, rōnin, and disguised/disgraced samurai.)",
+   "status_award": "+3 (to a maximum of 19)",
+   "xp_to_completion": 20,
+   "title_ability": "A Thousand Stinging Cuts: When you provide assistance on the Martial Arts [Melee] Attack action check of another character at range 0–2, the character you assist treats their target's physical resistance as 1 lower for each assisting character with this ability. (Also Glory Award +5, to a max of 29.)",
+   "source": "fields-of-victory.md, 'New Titles' — Ashigaru"
+  },
+  {
+   "name": "Deathseeker (Kirifu's Oath)",
+   "assigned_by": "Disgraced Lion Clan samurai may take this title upon themselves, pending GM approval. (A warrior's pilgrimage of atonement.)",
+   "status_award": "-25 (to a minimum of 20)",
+   "xp_to_completion": 8,
+   "title_ability": "Kirifu's Oath: As a Support action you may suffer the Enraged condition; while Enraged you can perform Attack actions even while Incapacitated. (Immediate effect: you give up all positions held, and your possessions save one weapon and a set of ceremonial robes return to your family.)",
+   "source": "fields-of-victory.md, 'New Titles' — Deathseeker"
+  },
+  {
+   "name": "Elemental Guard",
+   "assigned_by": "An Elemental Master (Council of Elemental Masters sanctions shugenja war units against grave threats such as the Shadowlands).",
+   "status_award": "+10 (Glory Award +10)",
+   "xp_to_completion": 20,
+   "title_ability": "Wrath of the Elements: Choose Air, Earth, Fire, or Water as your elemental specialty; once per scene after a Martial skill check using that ring, inflict strife or panic equal to your ranks in that ring against a target at range 0–3 or a cohort in the scene.",
+   "source": "fields-of-victory.md, 'New Titles' — Elemental Guard"
+  },
+  {
+   "name": "Elemental Legionnaire",
+   "assigned_by": "A daimyō of the Shiba family or the Phoenix Clan Champion, with permission from a member of the Elemental Council. (The Elemental Legions are sworn to protect their corresponding Elemental Guard in battle.)",
+   "status_award": "+10 (Glory Award +10)",
+   "xp_to_completion": 24,
+   "title_ability": "Strength of the Elements: Choose an elemental specialty (Air/Earth/Fire/Water); once per scene after a Martial skill check using that ring, you and up to your Command rank in targets at range 0–3 (or other cohort leaders) may remove strife equal to your ranks in that ring.",
+   "source": "fields-of-victory.md, 'New Titles' — Elemental Legionnaire"
+  },
+  {
+   "name": "Daimyō",
+   "assigned_by": "Clan champions, the Emperor, and other high-ranking officials in the Imperial hierarchy.",
+   "status_award": "+20 (to a minimum of 55)",
+   "xp_to_completion": 36,
+   "title_ability": "Voice of Authority: Reduce the TN of Command checks you make targeting your vassals by 1.",
+   "source": "emerald-empire.md, 'Additional Titles' — Daimyō"
+  }
+ ],
+ "akihiko_recommendation": {
+  "which_fits_akihiko": "sergeant",
+  "sergeant_term": "Gunsō",
+  "sergeant_status": 36,
+  "lieutenant_term": "Chūi",
+  "lieutenant_status": 40,
+  "sergeant_reasoning_note": "see reasoning field",
+  "reasoning": "Recommendation: make Akihiko a GUNSŌ (sergeant), Status held at ~36, NOT a chūi (lieutenant). Canon grounding: (1) Status fit. Table 7-4 (running-the-game.md) is explicit that 'lieutenant' lives in the 40–49 status band, while Status 30–39 is the band of the 'average Great Clan samurai.' A reset junior samurai at ~Status 36 sits squarely in the gunsō/average-samurai band and is BELOW the canonical lieutenant floor of 40. To call him a chūi you would have to award him up into the 40s, which contradicts 'reset junior samurai.' (2) Title mechanics. The Gunsō title (emerald-empire.md) is the purpose-built junior-officer title: Status Award +5 (to a minimum of 20), 24 XP to completion, ability Lead from the Front. Its 'Assigned By' clause is exactly his situation — 'A daimyō may assign a samurai a rank within their military forces, and samurai serving within the military rank structure may be promoted by a superior officer' — and it states samurai serve 'either in the armies of their own clan OR IN THE IMPERIAL LEGIONS.' There is no parallel 'Chūi' title in these books, so a lieutenant would have to be hand-built; the gunsō is the canon-supported entry rung. (3) Fiction fit. The gunsō is the 'lead from the front, conspicuous leadership' officer who commands the kashira and one squad — the right scope for a freshly-seconded junior officer with secret Seppun blood being tested before he is trusted with the several-sergeants span of a chūi. His Seppun/Imperial bloodline is precisely the tie that gets him INTO the Legions (commanders are 'drawn from the Seppun family as well as the best and brightest the clans can offer'), but bloodline grants access, not instant rank — he should EARN the climb to chūi (40) and beyond. Practical note on the number: if you apply the Gunsō title's '+5 (to a minimum of 20)' literally from a pre-title junior baseline, you land in the mid-30s; pinning him at Status 36 keeps him inside the average-Great-Clan-samurai band (30–39) and one promotion (to chūi, 40) away from the lieutenant tier — a clean runway for advancement. Lieutenant (Chūi, Status ~40) is the NEXT step, not the starting one."
+ },
+ "imperial_legions": {
+  "structure": "The Imperial Legions are 'The Army of the Emperor' — a single, unified force drawn from ALL the clans (not any one clan's army), led by the Emerald Champion and rooted in the authority of the Hantei, who holds the Mandate of Heaven. Canon structure (emerald-empire.md, 'The Army of the Emperor'): there have always been TEN distinct legions, each capable of fielding up to ten thousand soldiers (actual size varies; such full strength has not been seen in centuries). Each legion = 10 regiments; each regiment = 5 companies; companies are subdivided into platoons. Most of the samurai in the Legions are fielded from the LION Clan, but lords from every clan may send samurai and peasants to fill out the ranks. The ashigaru of the Legions are the closest thing to career soldiers among the peasantry: they sign a renewable SIX-YEAR term and do not return home until their assignment is complete. The vast supporting bureaucracy (estimated at twice as many bureaucrats in the capital as soldiers in the field) is run by the Otomo family with help from the Miya and Seppun. The Legions enforce Imperial edicts (e.g., the caps on how many troops a lord may field), settle inter-clan skirmishes, and defend Rokugan from foreign invaders (Yobanjin/gaijin, Shadowlands); in peacetime they may be repurposed for public works. (Sources: emerald-empire.md 'The Army of the Emperor' / 'Dust of the Battlefield' / 'The Hands of the Emperor'; running-the-game.md 'The Imperial Legions: The Emperor's armies, fielding warriors from all clans.')",
+  "how_a_clan_samurai_serves": "Canon is explicit (emerald-empire.md, Gunsō title): 'While the vast majority of soldiers in a Rokugani army are ashigaru and conscripts, MANY SAMURAI ARE CALLED TO MILITARY SERVICE, EITHER IN THE ARMIES OF THEIR OWN CLAN OR IN THE IMPERIAL LEGIONS. When samurai do take to the field, they often serve in leadership positions.' So a Great or Minor Clan samurai serves in the Emperor's army by being SECONDED/contributed to the Legions by their clan — lords 'may choose to send' their samurai (and peasants) to help fill out the Legions' strength. Commanders of the Legions 'are drawn from the Seppun family AS WELL AS the best and brightest the clans can offer' (emerald-empire.md). This is the natural seam for a samurai of secret Seppun/Imperial blood: the Seppun are the Emperor's hereditary protectors (Palace/Honor Guard + Hidden Guard) and one of the families from which Legion commanders are specifically drawn, so an Imperial bloodline is exactly the kind of tie that places a samurai into the Emperor's own force and onto the officer track. The Right Hand of the Emperor (traditionally the Lion) is 'the Emperor's personal army and martial enforcers... supported by the Seppun and the Imperial Legions' (emerald-empire.md). Assignment/promotion is by superior officer: 'A daimyō may assign a samurai a rank within their military forces, and samurai serving within the military rank structure may be promoted by a superior officer' (emerald-empire.md, Gunsō).",
+  "junior_officer_role": "A junior officer in the Legions sits at the GUNSŌ (sergeant) / CHŪI (lieutenant) tier of the chain of command (fields-of-victory.md, 'The Hierarchy of Armies'). Per the Gunsō title (emerald-empire.md): a gunsō is responsible for ALL aspects of battle readiness for the troops under their command — their training, discipline, and equipment — and commands the kashira (unit leaders) who lead individual units. In battle the gunsō directs troops in accordance with commands from superiors, must keep awareness of both their own unit AND the broader battle, and is expected to display CONSPICUOUS LEADERSHIP — leading from the front, rallying soldiers, keeping them in the fight as losses mount and morale wavers. Mechanically the gunsō leans on Command (and a sergeant 'leads a single squad comprising two or more basic or specialized units... according to the orders of the chūi' — fields-of-victory.md). A chūi (lieutenant) commands several sergeants, has greater impact on immediate/reactionary tactics, and uses Tactics and Performance to assess the battle and relay orders. (Sources: emerald-empire.md Gunsō title; fields-of-victory.md Hierarchy of Armies — Sergeant/Lieutenant.)"
+ }
+}

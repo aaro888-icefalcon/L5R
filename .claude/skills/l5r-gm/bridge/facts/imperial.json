@@ -1,0 +1,35 @@
+{
+ "kind": "facts.imperial",
+ "note": "Canon-grounded (FFG L5R 5E) + adversarially verified. Default 5E era (~1123). Consult before inventing Imperial/court/legal facts.",
+ "throne": {
+  "title": "The Emperor — 'the Hantei' (dynastic title). No personal given name is set in the refs; the Hantei line has run OVER THIRTY-NINE GENERATIONS. [corrected: do NOT assert a specific '39th-generation' emperor — it is a rhetorical dynastic count.]",
+  "seat": "The Imperial throne — attested as both the 'Emerald Throne' and the 'Chrysanthemum Throne' — in the Imperial Palace atop the Imperial Mound, Forbidden City of Otosan Uchi.",
+  "mandate": "Holds the Mandate of Heaven as descendant of Amaterasu; divine authority over all clans. The aging Emperor's favor is the prize of the current Crane–Scorpion court war."
+ },
+ "hands_of_the_emperor": {
+  "left_hand": "CRANE — draft laws and issue edicts; the Throne's political/administrative arm; supported by the Otomo, Miya, and Emerald Magistrates.",
+  "right_hand": "LION — the Emperor's personal army and martial enforcers; supported by the Seppun and the Imperial Legions."
+ },
+ "imperial_families": [
+  {
+   "name": "Miya",
+   "role": "Heralds & bureaucrats — the Imperial Heralds travel Rokugan to promulgate Imperial edicts."
+  },
+  {
+   "name": "Otomo",
+   "role": "Courtiers & bureaucrats — masters of court intrigue who keep the clans divided so none grows too powerful; run the Legion support bureaucracy; created the Sentaku Tribunal."
+  },
+  {
+   "name": "Seppun",
+   "role": "The Emperor's hereditary bodyguards & spiritual wardens — Palace/Honor Guard + Hidden Guard; one of the families Legion COMMANDERS are drawn from. [The PC's secret bloodline — the natural door into Imperial service.]"
+  }
+ ],
+ "courts_and_law": {
+  "emerald_magistrates": "Empire-wide ('national') magistrates; appointed by the EMERALD CHAMPION (himself chosen by a ceremonial dueling tournament) on the Emperor's behalf; drawn from any Great Clan, expected to set clan rivalry aside; use yoriki (deputies) and dōshin (peasant enforcers).",
+  "jade_magistrates": "Shugenja magistrates appointed by the Jade Champion; tasked with crimes touching the supernatural / Shadowlands Taint / maho.",
+  "clan_magistrates": "Appointed by clan/provincial daimyō; enforce the clan's & Emperor's law within the clan's lands; may appoint their own yoriki.",
+  "justice_is_testimony_based": "[corrected — load-bearing] Rokugani criminal justice considers EYEWITNESS TESTIMONY (including confession, often via torture) the only fully valid evidence; physical evidence usually has little standing. The Kitsuki (Dragon) evidence-based method is the celebrated EXCEPTION, not the norm — a key wrinkle for any investigation plot.",
+  "sentaku_tribunal": "Created by the Otomo in the 5th century; controls access to the Forbidden City and the Imperial Court."
+ },
+ "source": "emerald-empire.md (Army of the Emperor, Hands of the Emperor, Seppun/Otomo/Miya, Sentaku); intro-rokugan.md; running-the-game.md (magistrates, Emerald Champion)."
+}
