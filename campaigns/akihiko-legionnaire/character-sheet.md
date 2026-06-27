@@ -8,7 +8,7 @@
 
 ## Rings (the approach to each check)
 - Air **2**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**  _(Air 1→2, Session-1 XP)_
-- **Void points:** 1 / 2  _(spent 1 on the herb-search, Sc.3)_
+- **Void points:** 2 / 2  _(Day 2 — re-centered after the unmask & rest)_
 
 ## Skills (rank) — by group
 - **Artisan:** —
@@ -18,8 +18,8 @@
 - **Trade:** Survival 1 · Meditation 1
 
 ## Derived attributes
-- **Endurance** 10 (fatigue threshold) · current fatigue: 3  _(Sc.3: fire-healing toil)_
-- **Composure** 8 (strife threshold) · current **strife: 7** ← *unmask if strife ≥ composure*  _(end Sc.4 — the day's weight; one knock from the mask going)_
+- **Endurance** 10 (fatigue threshold) · current fatigue: 0  _(Day 2 — a full night's rest)_
+- **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife ≥ composure*  _(Day 2 — the mask cracked in private overnight; reset)_
 - **Focus** 5 · **Vigilance** 2  _(Focus = Air + Fire = 2+3; ↑ from Air 1→2 — better initiative & strife-bidding in duels)_
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
