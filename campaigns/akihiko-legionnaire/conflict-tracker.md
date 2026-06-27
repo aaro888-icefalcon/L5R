@@ -6,7 +6,7 @@
 - **Terms:** **LOCKED steel-only / iaijutsu** (Akihiko requested any-weapon; Kasumi refused — Fate Exc No; demanded the sword. An invocation now = witnessed cheating = AUTO-LOSS). Katana only; blades start sheathed (draw no earlier than first turn); field armor worn (both **Physical 3**); witnessed by both lines of men (judges).
 - **Pre-duel social:** Akihiko's Fire·Courtesy taunt (TN 2 → success, invoking the challenged-party's right + Lady Matsu's bravery) reclaimed his standing and rattled Kasumi (+5 strife → 6/14); did NOT crack her to any-weapon. Akihiko +1 strife → 4/8.
 - **Arena:** firelit toll-house road, full dark. Duelists at Range 2.
-- **Round:** 0 (setup) → entering Round 1.
+- **Round:** 1 complete → **top of Round 2 (concession window).**
 
 ## Initiative order
 | # | Combatant | tier | init value | opening stance | acted? |
@@ -17,8 +17,8 @@
 ## Combatants — state
 | Name | fatigue/endurance | strife/composure | conditions | Void | notes |
 |---|---|---|---|---|---|
-| Toritaka Akihiko | 0 / 10 | **4 / 8** | none | 2/2 | Compromised at strife ≥8 → opponent gets a finishing blow. Katana Dmg 4 / Deadly 5 (1h). MA 1, Fire 3. |
-| Matsu Kasumi | 0 / 14 | **6 / 14** | none | 2/2 | Superior duelist (MA ~3, Fire 3). RATTLED by Akihiko's taunt (was 1). Centered. |
+| Toritaka Akihiko | **1 / 10** | **6 / 8** | none | 2/2 | END R1. Whiffed his strike. **At round-2 staredown (+2) → strife 8 = COMPROMISED → Kasumi finishing blow (likely lethal).** Fire stance. |
+| Matsu Kasumi | 0 / 14 | **7 / 14** | none | 2/2 | END R1. Landed a glancing cut (armor soaked it). Struck first → +3 duel score. Dominant. Fire stance. |
 
 ## Key duel mechanics in play
 - **Staredown** each round (start of Phase 2): both gain strife = round number (+1, +2, +3…); then may bid 0–Focus extra strife to raise initiative that round.
