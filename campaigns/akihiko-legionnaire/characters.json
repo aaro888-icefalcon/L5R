@@ -9,7 +9,7 @@
   {
    "name": "Akihiko's cohort — the soldiers under his command",
    "weight": 2,
-   "note": "The ashigaru and bushi he leads — the people his ninjō is sworn to keep alive. Names & faces to be drawn in play (npc.py / generators). Their lives are the stakes."
+   "note": "The squads he leads — including a FALCON (Toritaka) contingent of clansmen-levies he means to bring home alive (his ninjō), plus Legion ashigaru & bushi of mixed clans. Names & faces drawn in play (npc.py / generators). Their lives are the stakes; their home is the Valley of the Spirits."
   },
   {
    "name": "The Lion army at Toshi Ranbo",
@@ -22,9 +22,9 @@
    "note": "Smaller but exquisitely trained; the Left Hand of the Emperor, masters of court and the duel. Defending what they hold; will fight with law and word as much as steel. (facts.py clan crane)"
   },
   {
-   "name": "His commanding officer (Imperial Legion taisa — TBD in play)",
+   "name": "Seppun Saburō (taisa / commanding officer)",
    "weight": 1,
-   "note": "Akihiko's direct superior — a captain (taisa) of the Legion. Clan, name, and disposition to be generated when first met; knows of the Seppun connection."
+   "note": "Akihiko's direct superior — taisa of the Legion company. A TRUE-BLOODED Seppun who rose from OBSCURITY by merit (seed: Succeed·Obscurity), not by name — and so has no patience for a commission bought with Tadanobu's favor. Knows exactly whose nephew Akihiko is and rides him HARDER for it, to be seen showing the patron's pup no slack. Demanding, watchful, competent; gives orders that spend lives to win the Throne's war. Want: deepen in play — make this posting prove his command was earned. Disposition: cold, testing, proprietary-but-skeptical."
   }
  ]
 }
