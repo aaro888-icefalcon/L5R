@@ -19,7 +19,7 @@
 
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 3  _(Sc.3: fire-healing toil)_
-- **Composure** 8 (strife threshold) · current **strife: 4** ← *unmask if strife ≥ composure*  _(Sc.3, mid-scene)_
+- **Composure** 8 (strife threshold) · current **strife: 7** ← *unmask if strife ≥ composure*  _(end Sc.4 — the day's weight; one knock from the mask going)_
 - **Focus** 4 · **Vigilance** 2
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
