@@ -23,7 +23,7 @@
 - **Focus** 4 · **Vigilance** 2
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
-- **Honor** 57 · **Glory** 32 · **Status** 36  _(Sc.2 duel: Honor +2 for grace under death; Glory −3 for a public duel loss / the edict broken on his post. Status held at baseline.)_
+- **Honor** 57 · **Glory** 36 · **Status** 36  _(Sc.2 duel: Honor +2, Glory −3. Sc.3–5: Glory +4 — cured the company, caught the assassin, turned a Lion column [witnessed]. Status held.)_
 - **Title:** Gunsō (0 / 24 XP to completion → unlocks *Lead from the Front*)
 
 ## Ninjō (desire) & Giri (duty) — the heart of the drama

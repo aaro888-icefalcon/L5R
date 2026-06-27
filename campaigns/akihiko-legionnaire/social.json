@@ -2,7 +2,7 @@
  "kind": "social",
  "character": "Toritaka Akihiko",
  "honor": 57,
- "glory": 32,
+ "glory": 36,
  "status": 36,
  "titles": [
   {
@@ -50,6 +50,14 @@
    "reason": "Correcting an erroneous +3, then applying the real loss: public death-duel defeat and the edict broken on his post (Lion crossed west). Net -3 from 35 → 32; the grace that spared him keeps it from being worse.",
    "kind": "forfeit",
    "value_after": 32
+  },
+  {
+   "attr": "glory",
+   "delta": 4,
+   "scale": "4 pts (explicit)",
+   "reason": "Sc.3-5: cured a poisoned Legion company, caught the assassin alive, and — witnessed by both clans' men — turned a 50-strong Lion strike force off Crane ground with nerve and a bluff. The deeds spread and claw back the duel-loss.",
+   "kind": "award",
+   "value_after": 36
   }
  ]
 }
