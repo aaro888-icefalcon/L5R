@@ -8,7 +8,7 @@
 
 ## Rings (the approach to each check)
 - Air **1**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**
-- **Void points:** 2 / 2
+- **Void points:** 1 / 2  _(spent 1 on the herb-search, Sc.3)_
 
 ## Skills (rank) — by group
 - **Artisan:** —
@@ -18,8 +18,8 @@
 - **Trade:** Survival 1 · Meditation 1
 
 ## Derived attributes
-- **Endurance** 10 (fatigue threshold) · current fatigue: 0
-- **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife > composure*
+- **Endurance** 10 (fatigue threshold) · current fatigue: 3  _(Sc.3: fire-healing toil)_
+- **Composure** 8 (strife threshold) · current **strife: 4** ← *unmask if strife ≥ composure*  _(Sc.3, mid-scene)_
 - **Focus** 4 · **Vigilance** 2
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
@@ -44,7 +44,7 @@
 ## Disadvantages
 - **Scorn of the Scorpion Clan (Water)** [adversity] — the Scorpion bar their doors; on rapport checks with them, choose & reroll 2 dice showing success; gain 1 Void on failure.
 - **Softheartedness (Fire)** [anxiety] — given the choice to kill or spare, he *always* spares; 3 strife after kill-related checks (1 Void first time/scene). *(In sharp tension with a soldier's duty.)*
-- **Fear of Failure (Water)** [anxiety, custom] — dread of falling short for those who depend on him; 3 strife after a high-stakes check whose failure would gravely harm others (1 Void first time/scene).
+- **Fear of Failure (Water)** [anxiety, custom] — dread of falling short for those who depend on him. **Invoked on a relevant WATER-approach check** (the ring gates it — NOT every high-stakes check): after such a check, receive 3 strife (gain 1 Void the first time per scene). The dread bites when he leads with empathy/adaptation and dependents' safety rides on it.
 
 ## Heritage — the known Seppun blood
 Akihiko's Imperial descent is **no secret**; it is openly known, and it is *complicated*.
