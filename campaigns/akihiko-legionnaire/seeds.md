@@ -45,5 +45,18 @@
 - The Scorpion bar a door he needs open (Scorn of the Scorpion).
 - Word from home: his brother Akiro, or the haunted Toritaka lands, needs him while duty holds him at the front.
 
+## Live world — after the toll-house (Sc.2 aftermath)
+- **Taisa Seppun Saburō hears the news at dawn** — the post fell, the Lion crossed, the patron's pup lost a duel and lives by a Matsu's mercy. Cold contempt confirmed, or something unexpected — a charge, a punishment, a test redoubled?
+- The two riders (Sora + one) reach the Legion camp; how they tell it shapes how it's heard — and whether the boy embellishes his lord's grace or his lord's defeat.
+- Akihiko's Falcons saw their officer lose and be spared. Morale fork: shameful, or a lord who'd die for the edict and was honored by a great-clan blade? Yoshi's read sets the tone.
+- **Matsu Kasumi's debt comes due** — a token arrives, or she crosses his path again (court, parley, the next clash), and "remember who gave it to you" turns from words into a claim.
+- Word spreads through both armies: the Falcon priest who taunted a Matsu, fought to the death, and was spared. A courtier, a rival officer, or a Lion who disagrees with Kasumi's mercy takes an interest.
+- The Lion who crossed west had a destination — what did Kasumi's patrol go west *for*? (The "lawful business" she never named.)
+- A superior (or Tadanobu, by letter) demands a written accounting for the broken edict; the black-sheep nephew must explain a failure on paper.
+- A Crane party noticed the breach (the horn carried west too); the Left Hand's people now know an Imperial post let the Lion through — and may use it.
+- The ninjō/giri lesson lands cold: this time grace saved him; next time it's a battlefield, and grace doesn't stop arrows. When does the choice come for *real* — his Falcons' lives against an order?
+
 ## Recently consumed (this session)
-- _(none yet)_
+- ~~An order spends his cohort on a costly duty~~ → became the toll-house forward-picket (Saburō's posting). Live.
+- ~~A Lion officer demands the post stand aside~~ → fired hard as Matsu Kasumi's passage demand → the duel.
+- ~~A duel challenge / kill-or-spare~~ → the death-duel with Kasumi. Resolved: Akihiko lost, was spared.

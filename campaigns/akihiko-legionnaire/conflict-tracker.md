@@ -1,4 +1,9 @@
-# Conflict Tracker — DUEL (ACTIVE)
+# Conflict Tracker — DUEL (RESOLVED · Scene 2)
+
+> **OUTCOME:** Akihiko LOST. Round 2 staredown Compromised him (strife 8/8) → Kasumi's finishing blow triggered — but his graceful death-acceptance (apology + honoring her) moved her (Fate: YES) and she **spared his life**, took the road west, left him a debt. Akihiko unmasked into serene acceptance (strife → 0), fatigue 1, no wounds. Glory −3 (→32), Honor +2 (→57). No active conflict now.
+
+---
+
 
 - **Type:** Iaijutsu duel, **to the death OR surrender** (concession available at the start of any round).
 - **Objectives:** Akihiko → defeat/kill Kasumi or force her concession (hold the road, no Lion crossing). Kasumi → kill/Dying/Incapacitate Akihiko or force his surrender (take the road west).

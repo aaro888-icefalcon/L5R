@@ -1,8 +1,8 @@
 {
  "kind": "social",
  "character": "Toritaka Akihiko",
- "honor": 55,
- "glory": 35,
+ "honor": 57,
+ "glory": 32,
  "status": 36,
  "titles": [
   {
@@ -26,6 +26,30 @@
    "reason": "title assigned: Gunsō",
    "kind": "title",
    "value_after": 36
+  },
+  {
+   "attr": "glory",
+   "delta": 3,
+   "scale": "3 pts (explicit)",
+   "reason": "Lost a death-duel to Matsu Kasumi before both armies; the edict broke and the Lion crossed his post. Spared for the grace with which he met death.",
+   "kind": "award",
+   "value_after": 38
+  },
+  {
+   "attr": "honor",
+   "delta": 2,
+   "scale": "2 pts (explicit)",
+   "reason": "Refused to yield, met certain death with grace, apologized sincerely for his taunt, and honored his enemy — conduct that moved a Matsu to spare him.",
+   "kind": "award",
+   "value_after": 57
+  },
+  {
+   "attr": "glory",
+   "delta": -6,
+   "scale": "6 pts (explicit)",
+   "reason": "Correcting an erroneous +3, then applying the real loss: public death-duel defeat and the edict broken on his post (Lion crossed west). Net -3 from 35 → 32; the grace that spared him keeps it from being worse.",
+   "kind": "forfeit",
+   "value_after": 32
   }
  ]
 }
