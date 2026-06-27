@@ -43,8 +43,8 @@
 
 ## Disadvantages
 - **Scorn of the Scorpion Clan (Water)** [adversity] — the Scorpion bar their doors; on rapport checks with them, choose & reroll 2 dice showing success; gain 1 Void on failure.
-- **Softheartedness (Fire)** [anxiety] — given the choice to kill or spare, he *always* spares; 3 strife after kill-related checks (1 Void first time/scene). *(In sharp tension with a soldier's duty.)*
-- **Fear of Failure (Water)** [anxiety, custom] — dread of falling short for those who depend on him. **Invoked on a relevant WATER-approach check** (the ring gates it — NOT every high-stakes check): after such a check, receive 3 strife (gain 1 Void the first time per scene). The dread bites when he leads with empathy/adaptation and dependents' safety rides on it.
+- **Softheartedness (Fire)** [anxiety] — loath to take life. **Invoked when he kills:** after a kill-related (Fire-approach) check that ends a living being, receive **3 strife** (1 Void first time/scene). *(In sharp tension with a soldier's duty.)*
+- **Fear of Mediocrity (Fire)** [anxiety] *(Interpersonal, Mental — replaces Fear of Failure)* — *the dread of amounting to nothing makes him seize up when he must innovate on the fly.* **After a check to ADAPT to an unexpected situation** (e.g. a **Survival [Fire]** check to find shelter when the tent is destroyed, or a **Culture [Fire]** check to unexpectedly handle someone of higher status), receive **3 strife** (gain 1 Void the first time per scene). *("Falling up a mountain, to be immortalized as a fool." — old Agasha saying)*
 
 ## Heritage — the known Seppun blood
 Akihiko's Imperial descent is **no secret**; it is openly known, and it is *complicated*.
