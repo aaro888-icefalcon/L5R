@@ -4,7 +4,7 @@
 - **Clan / Family / School:** Falcon · Toritaka · **Moshi Sun Sentinel** [Bushi, Shugenja]
   *(out-of-clan school — Falcon-born, trained at the Light of the Lady Sun Dōjō through his Moshi father; canon-supported: the Moshi keep a permanent place for Falcon at the shrine)*
 - **Concept / role:** Warrior-priest of Amaterasu — **battlefield medic & sun-priest**, now a junior officer of the Emperor's army.
-- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 1** (Moshi Sun Sentinel) · **XP available: 0**.
+- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 1** (Moshi Sun Sentinel) · **XP available: 9** _(Session 1 award)_.
 
 ## Rings (the approach to each check)
 - Air **1**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**
