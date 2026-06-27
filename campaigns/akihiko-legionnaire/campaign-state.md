@@ -7,7 +7,7 @@
 ## Active set (the context filter — only matching content loads)
 ```yaml
 active_set:
-  sources:    [core, emerald-empire, fields-of-victory]   # war + Imperial; add others as the campaign reaches them
+  sources:    [core, emerald-empire, fields-of-victory, path-of-waves, celestial-realms]   # war + Imperial; +path-of-waves (Akihiko's Mind's Edge kata) +celestial-realms (Amaterasu's Gaze etc.)
   clans:      [falcon, lion, crane, scorpion, imperial]   # PC Falcon (Seppun blood); the warring sides; Scorpion scorn
   subsystems: [core-check, skirmish, duel, intrigue, mass-battle, downtime, advancement]
   modes:      [war, court, wilderness, spiritual]

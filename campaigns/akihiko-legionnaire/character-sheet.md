@@ -4,7 +4,7 @@
 - **Clan / Family / School:** Falcon · Toritaka · **Moshi Sun Sentinel** [Bushi, Shugenja]
   *(out-of-clan school — Falcon-born, trained at the Light of the Lady Sun Dōjō through his Moshi father; canon-supported: the Moshi keep a permanent place for Falcon at the shrine)*
 - **Concept / role:** Warrior-priest of Amaterasu — **battlefield medic & sun-priest**, now a junior officer of the Emperor's army.
-- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 1** (Moshi Sun Sentinel) · **XP available: 3** _(Session-1 award 9; spent 6 on Air 1→2; 3 reserved for a rank-1 technique)_.
+- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 1** (Moshi Sun Sentinel) · **XP available: 0** _(Session-1 award 9 fully spent: Air 1→2 [6 XP] + Mind's Edge kata [3 XP]. Neither allocated to the Gunsō title — title stays 0/24, to be fed by later leadership buys.)_.
 
 ## Rings (the approach to each check)
 - Air **2**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**  _(Air 1→2, Session-1 XP)_
@@ -34,6 +34,7 @@
 ## Techniques known
 - **Invocations:** Armor of Radiance · Biting Steel · Extinguish · Katana of Fire
 - **Rituals:** Cleansing Rite · Commune with the Spirits
+- **Kata:** **Mind's Edge** *(rank 1, Void — Path of Waves, GM-allowed)* — 1/scene, after a no-check action in **Void stance**, make a TN 1 Meditation (Void) check; on success the next strife you'd take is reduced by 3 (+1 per 2 bonuses; with ● every strife before your next turn). *Strife-armor for the staredown.* (Session-1 XP)
 - **School ability — Blazing Tears of Lady Sun:** Fire-invocation damage gains *Sacred* (items he augments/summons with Fire are *Sacred*). Against a **non-Tainted human**, his Fire invocations deal no damage/conditions — instead the target **removes fatigue** equal to school rank + the damage it would have dealt (once per character per scene). *His fire heals the worthy and burns the wicked.*
 
 ## Advantages
