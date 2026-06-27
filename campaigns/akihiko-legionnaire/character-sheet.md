@@ -4,10 +4,10 @@
 - **Clan / Family / School:** Falcon · Toritaka · **Moshi Sun Sentinel** [Bushi, Shugenja]
   *(out-of-clan school — Falcon-born, trained at the Light of the Lady Sun Dōjō through his Moshi father; canon-supported: the Moshi keep a permanent place for Falcon at the shrine)*
 - **Concept / role:** Warrior-priest of Amaterasu — **battlefield medic & sun-priest**, now a junior officer of the Emperor's army.
-- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 1** (Moshi Sun Sentinel) · **XP available: 9** _(Session 1 award)_.
+- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 1** (Moshi Sun Sentinel) · **XP available: 3** _(Session-1 award 9; spent 6 on Air 1→2; 3 reserved for a rank-1 technique)_.
 
 ## Rings (the approach to each check)
-- Air **1**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**
+- Air **2**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**  _(Air 1→2, Session-1 XP)_
 - **Void points:** 1 / 2  _(spent 1 on the herb-search, Sc.3)_
 
 ## Skills (rank) — by group
@@ -20,7 +20,7 @@
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 3  _(Sc.3: fire-healing toil)_
 - **Composure** 8 (strife threshold) · current **strife: 7** ← *unmask if strife ≥ composure*  _(end Sc.4 — the day's weight; one knock from the mask going)_
-- **Focus** 4 · **Vigilance** 2
+- **Focus** 5 · **Vigilance** 2  _(Focus = Air + Fire = 2+3; ↑ from Air 1→2 — better initiative & strife-bidding in duels)_
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
 - **Honor** 57 · **Glory** 36 · **Status** 36  _(Sc.2 duel: Honor +2, Glory −3. Sc.3–5: Glory +4 — cured the company, caught the assassin, turned a Lion column [witnessed]. Status held.)_
