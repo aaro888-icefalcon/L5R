@@ -25,7 +25,7 @@
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
 - **Honor** 74 · **Glory** 42 · **Status** 36  _(Sc.2 duel +2/−3. Sc.3–5: Glory +4. Sc.8: Honor +5 (vow sworn). **Sc.18 (the climax): Honor +12 (major) — the sacred vow KEPT, the crime dragged into Amaterasu's light before an army, lawfully; Glory +6 (major) — the witnessed deed. Status held (elevation = a Status-priced Fate Question with strings, not yet rolled).)_
-- **⚠ Honor crossed 64 → choose a VIRTUE/FAME advantage** (Table 7-2/7-3) — PENDING the player's pick (fitting: a Sincerity/Honesty/Compassion virtue, or *Famously Honest/Reliable*).
+- **✅ Honor crossed 64 → VIRTUE/FAME advantage TAKEN: *Famously Successful (Fire)*** [Fame, Interpersonal] — reroll up to 2 dice when leveraging his reputation for getting results at any cost (efficiency checks: Courtesy [Fire] for a posting/favor, Tactics [Fire] to make foes withdraw). *See Advantages.*
 - **Title:** Gunsō (**8 / 24** XP to completion → unlocks *Lead from the Front*) _(Session-2: +8 from title-curriculum buys — MA[Melee], Fitness, Command.)_
 
 ## Ninjō (desire) & Giri (duty) — the heart of the drama
@@ -43,6 +43,7 @@
 - **Sixth Sense (Void)** [distinction] — feels the presence of hidden spirits (ominous when their intent is evil); reroll up to 2 dice on hunch checks.
 - **Stories (Earth)** [passion] — folktales & ballads; reroll up to 2 on relevant checks; cancels a paired anxiety on a shared check.
 - **Blessed Lineage (Void)** [distinction — Imperial] — characters of Status 50+ will not choose to kill him as a first option, lest harming **known Imperial blood** cost them prestige. *(His Seppun descent is openly known — see Heritage.)*
+- **Famously Successful (Fire)** [Fame, Interpersonal] — *earned at Arc 1's close (Honor crossed 64).* People have heard he **gets results at any cost** and believe it by default unless shown otherwise. When a check **leverages that reputation for efficiency** (e.g. a **Courtesy [Fire]** check to win a posting/favor from a superior, or a **Tactics [Fire]** check to make enemy troops withdraw before a show of force), **reroll up to 2 dice.** *The black-sheep grandson who finished three things before noon and dragged a Great-Clan crime into Amaterasu's light before an army — "victory makes even the honorable forget the stains of your dishonor."*
 
 ## Disadvantages
 - **Scorn of the Scorpion Clan (Water)** [adversity] — the Scorpion bar their doors; on rapport checks with them, choose & reroll 2 dice showing success; gain 1 Void on failure.
