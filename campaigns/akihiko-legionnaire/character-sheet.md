@@ -19,7 +19,7 @@
 
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 0  _(Day 3 — rested)_
-- **Composure** 8 (strife threshold) · current **strife: 1** ← *unmask if strife ≥ composure*  _(Day 3. Sc.8 night peaked at 7/8 (oath + holding Kasumi), held the mask, then **rest reset to 0**; Sc.10 +1 reading the crime scene. Clean and seated.)_
+- **Composure** 8 (strife threshold) · current **strife: 3** ← *unmask if strife ≥ composure*  _(Day 3 night. Sc.10 +1 (crime scene); Sc.12 +1 failed plea, +1 the sincere appeal to Kasumi. Seated, room to spare.)_
 - **Focus** 5 · **Vigilance** 2  _(Focus = Air + Fire = 2+3; ↑ from Air 1→2 — better initiative & strife-bidding in duels)_
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
