@@ -24,7 +24,8 @@
 - **Focus** 5 · **Vigilance** 2  _(Focus = Air + Fire = 2+3; ↑ from Air 1→2 — better initiative & strife-bidding in duels)_
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
-- **Honor** 62 · **Glory** 36 · **Status** 36  _(Sc.2 duel: Honor +2, Glory −3. Sc.3–5: Glory +4 — cured the company, caught the assassin, turned a Lion column [witnessed]. Sc.8: Honor +5 (minor) — a solemn sacred vow to the murdered dead, before two armies. Status held.)_
+- **Honor** 74 · **Glory** 42 · **Status** 36  _(Sc.2 duel +2/−3. Sc.3–5: Glory +4. Sc.8: Honor +5 (vow sworn). **Sc.18 (the climax): Honor +12 (major) — the sacred vow KEPT, the crime dragged into Amaterasu's light before an army, lawfully; Glory +6 (major) — the witnessed deed. Status held (elevation = a Status-priced Fate Question with strings, not yet rolled).)_
+- **⚠ Honor crossed 64 → choose a VIRTUE/FAME advantage** (Table 7-2/7-3) — PENDING the player's pick (fitting: a Sincerity/Honesty/Compassion virtue, or *Famously Honest/Reliable*).
 - **Title:** Gunsō (**8 / 24** XP to completion → unlocks *Lead from the Front*) _(Session-2: +8 from title-curriculum buys — MA[Melee], Fitness, Command.)_
 
 ## Ninjō (desire) & Giri (duty) — the heart of the drama

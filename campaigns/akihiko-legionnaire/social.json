@@ -1,8 +1,8 @@
 {
  "kind": "social",
  "character": "Toritaka Akihiko",
- "honor": 62,
- "glory": 36,
+ "honor": 74,
+ "glory": 42,
  "status": 36,
  "titles": [
   {
@@ -66,6 +66,22 @@
    "reason": "Swore a solemn vow by Amaterasu's authority to the murdered dead of the burned village — to uncover the crime against the gods that raised them — witnessed by his Legion company and Matsu Kasumi's riders.",
    "kind": "award",
    "value_after": 62
+  },
+  {
+   "attr": "honor",
+   "delta": 12,
+   "scale": "major",
+   "reason": "Kept his sacred vow to the murdered dead — dragged Akodo Shizue's poison-crime into Amaterasu's light before a whole Lion camp, by lawful means; the dead laid to rest, the oath discharged.",
+   "kind": "award",
+   "value_after": 74
+  },
+  {
+   "attr": "glory",
+   "delta": 6,
+   "scale": "major",
+   "reason": "Stood wreathed in Amaterasu's fire in the Lion camp, turned an army's lie with the Throne's truth, and saw Akodo Shizue exposed & felled — witnessed by a whole great-clan host at dawn.",
+   "kind": "award",
+   "value_after": 42
   }
  ]
 }
