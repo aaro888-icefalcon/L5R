@@ -8,7 +8,7 @@
 
 ## Rings (the approach to each check)
 - Air **2**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**  _(Air 1→2, Session-1 XP)_
-- **Void points:** 2 / 2  _(Day 2 — re-centered after the unmask & rest)_
+- **Void points:** 2 / 2  _(Day 3 — full; a night's rest)_
 
 ## Skills (rank) — by group
 - **Artisan:** —
@@ -18,8 +18,8 @@
 - **Trade:** Survival 1 · Meditation 1
 
 ## Derived attributes
-- **Endurance** 10 (fatigue threshold) · current fatigue: 0  _(Day 2 — a full night's rest)_
-- **Composure** 8 (strife threshold) · current **strife: 6** ← *unmask if strife ≥ composure*  _(Sc.8 night: +1 Sc.7 fireside tale, +2 Armor of Radiance, +1 the Matsu alliance, +2 the vow's weight — the communion itself cost 0 (true Void holds a thousand griefs without breaking). Carrying the oath; 2 from a break.)_
+- **Endurance** 10 (fatigue threshold) · current fatigue: 0  _(Day 3 — rested)_
+- **Composure** 8 (strife threshold) · current **strife: 1** ← *unmask if strife ≥ composure*  _(Day 3. Sc.8 night peaked at 7/8 (oath + holding Kasumi), held the mask, then **rest reset to 0**; Sc.10 +1 reading the crime scene. Clean and seated.)_
 - **Focus** 5 · **Vigilance** 2  _(Focus = Air + Fire = 2+3; ↑ from Air 1→2 — better initiative & strife-bidding in duels)_
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
