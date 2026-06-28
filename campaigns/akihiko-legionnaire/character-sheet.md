@@ -19,7 +19,7 @@
 
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 0  _(Day 4 — night's rest)_
-- **Composure** 8 (strife threshold) · current **strife: 1** ← *unmask if strife ≥ composure*  _(Day 4 dusk — HQ-scene strife cleared at scene-end; Sc.15 skirmish +1 (the serene Guard). RAW: strife clears at each scene's end; the "half" rule is FATIGUE.)_
+- **Composure** 8 (strife threshold) · current **strife: 2** ← *unmask if strife ≥ composure*  _(Day 4 night — Sc.15 sequence: +1 serene Guard, +1 squeezing the captive. Will clear when he leaves for Kasumi (scene-end). RAW: strife clears at each scene's end; the "half" rule is FATIGUE.)_
 - **Focus** 5 · **Vigilance** 2  _(Focus = Air + Fire = 2+3; ↑ from Air 1→2 — better initiative & strife-bidding in duels)_
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
