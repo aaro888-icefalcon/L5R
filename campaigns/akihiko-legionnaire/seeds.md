@@ -45,20 +45,24 @@
 - The Scorpion bar a door he needs open — a Water rapport check with them (Scorn of the Scorpion).
 - Word from home: his brother Akiro, or the haunted Toritaka lands, needs him while duty holds him at the front.
 
-## Live world — after the vow (Sc.8, Day 2 night)
-- **Kasumi, a pace away, asks what the dead told him.** How he answers sets the bond's course: tell her true (and risk warning Shizue / a Matsu's loyalty), deflect (and spend the trust he just earned), or test her with a sliver. She's the one Lion who might be *turned.*
-- **The proof is a quarter-mile away, in the enemy camp.** Imperial-sealed grain/salt the Lion looted from the village — magistrate-grade evidence — sits among Shizue's stores. Getting eyes (or hands) on it means reaching *into* the Lion line: by guile, by Kasumi, by a magistrate's writ, or by night.
-- **The vow's clock ticks on his soul.** He swore to the dead by Amaterasu; every day unproven is a day forsworn-pending. The dead rest *conditionally.*
-- **Saburō will hear two things:** that Akihiko held the toll-house without battle (a freeze — half-measure or masterstroke?), and that his officer publicly *commanded the dead.* Miracle in Legion mouths, **maho** in a rival's or a censor's.
-- **Word of the night will run both armies by dawn:** the Falcon priest who turned an army of the dead with a vow. A Phoenix Inquisitor, an Otomo censor, a frightened Lion, or an awed recruit — someone comes asking what he is.
-- **Shizue feels a thread pulled.** If word reaches her that the Imperial referee is now *certain* (and oath-bound) about the poison, the marked nephew becomes a problem she may move to erase — or to discredit as a maho-tainted madman first.
-- **Jōji's coded papers** (scholars still on them) finally yield a fragment — a drop, a date, a cipher-key — that corroborates (or complicates) what the dead said.
-- **The looted village had survivors** the dead did not include — a living witness or two in the reeds, hunted or hiding. Saving them (ninjō) is also building the case (giri).
-- A Falcon under him (Hayato, who wept; Yoshi, who prayed) is changed by what he saw his lord do — devotion sharpened, or a fear that the chūi traffics with the dead.
+## Live world — the keystone night (end of Day 4, Session-2 pause)
+- **THE KEYSTONE: cross to Kasumi before dawn.** The case is built (manifest + Ume's ledger + Sukune); only her Lion-on-Lion word closes it. How he approaches — openly under parley, a quiet summons to the toll-house, or intercepting her own crate-reckoning — and whether he wins her to the **light** vs a quiet Lion burial, is the whole game.
+- **The cleanup is racing him.** The conspiracy knows it's exposed and is burning loose ends *tonight* (the captive confirmed it). The looted crates may be moved/destroyed; other mouths silenced; Ume still hunted. Every hour costs evidence.
+- **The vow's clock + Saburō's dawn + Sukune's patience all expire together — tonight.** Stacked deadlines collapsed onto one night.
+- **Kasumi's own reckoning may already be done.** She went to verify the crates herself; she may arrive *already turned* — or already gone to confront Shizue (the loose-blade risk), or intercepted by the cleanup.
+- **Shizue, cornered, gets dangerous.** A panicked paymaster burning evidence may strike at the toll-house, at Ume, at Akihiko — or move to silence Kasumi herself if she's seen wavering.
+- **Otomo Reiko, the loaded gun.** The censor dismissed the Crane's accusation but still circles the maho-whisper; the Jade/Seppun counter-trap (Akihiko's letter) is in reserve. If the case lands, Reiko's posture flips overnight.
+- **The captive watcher** is a held mouth — chase his cut-out ('the soldier-type'), or trade him, or he's a liability the cleanup wants dead too.
+- **Ume safe but a target.** A protected witness behind the earthworks is also a magnet; the priest's sworn word to keep her alive will be *tested.*
+- **Tadanobu's reaction still pending** — the Seppun uncle has not yet weighed in on a duel lost, a road broken, the dead commanded, and now a Great-Clan accusation his nephew is driving.
+- A **Falcon under him** (Hayato, Yoshi) changed by what they've seen — devotion sharpened, or unease that their chūi walks with the dead.
 
-## Recently consumed (this session)
-- ~~The duel / Kasumi's mercy (Sc.2)~~ → a life-debt and, by Sc.8, a turning bond.
-- ~~Return to the toll-house & fortify (Sc.6)~~ → full company + cavalry, the line frozen as the Emperor's emissary (Sc.7).
-- ~~An order spends his cohort / the post stand-aside~~ → spent in Day 1; the war's pressure now runs through the spirit-dark and the proof-hunt.
-- ~~Check in on his juniors (Sc.8 expected scene)~~ → **Interrupted** by the war-dead rising; the cozy beat became the vow.
-- ~~The spirit-dark surfaces (latent thread)~~ → **fired** Sc.8: the murdered rose; he laid them to rest on an oath. Now an active, recurring front.
+## Recently consumed (Session 2)
+- ~~The vow & laying the war-dead to rest (Sc.8)~~ → the binding oath; the spirit-dark now an active front.
+- ~~Kasumi's "what did they tell you" / the two-day bargain (Sc.9)~~ → she made the Lion connection herself; deadline set (≈now).
+- ~~The manifest at the burned village (Sc.10)~~ → documentary half recovered.
+- ~~Saburō's refusal + the Otomo censor (Sc.11)~~ → testimony-justice reframe; the maho threat opened.
+- ~~The bureaucratic Kasumi meeting + the second story (Sc.12)~~ → recruitment failed but the bond deepened; the moral knot named.
+- ~~The Falcons / the poison-maker lead (Sc.13)~~ → maho-defense secured; the trail to Ume.
+- ~~HQ: Sukune dismissed, Sukune held, Saburō bound, the honor-trap (Sc.14)~~ → maho-scapegoat defused, fates chained.
+- ~~The watched-door skirmish + securing Ume (Sc.15)~~ → the poison-maker + confession won; case chained to Shizue's command.
