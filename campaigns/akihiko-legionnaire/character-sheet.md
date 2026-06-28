@@ -19,11 +19,11 @@
 
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 0  _(Day 2 — a full night's rest)_
-- **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife ≥ composure*  _(Day 2 — the mask cracked in private overnight; reset)_
+- **Composure** 8 (strife threshold) · current **strife: 6** ← *unmask if strife ≥ composure*  _(Sc.8 night: +1 Sc.7 fireside tale, +2 Armor of Radiance, +1 the Matsu alliance, +2 the vow's weight — the communion itself cost 0 (true Void holds a thousand griefs without breaking). Carrying the oath; 2 from a break.)_
 - **Focus** 5 · **Vigilance** 2  _(Focus = Air + Fire = 2+3; ↑ from Air 1→2 — better initiative & strife-bidding in duels)_
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
-- **Honor** 57 · **Glory** 36 · **Status** 36  _(Sc.2 duel: Honor +2, Glory −3. Sc.3–5: Glory +4 — cured the company, caught the assassin, turned a Lion column [witnessed]. Status held.)_
+- **Honor** 62 · **Glory** 36 · **Status** 36  _(Sc.2 duel: Honor +2, Glory −3. Sc.3–5: Glory +4 — cured the company, caught the assassin, turned a Lion column [witnessed]. Sc.8: Honor +5 (minor) — a solemn sacred vow to the murdered dead, before two armies. Status held.)_
 - **Title:** Gunsō (0 / 24 XP to completion → unlocks *Lead from the Front*)
 
 ## Ninjō (desire) & Giri (duty) — the heart of the drama

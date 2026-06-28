@@ -40,23 +40,25 @@
 - Akihiko's sun-fire is needed where steel is useless — and using it openly reveals what he is.
 
 **Personal / anxiety triggers**
-- A high-stakes check whose failure would harm his dependents (Fear of Failure fires).
-- A kill-or-spare choice with no clean answer (Softheartedness fires; 1 Void first time/scene).
-- The Scorpion bar a door he needs open (Scorn of the Scorpion).
+- A moment that demands he improvise on the fly — adapt to the unexpected on a Fire check (Fear of Mediocrity fires: +3 strife, 1 Void first/scene).
+- A kill-or-spare choice where he must take a life — a Fire kill-check (Softheartedness fires: +3 strife, 1 Void first time/scene).
+- The Scorpion bar a door he needs open — a Water rapport check with them (Scorn of the Scorpion).
 - Word from home: his brother Akiro, or the haunted Toritaka lands, needs him while duty holds him at the front.
 
-## Live world — after the toll-house (Sc.2 aftermath)
-- **Taisa Seppun Saburō hears the news at dawn** — the post fell, the Lion crossed, the patron's pup lost a duel and lives by a Matsu's mercy. Cold contempt confirmed, or something unexpected — a charge, a punishment, a test redoubled?
-- The two riders (Sora + one) reach the Legion camp; how they tell it shapes how it's heard — and whether the boy embellishes his lord's grace or his lord's defeat.
-- Akihiko's Falcons saw their officer lose and be spared. Morale fork: shameful, or a lord who'd die for the edict and was honored by a great-clan blade? Yoshi's read sets the tone.
-- **Matsu Kasumi's debt comes due** — a token arrives, or she crosses his path again (court, parley, the next clash), and "remember who gave it to you" turns from words into a claim.
-- Word spreads through both armies: the Falcon priest who taunted a Matsu, fought to the death, and was spared. A courtier, a rival officer, or a Lion who disagrees with Kasumi's mercy takes an interest.
-- The Lion who crossed west had a destination — what did Kasumi's patrol go west *for*? (The "lawful business" she never named.)
-- A superior (or Tadanobu, by letter) demands a written accounting for the broken edict; the black-sheep nephew must explain a failure on paper.
-- A Crane party noticed the breach (the horn carried west too); the Left Hand's people now know an Imperial post let the Lion through — and may use it.
-- The ninjō/giri lesson lands cold: this time grace saved him; next time it's a battlefield, and grace doesn't stop arrows. When does the choice come for *real* — his Falcons' lives against an order?
+## Live world — after the vow (Sc.8, Day 2 night)
+- **Kasumi, a pace away, asks what the dead told him.** How he answers sets the bond's course: tell her true (and risk warning Shizue / a Matsu's loyalty), deflect (and spend the trust he just earned), or test her with a sliver. She's the one Lion who might be *turned.*
+- **The proof is a quarter-mile away, in the enemy camp.** Imperial-sealed grain/salt the Lion looted from the village — magistrate-grade evidence — sits among Shizue's stores. Getting eyes (or hands) on it means reaching *into* the Lion line: by guile, by Kasumi, by a magistrate's writ, or by night.
+- **The vow's clock ticks on his soul.** He swore to the dead by Amaterasu; every day unproven is a day forsworn-pending. The dead rest *conditionally.*
+- **Saburō will hear two things:** that Akihiko held the toll-house without battle (a freeze — half-measure or masterstroke?), and that his officer publicly *commanded the dead.* Miracle in Legion mouths, **maho** in a rival's or a censor's.
+- **Word of the night will run both armies by dawn:** the Falcon priest who turned an army of the dead with a vow. A Phoenix Inquisitor, an Otomo censor, a frightened Lion, or an awed recruit — someone comes asking what he is.
+- **Shizue feels a thread pulled.** If word reaches her that the Imperial referee is now *certain* (and oath-bound) about the poison, the marked nephew becomes a problem she may move to erase — or to discredit as a maho-tainted madman first.
+- **Jōji's coded papers** (scholars still on them) finally yield a fragment — a drop, a date, a cipher-key — that corroborates (or complicates) what the dead said.
+- **The looted village had survivors** the dead did not include — a living witness or two in the reeds, hunted or hiding. Saving them (ninjō) is also building the case (giri).
+- A Falcon under him (Hayato, who wept; Yoshi, who prayed) is changed by what he saw his lord do — devotion sharpened, or a fear that the chūi traffics with the dead.
 
 ## Recently consumed (this session)
-- ~~An order spends his cohort on a costly duty~~ → became the toll-house forward-picket (Saburō's posting). Live.
-- ~~A Lion officer demands the post stand aside~~ → fired hard as Matsu Kasumi's passage demand → the duel.
-- ~~A duel challenge / kill-or-spare~~ → the death-duel with Kasumi. Resolved: Akihiko lost, was spared.
+- ~~The duel / Kasumi's mercy (Sc.2)~~ → a life-debt and, by Sc.8, a turning bond.
+- ~~Return to the toll-house & fortify (Sc.6)~~ → full company + cavalry, the line frozen as the Emperor's emissary (Sc.7).
+- ~~An order spends his cohort / the post stand-aside~~ → spent in Day 1; the war's pressure now runs through the spirit-dark and the proof-hunt.
+- ~~Check in on his juniors (Sc.8 expected scene)~~ → **Interrupted** by the war-dead rising; the cozy beat became the vow.
+- ~~The spirit-dark surfaces (latent thread)~~ → **fired** Sc.8: the murdered rose; he laid them to rest on an oath. Now an active, recurring front.

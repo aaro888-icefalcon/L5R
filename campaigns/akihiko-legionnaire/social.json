@@ -1,7 +1,7 @@
 {
  "kind": "social",
  "character": "Toritaka Akihiko",
- "honor": 57,
+ "honor": 62,
  "glory": 36,
  "status": 36,
  "titles": [
@@ -58,6 +58,14 @@
    "reason": "Sc.3-5: cured a poisoned Legion company, caught the assassin alive, and — witnessed by both clans' men — turned a 50-strong Lion strike force off Crane ground with nerve and a bluff. The deeds spread and claw back the duel-loss.",
    "kind": "award",
    "value_after": 36
+  },
+  {
+   "attr": "honor",
+   "delta": 5,
+   "scale": "minor",
+   "reason": "Swore a solemn vow by Amaterasu's authority to the murdered dead of the burned village — to uncover the crime against the gods that raised them — witnessed by his Legion company and Matsu Kasumi's riders.",
+   "kind": "award",
+   "value_after": 62
   }
  ]
 }
