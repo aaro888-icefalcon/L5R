@@ -4,7 +4,7 @@
 - **Clan / Family / School:** Falcon · Toritaka · **Moshi Sun Sentinel** [Bushi, Shugenja]
   *(out-of-clan school — Falcon-born, trained at the Light of the Lady Sun Dōjō through his Moshi father; canon-supported: the Moshi keep a permanent place for Falcon at the shrine)*
 - **Concept / role:** Warrior-priest of Amaterasu — **battlefield medic & sun-priest**, now a junior officer of the Emperor's army.
-- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 1** (Moshi Sun Sentinel) · **XP available: 14** _(Session-1's 9 spent on Air 1→2 + Mind's Edge. **Session-2 award +14** (base 3 + 3 milestones ×3 + RP 2) — UNSPENT, banked at the Day-4-night pause. Spend options next session: a Ring 2→3 [9 curriculum / 12 not — Air/Water/Void all tempting], or a new technique [rank-1 = 3], or several skills [0→1 = 2–3, 1→2 = 4–6 — e.g. Martial Arts, Command, Fitness, Performance], or feed the **Gunsō** title 0/24 toward *Lead from the Front*.)_.
+- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 1** (Moshi Sun Sentinel) · **XP available: 0** _(Session-1's 9 spent on Air 1→2 + Mind's Edge. Session-2's award **+14 fully spent (Day-4-night)**: Martial Arts [Melee] 1→2 [4], Fitness 0→1 [2], Command 0→1 [2], Performance 0→1 [3], Culture 0→1 [3] — an officer's round. +8 of it counted toward the **Gunsō** title → **8/24**.)_.
 
 ## Rings (the approach to each check)
 - Air **2**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**  _(Air 1→2, Session-1 XP)_
@@ -12,10 +12,11 @@
 
 ## Skills (rank) — by group
 - **Artisan:** —
-- **Social:** Courtesy 1
-- **Scholar:** Theology 2 · Medicine 2 · Sentiment 1
-- **Martial:** Martial Arts [Melee] 1 · Tactics 1
+- **Social:** Courtesy 1 · **Command 1** · **Performance 1**
+- **Scholar:** Theology 2 · Medicine 2 · Sentiment 1 · **Culture 1**
+- **Martial:** Martial Arts [Melee] **2** · Tactics 1 · **Fitness 1**
 - **Trade:** Survival 1 · Meditation 1
+  _(Session-2 XP spend: MA[Melee] 1→2, +Fitness, +Command, +Performance, +Culture.)_
 
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 0  _(Day 4 — night's rest)_
@@ -24,7 +25,7 @@
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
 - **Honor** 62 · **Glory** 36 · **Status** 36  _(Sc.2 duel: Honor +2, Glory −3. Sc.3–5: Glory +4 — cured the company, caught the assassin, turned a Lion column [witnessed]. Sc.8: Honor +5 (minor) — a solemn sacred vow to the murdered dead, before two armies. Status held.)_
-- **Title:** Gunsō (0 / 24 XP to completion → unlocks *Lead from the Front*)
+- **Title:** Gunsō (**8 / 24** XP to completion → unlocks *Lead from the Front*) _(Session-2: +8 from title-curriculum buys — MA[Melee], Fitness, Command.)_
 
 ## Ninjō (desire) & Giri (duty) — the heart of the drama
 *(Both pull toward the Falcon, in opposite directions — that is the tragedy: the honor he owes his clan is bought with the lives of his clan.)*
