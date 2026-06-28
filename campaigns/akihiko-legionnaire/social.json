@@ -1,7 +1,7 @@
 {
  "kind": "social",
  "character": "Toritaka Akihiko",
- "honor": 74,
+ "honor": 75,
  "glory": 42,
  "status": 36,
  "titles": [
@@ -82,6 +82,14 @@
    "reason": "Stood wreathed in Amaterasu's fire in the Lion camp, turned an army's lie with the Throne's truth, and saw Akodo Shizue exposed & felled — witnessed by a whole great-clan host at dawn.",
    "kind": "award",
    "value_after": 42
+  },
+  {
+   "attr": "honor",
+   "delta": 1,
+   "scale": "trifling",
+   "reason": "Swore a binding oath to restore Matsu Kasumi — un-disinherit her from the Lion and win back her castle",
+   "kind": "award",
+   "value_after": 75
   }
  ]
 }
