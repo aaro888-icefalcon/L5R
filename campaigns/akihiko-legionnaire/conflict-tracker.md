@@ -1,35 +1,29 @@
-# Conflict Tracker — DUEL (RESOLVED · Scene 2)
+# Conflict Tracker — SKIRMISH (Sc.15 · *The Watched Door*) · Day 4 dusk
 
-> **OUTCOME:** Akihiko LOST. Round 2 staredown Compromised him (strife 8/8) → Kasumi's finishing blow triggered — but his graceful death-acceptance (apology + honoring her) moved her (Fate: YES) and she **spared his life**, took the road west, left him a debt. Akihiko unmasked into serene acceptance (strife → 0), fatigue 1, no wounds. Glory −3 (→32), Honor +2 (→57). No active conflict now.
+> **Stakes:** reach/protect the **apothecary** (the poison-maker — the confession that hands Kasumi her proof) before the watchers silence her. **The race is the win condition**, not the body count. Defeat = the apothecary dies (the confession dies with her) and/or Akihiko's party is beaten/exposed on deadline night.
+> **Arena:** a half-shuttered trade-hamlet street at dusk; the apothecary's shopfront (the "portal"), an alley mouth opposite, a well. Close quarters.
 
----
+## Objectives
+- **Akihiko's side:** get to the apothecary ALIVE & in hand (capture/protect → a confession). Secondary: don't lose the night / stay deniable.
+- **The watchers (deniable muscle):** kill the apothecary (close the loose end) and/or drive off the Imperial party.
 
-
-- **Type:** Iaijutsu duel, **to the death OR surrender** (concession available at the start of any round).
-- **Objectives:** Akihiko → defeat/kill Kasumi or force her concession (hold the road, no Lion crossing). Kasumi → kill/Dying/Incapacitate Akihiko or force his surrender (take the road west).
-- **Stakes & defeat (real):** Akihiko wins → Lion turn east, road held, his men safe. Akihiko loses/surrenders → his spears stand aside, Lion cross west, his men live; on a *loss* (not surrender) he may die. Kasumi killing known Imperial blood = Tadanobu/Seppun enmity (she has openly accepted this cost).
-- **Terms:** **LOCKED steel-only / iaijutsu** (Akihiko requested any-weapon; Kasumi refused — Fate Exc No; demanded the sword. An invocation now = witnessed cheating = AUTO-LOSS). Katana only; blades start sheathed (draw no earlier than first turn); field armor worn (both **Physical 3**); witnessed by both lines of men (judges).
-- **Pre-duel social:** Akihiko's Fire·Courtesy taunt (TN 2 → success, invoking the challenged-party's right + Lady Matsu's bravery) reclaimed his standing and rattled Kasumi (+5 strife → 6/14); did NOT crack her to any-weapon. Akihiko +1 strife → 4/8.
-- **Arena:** firelit toll-house road, full dark. Duelists at Range 2.
-- **Round:** 1 complete → **top of Round 2 (concession window).**
-
-## Initiative order
-| # | Combatant | tier | init value | opening stance | acted? |
-|---|---|---|---|---|---|
-| — | Matsu Kasumi | adversary (r2) | **4** | Void | — |
-| — | Toritaka Akihiko | PC | TBD (base focus 4) | TBD | — |
+## Initiative order (this round)
+| # | Combatant | init | acted? | notes |
+|---|---|---|---|---|
+| 1 | **Toritaka Akihiko** (PC) | **6** (Focus 5 +1 read) | — | read clean; ● spent to close the gap to the door |
+| 2 | Hida Genzō (Crab bushi ally) | ~5 | — | strong melee; takes the blockers |
+| 3 | Shiba Tomoe (Phoenix bushi ally) | ~5 | — | competent; takes the blockers |
+| — | **"Knifeman"** — Experienced Bandit (shrewd) | head start | — | **bolting inside to silence the apothecary — the RACE** |
+| — | 2–3 other watchers — Desperate/Experienced Bandits | ~3–4 | — | moving to intercept the party |
 
 ## Combatants — state
-| Name | fatigue/endurance | strife/composure | conditions | Void | notes |
+| Name | fat/end | strife/comp | Void | conditions | notes |
 |---|---|---|---|---|---|
-| Toritaka Akihiko | **1 / 10** | **6 / 8** | none | 2/2 | END R1. Whiffed his strike. **At round-2 staredown (+2) → strife 8 = COMPROMISED → Kasumi finishing blow (likely lethal).** Fire stance. |
-| Matsu Kasumi | 0 / 14 | **7 / 14** | none | 2/2 | END R1. Landed a glancing cut (armor soaked it). Struck first → +3 duel score. Dominant. Fire stance. |
+| Toritaka Akihiko | 0/10 | 1/8 | 2/2 | none | field armor [Phys 3]; daishō + bō; invocations — **NB: his Fire invocations HEAL non-Tainted humans, not harm; fight men with steel or the fire-*katana* as a weapon** |
+| Hida Genzō (ally) | 0 | 0 | — | none | Crab bushi |
+| Shiba Tomoe (ally) | 0 | 0 | — | none | Phoenix bushi |
+| Knifeman (Exp. Bandit) | — | — | — | none | combat rank 3, Martial 2, shrewd; **at/through the door** |
+| Watchers ×2–3 (Bandits) | — | — | — | none | combat rank 2–3, Martial 2 |
 
-## Key duel mechanics in play
-- **Staredown** each round (start of Phase 2): both gain strife = round number (+1, +2, +3…); then may bid 0–Focus extra strife to raise initiative that round.
-- **Stances:** Fire = +1 bonus success per kept ✷ on a success (hot, strife-feeding). Void = Center action + ignore strife from kept dice. Earth = foe can't spend ● to crit/condition you. Air = +1 TN to be hit (ring 1). Water = +1 no-check action.
-- **Strike:** TN 2 Martial Arts; dmg = base 4 + bonus successes (defended by fatigue, or armor reduces, or → crit sev = Deadliness 5). ●● → inflict crit (sev = Deadliness). Razor-Edged: ● can boost crit severity.
-- **Finishing blow:** first time a duelist is Compromised/unmasks, the foe may strike out of turn; crit severity = 2×Deadliness + bonus successes (≈10+ → potentially lethal).
-
-## Notes / log
-- Round 0: terms set; Kasumi rolled initiative 4 (Void, +1 strife). Awaiting Akihiko's opening stance + initiative roll.
+## Log
+- R1 setup: Akihiko charges; read = +1 bonus, ● spent to close the line to the door. Knifeman breaks for the apothecary (head start). Other watchers move to block. **Akihiko acts first — the knifeman is a stride from her.**
