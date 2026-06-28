@@ -52,9 +52,10 @@
 
 ## Heritage — the known Seppun blood
 Akihiko's Imperial descent is **no secret**; it is openly known, and it is *complicated*.
-- **Maternal grandfather — Toritaka Michio (born Seppun Michio):** a genuinely **talented** Seppun who became the **black sheep** of the Imperial family by **leaving the Seppun to marry a Toritaka** — trading the honor of guarding the Emperor's person for a haunted minor clan on the marches. The family never quite forgave the slight. *(deceased)*
-- **Illustrious maternal uncle — Seppun Tadanobu:** Michio's son, Akihiko's mother's brother, who **distinguished himself** in Imperial service and was **reclaimed into the Seppun** — partly **redeeming** the line's standing and keeping the bloodline's name known. Akihiko's sponsor into the Legions; a powerful, watchful patron whose favor is also a leash.
-- **Net:** openly-acknowledged Imperial blood, but from the *scandalous branch* — high enough that others court or resent him, low enough that he is always the black sheep's grandson with something to prove, riding on his uncle's prestige.
+- **Maternal grandfather — Toritaka Michio (born Seppun Michio):** a genuinely **talented** Seppun who became the **black sheep** of the Imperial family by **leaving the Seppun to marry down into a Toritaka vassal house** (Chiyo's) — trading the honor of guarding the Emperor's person for a haunted minor clan on the marches. The Imperial family never quite forgave the slight. *(deceased)*
+- **Maternal grandmother — Toritaka Chiyo (千代, "a thousand generations"):** **the iron daimyō of the maternal Falcon vassal house** Michio married into, and **the actual head of Akihiko's maternal line.** Hard-as-nails, shrewd, sentimental about nothing; she STAYED and leads the house while her son Tadanobu left it for grander Imperial service. **She — NOT Tadanobu — holds marriage authority over this branch.** Asked plainly (Fate: 50/50 → Yes), she **granted leave for the Kasumi match — with iron strings** (judges the rōnin herself; would adopt Kasumi into the vassal house to restore a name, binding her to Chiyo; and pulls Akihiko's primary loyalty *home* to her Falcon house, away from the Seppun uncle's orbit). *Alive; a powerful new patron-by-blood and the other pole of the family.*
+- **Illustrious maternal uncle — Seppun Tadanobu:** Michio & Chiyo's son, Akihiko's mother's brother, who **distinguished himself** in Imperial service and was **reclaimed into the Seppun** — partly **redeeming** the line's Imperial standing. Akihiko's sponsor into the Legions; a powerful, watchful patron whose favor is a leash. **NOT the marriage authority** (he married *out*, into the Seppun): his cold refusal of the Kasumi match (Fate: No) is real **disfavor** and social weight, but Chiyo overrode it as the house's actual head — opening a quiet **grandmother-vs-uncle** rift with Akihiko in the middle.
+- **Net:** openly-acknowledged Imperial blood, but from the *scandalous branch* — high enough that others court or resent him, low enough that he is always the black sheep's grandson with something to prove. **Caught now between two powerful relatives pulling opposite ways:** the Seppun uncle (Imperial prestige, disapproves) and the Falcon grandmother (the house's iron head, granted the match on her terms). *To honor the Falcon, he must choose which Falcon.*
 
 ## Personality
 - **First impression / flair:** a daishō scabbard etched edge-to-edge with **Amaterasu's rays** — the sacred fused to the instrument of violence.
@@ -64,8 +65,9 @@ Akihiko's Imperial descent is **no secret**; it is openly known, and it is *comp
 ## Bonds
 - **Toritaka Akiro** — younger brother; apprentice healer-shugenja; calm, devoted; the one Akihiko would truly miss. *(Akhil)*
 - **Moshi Hizashi** — father; brilliant, scattered, entrepreneurial Centipede sun-priest-physician; a "radical" Moshi. *(Bhaskar)*
-- **Toritaka Sumiko** — mother; retired, grounded Falcon healer-warden; Michio's daughter, half-Seppun, carrier of the known Imperial line. *(Sudha)*
-- **Seppun Tadanobu** — illustrious maternal uncle; reclaimed Imperial servant; Akihiko's patron and the hand that placed him in the Legions. A liege-by-blood whose expectations weigh.
+- **Toritaka Sumiko** — mother; retired, grounded Falcon healer-warden; Michio & Chiyo's daughter, half-Seppun, carrier of the known Imperial line. *(Sudha)*
+- **Toritaka Chiyo** — maternal grandmother; hard-as-nails daimyō of the maternal Falcon vassal house and **the head of the line** (holds its marriage authority). Granted the Kasumi match with iron strings; now the Falcon pole of the family pulling against the Seppun uncle.
+- **Seppun Tadanobu** — illustrious maternal uncle; reclaimed Imperial servant; Akihiko's patron and the hand that placed him in the Legions. A liege-by-blood whose expectations weigh — but **not** the authority over this branch's marriages.
 - **The Scattered Corps** — healers and wardens of several clans bound to Akihiko by a past crisis they survived together; duty keeps them far apart now. *(his real friends/colleagues — see setting-canon.md)*
 
 ## Gear / koku
