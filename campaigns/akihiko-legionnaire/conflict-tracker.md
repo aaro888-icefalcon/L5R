@@ -1,4 +1,9 @@
-# Conflict Tracker — SKIRMISH (Sc.15 · *The Watched Door*) · Day 4 dusk
+# Conflict Tracker — SKIRMISH (Sc.15 · *The Watched Door*) · **RESOLVED — WON**
+
+> **OUTCOME:** Akihiko **GUARDED** the apothecary (Earth then Void·Tactics) — the +1 TN turned the knifeman's killing lunge (his attack came up short 1). He never struck a man: serene, unhurried defense. The muscle's morale **broke**; they fled; Genzō took **one captive.** Then Akihiko **won Ume over** (Water·Sentiment) — she comes willingly with a dated ledger (Lion-grade koku, dates matching the Legion's blinding), withholding the top name as life-insurance. **The poison-maker + her confession secured alive. Akihiko: 0 wounds, strife 1/8.** No active conflict.
+
+---
+_(historical setup below)_
 
 > **Stakes:** reach/protect the **apothecary** (the poison-maker — the confession that hands Kasumi her proof) before the watchers silence her. **The race is the win condition**, not the body count. Defeat = the apothecary dies (the confession dies with her) and/or Akihiko's party is beaten/exposed on deadline night.
 > **Arena:** a half-shuttered trade-hamlet street at dusk; the apothecary's shopfront (the "portal"), an alley mouth opposite, a well. Close quarters.
