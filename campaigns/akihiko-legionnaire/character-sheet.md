@@ -19,7 +19,7 @@
 
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 0  _(Day 4 — night's rest)_
-- **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife ≥ composure*  _(Day 4 dawn. RAW: strife clears at each scene's end; Sc.12 closed + a night's rest → 0. [Rule note: strife is a within-scene gauge — removed every scene-end; the "half" rule is for FATIGUE → half-endurance at scene-end, +2×Water on a night's rest.])_
+- **Composure** 8 (strife threshold) · current **strife: 0** ← *unmask if strife ≥ composure*  _(Day 4 afternoon — Sc.13 +1 (documents), Sc.14 scene-end → cleared to 0. RAW: strife clears at each scene's end; the "half" rule is FATIGUE → half-endurance at scene-end, +2×Water on a night's rest.)_
 - **Focus** 5 · **Vigilance** 2  _(Focus = Air + Fire = 2+3; ↑ from Air 1→2 — better initiative & strife-bidding in duels)_
 
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
