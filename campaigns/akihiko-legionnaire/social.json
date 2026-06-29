@@ -1,8 +1,8 @@
 {
  "kind": "social",
  "character": "Toritaka Akihiko",
- "honor": 55,
- "glory": 35,
+ "honor": 75,
+ "glory": 42,
  "status": 36,
  "titles": [
   {
@@ -11,7 +11,7 @@
    "status_award": 0,
    "status_cap": null,
    "xp_to_completion": 24,
-   "xp_progress": 0,
+   "xp_progress": 12,
    "ability": "Lead from the Front: when you defeat an opponent in a clash, your cohort removes panic equal to the opponent's glory rank; once per round on a successful Attack check in a mass battle, your cohort removes panic equal to half the attrition you inflict.",
    "complete": false,
    "active": true
@@ -26,6 +26,70 @@
    "reason": "title assigned: Gunsō",
    "kind": "title",
    "value_after": 36
+  },
+  {
+   "attr": "glory",
+   "delta": 3,
+   "scale": "3 pts (explicit)",
+   "reason": "Lost a death-duel to Matsu Kasumi before both armies; the edict broke and the Lion crossed his post. Spared for the grace with which he met death.",
+   "kind": "award",
+   "value_after": 38
+  },
+  {
+   "attr": "honor",
+   "delta": 2,
+   "scale": "2 pts (explicit)",
+   "reason": "Refused to yield, met certain death with grace, apologized sincerely for his taunt, and honored his enemy — conduct that moved a Matsu to spare him.",
+   "kind": "award",
+   "value_after": 57
+  },
+  {
+   "attr": "glory",
+   "delta": -6,
+   "scale": "6 pts (explicit)",
+   "reason": "Correcting an erroneous +3, then applying the real loss: public death-duel defeat and the edict broken on his post (Lion crossed west). Net -3 from 35 → 32; the grace that spared him keeps it from being worse.",
+   "kind": "forfeit",
+   "value_after": 32
+  },
+  {
+   "attr": "glory",
+   "delta": 4,
+   "scale": "4 pts (explicit)",
+   "reason": "Sc.3-5: cured a poisoned Legion company, caught the assassin alive, and — witnessed by both clans' men — turned a 50-strong Lion strike force off Crane ground with nerve and a bluff. The deeds spread and claw back the duel-loss.",
+   "kind": "award",
+   "value_after": 36
+  },
+  {
+   "attr": "honor",
+   "delta": 5,
+   "scale": "minor",
+   "reason": "Swore a solemn vow by Amaterasu's authority to the murdered dead of the burned village — to uncover the crime against the gods that raised them — witnessed by his Legion company and Matsu Kasumi's riders.",
+   "kind": "award",
+   "value_after": 62
+  },
+  {
+   "attr": "honor",
+   "delta": 12,
+   "scale": "major",
+   "reason": "Kept his sacred vow to the murdered dead — dragged Akodo Shizue's poison-crime into Amaterasu's light before a whole Lion camp, by lawful means; the dead laid to rest, the oath discharged.",
+   "kind": "award",
+   "value_after": 74
+  },
+  {
+   "attr": "glory",
+   "delta": 6,
+   "scale": "major",
+   "reason": "Stood wreathed in Amaterasu's fire in the Lion camp, turned an army's lie with the Throne's truth, and saw Akodo Shizue exposed & felled — witnessed by a whole great-clan host at dawn.",
+   "kind": "award",
+   "value_after": 42
+  },
+  {
+   "attr": "honor",
+   "delta": 1,
+   "scale": "trifling",
+   "reason": "Swore a binding oath to restore Matsu Kasumi — un-disinherit her from the Lion and win back her castle",
+   "kind": "award",
+   "value_after": 75
   }
  ]
 }

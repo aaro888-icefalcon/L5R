@@ -2,14 +2,9 @@
  "kind": "thread",
  "entries": [
   {
-   "name": "The Toshi Ranbo front — the Lion–Crane war",
-   "weight": 3,
-   "note": "PRIMARY. The Lion and Crane — ancestral enemies — are at open war over the contested town of Toshi Ranbo (Akodo Arasou slain by Doji Hotaru's arrow, 1123). Akihiko's Legion is deployed to enforce an Imperial edict between two armies that hate each other. (facts.py relation lion crane)"
-  },
-  {
    "name": "Keep my soldiers alive — ninjō vs the orders that spend them",
    "weight": 3,
-   "note": "The engine of the drama. Every order that spends lives to win the Emperor's war pokes his ninjō; a healer commanding soldiers in a war of attrition. Watch for the kill-or-spare and harm-to-dependents triggers (Softheartedness, Fear of Failure)."
+   "note": "The engine of the drama. His cohort carries a FALCON (Toritaka) contingent — clansmen serving the Legion under their famous-blooded son; his ninjō is to march them home to the Valley of the Spirits ALIVE. Every order that spends lives to win the Emperor's war pokes it. The cruelty: his giri (honor the Falcon) is paid in the same Falcon lives his ninjō would save. Trigger to watch: Softheartedness (Fire) — he seizes up about KILLING, +3 strife when he takes a life. (Also Fear of Mediocrity (Fire): +3 strife when he must improvise/adapt to the unexpected on a Fire check.)"
   },
   {
    "name": "The black-sheep blood & uncle Seppun Tadanobu's leash",
@@ -25,6 +20,36 @@
    "name": "The spirit-dark of the battlefield — what the Falcon sees that the war hides",
    "weight": 1,
    "note": "Quiet thread. A battlefield is a feast for the dead; Akihiko's Falcon spirit-sight (Sixth Sense) may find yūrei, gaki, or worse moving under cover of the mundane war. Latent — let the dice surface it."
+  },
+  {
+   "name": "The buried truth — known, sealed, undrawable",
+   "weight": 3,
+   "note": "ARC-2 KEY (bumped to w3 — now the literal lever of the oath to restore Kasumi). The full proof of the Lion's poison+looting (manifest + Throne-seals from Shizue's brazier + Ume's dated ledger + Crane+Lion depositions) is sealed 'at the highest level' to stop a Right-vs-Left court war. UNDRAWABLE in a testimony-bound court — EXCEPT before the Dragon's KITSUKI, who weigh physical evidence, and whose NEUTRALITY toward the Lion makes a finding stick (unlike a Crane's dismissable word). Drawing it here = un-burying the verdict AND recasting Kasumi as the Matsu who felled a proven traitor (the oath's key). Open questions: who keeps the sealed key; can Akihiko get the evidence to a Kitsuki venue; the Lion's quiet debt vs their desperation to keep it buried; the risk that reopening it makes him (and Kasumi) targets again."
+  },
+  {
+   "name": "The matriarch's grant — Chiyo, a rōnin bride, and the family rift",
+   "weight": 3,
+   "note": "ARC-2 ROMANCE + FAMILY thread (supersedes 'The shut gate' after the marriage-authority canon fix). Tadanobu (Seppun, married OUT) holds no say over a Toritaka match — only disfavor; he refused (Fate: No). The real authority, grandmother Toritaka CHIYO (iron daimyō, head of the line), GRANTED leave (Fate: 50/50 → 12 → YES) — WITH STRINGS: (1) she'll judge the rōnin Kasumi in person (a scene to play); (2) she'd adopt Kasumi into the Falcon vassal house to restore a name — binding Kasumi to Chiyo, indebted, and winning the house a famous Matsu duelist; (3) Akihiko's primary loyalty pulled HOME to her Falcon house, away from the Seppun uncle. Net: the romance is ALIVE on a clanless bride's terms, and a quiet GRANDMOTHER-vs-UNCLE rift opens with Akihiko the prize. Live levers: the matriarch's audience with Kasumi; the adoption's price; navigating the two relatives; restoring enough of Kasumi's face that the match honors the house."
+  },
+  {
+   "name": "The Scattered Corps — silent on the line",
+   "weight": 1,
+   "note": "ARC-2 DORMANT thread (Fate: Likely → 30 → NO — none surfaced at Arc-1's close). Akihiko's real friends/colleagues — the cross-clan healers and wardens bound to him by a past crisis they survived together (see roster/setting-canon). At the largest moment of his life — the conspiracy broken, the vow kept before an army — NOT ONE was there, and word has reached none of them; war keeps them scattered across half of Rokugan on their own clans' duties. The bond is real but dark; no letter waits, no familiar face turns up. A warm distant ache, latent: one may surface when the reassignment lands him somewhere new (the dice or the player can wake it). For now: accounted for, alive as far as he knows, unreachable."
+  },
+  {
+   "name": "The Dragonfly posting — Imperial referee at the Dragon/Phoenix frontier",
+   "weight": 3,
+   "note": "ARC-2 STAGE (the reassignment resolved here; the Legion's brush, not Akihiko's choice). Posted to the sensitive DRAGON↔PHOENIX frontier — the Tonbo (Dragonfly) Minor Clan, 'gatekeepers to the Dragon,' beside a key Phoenix court (Pale Oak Castle, a Hantei winter-court favorite). The Imperial referee's job: keep the peace in a border dispute. WHY IT MATTERS FOR THE OATH: this is Kitsuki country — the Dragon's evidence-based justice is the ONE tradition that weighs physical proof over testimony, and the Dragon are NEUTRAL to the Lion (no enmity) → a Kitsuki finding can't be dismissed as enemy malice the way a Crane's word was. The single posting that can un-bury the truth in a Lion-undismissable form. Also: shugenja/Phoenix country (the sun-priest's element + the spirit-dark thread thrives), a minor clan (Tonbo) for the Falcon's sympathy, and Reiko's court-world follows. NB: Akihiko's core Falcon contingent transfers with him (his ninjō rides along). To FRAME/open as Arc 2's first scene."
+  },
+  {
+   "name": "The oath to restore Kasumi — un-disinherit the Matsu, reclaim her castle",
+   "weight": 3,
+   "note": "ARC-2 SPINE (sworn at Arc-1's close; Honor +1 trifling for the swearing — the MAJOR Honor is reserved for keeping it). Akihiko swore a binding oath to get the LION (the Matsu) to REVERSE Kasumi's disinheritance — restore her name, her clan, and her ancestral castle/holding — rather than settle for Chiyo adopting her into the Falcon house. A far harder, more honorable goal: forcing the Great Clan that cast her out to take her back. THE KEY is the buried truth: only a Lion-UNDISMISSABLE vindication (a NEUTRAL Dragon/Kitsuki evidence-finding — see that thread) recasts her from 'rogue who murdered a commander' to 'the loyal Matsu who lawfully felled a PROVEN traitor,' giving the Lion grounds + pressure to restore her. TEETH (like the vow to the dead): forsworn/failed = a MAJOR Honor forfeit, the romance likely lost (she stays rōnin/Falcon-vassal at best), the Lion made permanent enemies. FRICTION: this denies grandmother Chiyo her prize (she granted the match to win a famous duelist for HER banner; restoring Kasumi to the Lion sends the bride back to a rival Great Clan) — the Chiyo-adoption becomes the SAFETY NET, not the goal."
+  },
+  {
+   "name": "The Toshi Ranbo war — grinding on offscreen",
+   "weight": 1,
+   "note": "BACKGROUND now (Akihiko posted away to the Dragonfly border). The Lion–Crane war over Toshi Ranbo grinds on without him; one commander dying honest changed nothing for the armies. Stays live because the LION (his oath's target) are fighting it, the buried truth concerns it, and Sukune/the Crane are in it. Latent: news from the front, a shift in the war, or the Lion's posture toward the buried scandal can reach him at the Dragonfly frontier."
   }
  ]
 }

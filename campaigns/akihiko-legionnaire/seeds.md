@@ -40,10 +40,29 @@
 - Akihiko's sun-fire is needed where steel is useless — and using it openly reveals what he is.
 
 **Personal / anxiety triggers**
-- A high-stakes check whose failure would harm his dependents (Fear of Failure fires).
-- A kill-or-spare choice with no clean answer (Softheartedness fires; 1 Void first time/scene).
-- The Scorpion bar a door he needs open (Scorn of the Scorpion).
+- A moment that demands he improvise on the fly — adapt to the unexpected on a Fire check (Fear of Mediocrity fires: +3 strife, 1 Void first/scene).
+- A kill-or-spare choice where he must take a life — a Fire kill-check (Softheartedness fires: +3 strife, 1 Void first time/scene).
+- The Scorpion bar a door he needs open — a Water rapport check with them (Scorn of the Scorpion).
 - Word from home: his brother Akiro, or the haunted Toritaka lands, needs him while duty holds him at the front.
 
-## Recently consumed (this session)
-- _(none yet)_
+## Live world — the keystone night (end of Day 4, Session-2 pause)
+- **THE KEYSTONE: cross to Kasumi before dawn.** The case is built (manifest + Ume's ledger + Sukune); only her Lion-on-Lion word closes it. How he approaches — openly under parley, a quiet summons to the toll-house, or intercepting her own crate-reckoning — and whether he wins her to the **light** vs a quiet Lion burial, is the whole game.
+- **The cleanup is racing him.** The conspiracy knows it's exposed and is burning loose ends *tonight* (the captive confirmed it). The looted crates may be moved/destroyed; other mouths silenced; Ume still hunted. Every hour costs evidence.
+- **The vow's clock + Saburō's dawn + Sukune's patience all expire together — tonight.** Stacked deadlines collapsed onto one night.
+- **Kasumi's own reckoning may already be done.** She went to verify the crates herself; she may arrive *already turned* — or already gone to confront Shizue (the loose-blade risk), or intercepted by the cleanup.
+- **Shizue, cornered, gets dangerous.** A panicked paymaster burning evidence may strike at the toll-house, at Ume, at Akihiko — or move to silence Kasumi herself if she's seen wavering.
+- **Otomo Reiko, the loaded gun.** The censor dismissed the Crane's accusation but still circles the maho-whisper; the Jade/Seppun counter-trap (Akihiko's letter) is in reserve. If the case lands, Reiko's posture flips overnight.
+- **The captive watcher** is a held mouth — chase his cut-out ('the soldier-type'), or trade him, or he's a liability the cleanup wants dead too.
+- **Ume safe but a target.** A protected witness behind the earthworks is also a magnet; the priest's sworn word to keep her alive will be *tested.*
+- **Tadanobu's reaction still pending** — the Seppun uncle has not yet weighed in on a duel lost, a road broken, the dead commanded, and now a Great-Clan accusation his nephew is driving.
+- A **Falcon under him** (Hayato, Yoshi) changed by what they've seen — devotion sharpened, or unease that their chūi walks with the dead.
+
+## Recently consumed (Session 2)
+- ~~The vow & laying the war-dead to rest (Sc.8)~~ → the binding oath; the spirit-dark now an active front.
+- ~~Kasumi's "what did they tell you" / the two-day bargain (Sc.9)~~ → she made the Lion connection herself; deadline set (≈now).
+- ~~The manifest at the burned village (Sc.10)~~ → documentary half recovered.
+- ~~Saburō's refusal + the Otomo censor (Sc.11)~~ → testimony-justice reframe; the maho threat opened.
+- ~~The bureaucratic Kasumi meeting + the second story (Sc.12)~~ → recruitment failed but the bond deepened; the moral knot named.
+- ~~The Falcons / the poison-maker lead (Sc.13)~~ → maho-defense secured; the trail to Ume.
+- ~~HQ: Sukune dismissed, Sukune held, Saburō bound, the honor-trap (Sc.14)~~ → maho-scapegoat defused, fates chained.
+- ~~The watched-door skirmish + securing Ume (Sc.15)~~ → the poison-maker + confession won; case chained to Shizue's command.

@@ -4,12 +4,12 @@
   {
    "name": "Seppun Tadanobu (uncle / Imperial patron)",
    "weight": 2,
-   "note": "Akihiko's illustrious maternal uncle, reclaimed into the Seppun; his sponsor into the Legions. Powerful, watchful; his patronage is a leash. Wants — UNKNOWN (roll it); disposition: proprietary, demanding."
+   "note": "Akihiko's illustrious maternal uncle (Michio & Chiyo's son), reclaimed into the Seppun; his sponsor into the Legions; powerful, watchful, proprietary — his patronage is a leash. CANON FIX: he married OUT, into the Seppun, so he is NOT the marriage authority over Akihiko's Toritaka line — that's his mother Chiyo, the house's head. His cold refusal of the Kasumi match (Fate: Unlikely → 64 → No) is real DISFAVOR and social weight (a Seppun who'd rather no rōnin enter the line he's polished) — but Chiyo OVERRODE it as the house's actual daimyō (granted the match). This opened a quiet GRANDMOTHER-vs-UNCLE rift, the departed son vs the matriarch who stayed, with Akihiko the prize between them. Still displeased the front was made loud; his patronage will call in its price. Disposition: proprietary, out-maneuvered on the marriage, a powerful relative whose favor now competes with Chiyo's claim on Akihiko."
   },
   {
    "name": "Akihiko's cohort — the soldiers under his command",
    "weight": 2,
-   "note": "The ashigaru and bushi he leads — the people his ninjō is sworn to keep alive. Names & faces to be drawn in play (npc.py / generators). Their lives are the stakes."
+   "note": "The squads he leads — including a FALCON (Toritaka) contingent of clansmen-levies he means to bring home alive (his ninjō), plus Legion ashigaru & bushi of mixed clans. Names & faces drawn in play (npc.py / generators). Their lives are the stakes; their home is the Valley of the Spirits."
   },
   {
    "name": "The Lion army at Toshi Ranbo",
@@ -22,9 +22,58 @@
    "note": "Smaller but exquisitely trained; the Left Hand of the Emperor, masters of court and the duel. Defending what they hold; will fight with law and word as much as steel. (facts.py clan crane)"
   },
   {
-   "name": "His commanding officer (Imperial Legion taisa — TBD in play)",
+   "name": "Seppun Saburō (taisa / commanding officer)",
    "weight": 1,
-   "note": "Akihiko's direct superior — a captain (taisa) of the Legion. Clan, name, and disposition to be generated when first met; knows of the Seppun connection."
+   "note": "Akihiko's direct superior — a TRUE-BLOODED Seppun who rose by merit, not name; demanding, cold, competent. Arc: cold contempt for the patron's pup → RELIANCE → PARTNERSHIP-BY-NECESSITY (fates chained after Akihiko's honor-trap killed the maho-fallback). At the CLIMAX he turned Shizue's own host with a Seppun's word ('look at her hands — the Emperor's seals in her fire'), immune to the maho-lie. DENOUEMENT: vindicated. He took command of the scene the way a Seppun takes command of anything — had the brazier doused and the half-burned Throne-seals raked out and COUNTED before any soldier could vanish them (the case made physical). He will NOT take the record to Reiko; it goes up the Legion chain toward the Emerald Champion's magistrates — the proper venue, the one Reiko can't smother. The cold has gone out of it: Akihiko is no longer the patron's pup but an officer whose name he speaks without flinching, whose next request he'll hear differently. Disposition: cold-but-warmed, respects the steel, a partner who swam when they both could have drowned."
+  },
+  {
+   "name": "Matsu Kasumi (Lion duelist — spared his life)",
+   "weight": 2,
+   "note": "Sc.16 turned to the LIGHT; Sc.18 killed Akodo Shizue clean when Shizue spat on the offered blade and lunged. DENOUEMENT: Akihiko stopped her pre-emptive flight ('dereliction — you are still Matsu Kasumi'); she stayed her post and faced the Lion's judgment head-up. THE JUDGMENT CAME (Fate: Unlikely → 4 → YES, near-exceptional): the Lion FORMALLY SEVERED her — made her RŌNIN. Same cold brush they used on Shizue ('a lone rogue who acted outside the chain'): cut her loose so the clan stays clean of the commander's death and the buried truth. NOT seppuku/execution (Akihiko's intervention + the fact she killed an officially-disgraced 'rogue' spared her life) — but everything short of it: stripped of the Matsu name and her place, daishō still at her hip, no lord to raise it. She walks out clanless, eyes open, having done right, exactly as she foretold. THE GATE OPENED ANYWAY: grandmother Toritaka Chiyo (the real marriage authority) granted the match (with strings) — so the romance is ALIVE and possible on a rōnin's terms: Chiyo would judge her in person and adopt her into the Falcon vassal house (a new name, indebted to Chiyo). The doomed third story turns survivable but hard. Disposition: rōnin now, grieving, honored-and-ruined, his — a future possible but costly, routed through an iron grandmother."
+  },
+  {
+   "name": "The Legion healer corps (overwhelmed field-surgeons)",
+   "weight": 1,
+   "note": "The Legion's field-surgeons — the 'physician organization' (TP: Organization, Assistant, Harmful). Drowning under the poisoning, unable to name the cause; possibly implicated, possibly just overwhelmed. Akihiko, the sun-priest-physician, is set over/among them to solve it. Disposition: exhausted, defensive, out of their depth."
+  },
+  {
+   "name": "Jōji (captured poisoner — professional, alive)",
+   "weight": 1,
+   "note": "DEAD — died under Gunsō Tetsuo's interrogation in the grey hours (the brutal route Akihiko chose) without naming his paymaster. Akihiko fought to take him alive for nothing. His coded papers (sums, drops, dates) name no one a magistrate could use. The clean proof of who bought the Legion's poisoning died with him. → archive."
+  },
+  {
+   "name": "Gunsō Tetsuo (the hard sergeant breaking Jōji)",
+   "weight": 1
+  },
+  {
+   "name": "Akodo Shizue (Lion strike commander — likely poison-paymaster)",
+   "weight": 1,
+   "note": "DEAD (Sc.18). The poison-paymaster, caught red-handed in her own camp at the last black hour burning the Throne's looted seals. Offered the honorable blade by Kasumi; she refused it with contempt ('honor — you came to lecture ME about honor… they were always going to die, that's what they're FOR'), tried to drown the truth in a 'maho-priest assassins!' lie (Reiko's planted slander thrown back), and when a Seppun's word + Akihiko's sun-light exposing the burning evidence turned her own camp against her, she lunged at Kasumi rather than die well — and Kasumi killed her clean. A poisoner's death, not a samurai's, witnessed by her whole host. → archive."
+  },
+  {
+   "name": "Daidoji Sukune (Crane Iron Warrior — the last stand at the ford)",
+   "weight": 1,
+   "note": "Grey Daidoji guardian who led the hopeless ford-stand; Akihiko turned the Lion column off his people and knelt tending Crane wounded — earning hard respect + a debt of care. Sc.5 rode to Legion HQ as a witness. Sc.14 (Day 4): his patience BROKE — he took his sworn eyewitness account of the Lion poison+looting to Otomo Reiko himself. The censor DISMISSED it cold as wartime propaganda ('a Crane accusing a Lion, in a war the Lion are winning… a loser's story'). He did NOT name Akihiko (shielded him). Akihiko then went to him with recognition (was-there belief) and STEADIED him → now a HELD, quiet, conditional ally. KEY REFRAME both reached: a Crane alone is dismissable, but a CRANE + A LION saying the same thing + the manifest = unanswerable. Sukune is HALF an unimpeachable witness-pair (needs a Lion = Kasumi). CLOCK: his patience/duty is finite — 'bring me your Lion soon; if your quiet way dies too, I go to my Crane lords, and then it's loud and not yours.' Disposition: believed-in, purposeful-again, loyal-but-finite."
+  },
+  {
+   "name": "The murdered dead — laid to rest on Akihiko's vow",
+   "weight": 1,
+   "note": "The slaughtered of the burned Crane supply-village (peasants, Daidoji ford-dead, the boy Akihiko tended in the ash) who rose Sc.8 to take their Lion killers. He witnessed them perfectly (Void communion, 0 strife — the still vessel) and bound them with a sacred vow to expose the crime. LAID TO REST — conditionally. Forswear or fail, and they return far worse. Their silent demand now rides his soul: 'You know. What will you DO?'"
+  },
+  {
+   "name": "Otomo Reiko (Imperial censor — the maho threat)",
+   "weight": 2,
+   "note": "Crane-aligned (Left Hand) Imperial censor at the Toshi Ranbo front. Sc.14 dismissed Sukune's Lion-accusation as a beaten Crane's 'loser's story.' DENOUEMENT: his maho-gambit is DEAD IN THE CRADLE — Shizue herself screamed Reiko's planted 'maho-priest assassins' lie aloud at the climax and the Akodo host watched it FAIL in real time as the Throne-seals came out of the fire. A lie publicly tried and publicly broken can't be quietly revived; Reiko won't pursue it now (no profit, real risk). BUT Akihiko did not defeat him — he EMBARRASSED a courtier whose whole craft is keeping the clans in balance, by detonating exactly the kind of loud public Great-Clan scandal an Otomo exists to suppress. He will remember the black-sheep Falcon who made the front loud. NOT a closed thread — a debt entered in a patient ledger; a lingering court-enemy for Arc 2. Disposition: smoothly hostile, patient, will fight on his own ground (court), self-interested."
+  },
+  {
+   "name": "Ume (the apothecary / poison-maker — secured witness)",
+   "weight": 2,
+   "note": "Older heimin apothecary/herbalist of unusual skill; made the refined Legion poison for coin, kept DATED accounts. Sc.15: Akihiko shielded her from the cleanup-knife (Guard) and won her over (courtesy + a low-pressure offer); brought her safe to the fortified TOLL-HOUSE under Falcon guard (Yoshi), with her ledger and a captured watcher. Treated with dignity (poured her tea first) → she gave the TOP of her confession: she never met the principal, but the buyer ('Sadao', surely an alias) had an IKOMA's tongue + a quartermaster's calluses, and let slip he answered to the AKODO command of the western column — i.e., he bought the poison for **Akodo Shizue's force**, on a DATE (in her ledger) two days before the column crossed. She'll SWEAR the poison walked from her door into Shizue's quartermaster's hand. She CAN'T prove Shizue personally ordered it (insulated). Akihiko swore (on a sun-priest's vow) to protect her whatever happens. Disposition: committed witness now, trusting his word, terrified of the Lion. NB: Ume gives the poison's PATH to Shizue's command; only KASUMI can testify Shizue's KNOWING — together = a wall."
+  },
+  {
+   "name": "Toritaka Chiyo (maternal grandmother — iron daimyō, head of the line)",
+   "weight": 1,
+   "note": "Akihiko's maternal grandmother (千代, 'a thousand generations'). Hard-as-nails daimyō of the Falcon vassal house that the black-sheep Michio (b. Seppun) married DOWN into; widow of Michio; mother of Sumiko (Akihiko's mother) and Tadanobu (the uncle who left the house for the Seppun). She STAYED and leads the line — and holds its MARRIAGE AUTHORITY (NOT Tadanobu, who married out). Asked plainly to permit the Kasumi match (Fate: 50/50 @ CF2 → 12 → YES) she GRANTED it — but with iron strings: (1) she'll judge the rōnin herself, in person (an Arc-2 scene); (2) a rōnin can't marry up, so she'd ADOPT Kasumi into the vassal house to restore a name — making Kasumi HERS, indebted, and gaining a famous Matsu duelist for the house's banner; (3) the real price is Akihiko's loyalty pulled HOME — his future, an heir, his primary allegiance owed to her Falcon house over the Seppun uncle's orbit. She granted it partly to make the point that her departed son does not decide this house's marriages. Disposition: shrewd, sentimental about nothing, formidable, newly the Falcon pole of the family pulling against Tadanobu — with Akihiko in the middle."
   }
  ]
 }
