@@ -4,7 +4,7 @@
 - **Clan / Family / School:** Falcon · Toritaka · **Moshi Sun Sentinel** [Bushi, Shugenja]
   *(out-of-clan school — Falcon-born, trained at the Light of the Lady Sun Dōjō through his Moshi father; canon-supported: the Moshi keep a permanent place for Falcon at the shrine)*
 - **Concept / role:** Warrior-priest of Amaterasu — **battlefield medic & sun-priest**, now a junior officer of the Emperor's army.
-- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 1** (Moshi Sun Sentinel) · **XP available: 12** _(UNSPENT — Arc-1 finale award. Prior: Session-1's 9 → Air 1→2 + Mind's Edge; Session-2's +14 → MA[Melee] 1→2, Fitness/Command/Performance/Culture 0→1 (+8 toward **Gunsō** title → **8/24**). **Arc-1 finale award (Sc.16–18 + denouement + arc close): +12** = ~7 for the play (heroic ~2 XP/hr) + 5 milestone (the campaign's central arc COMPLETED — conspiracy broken, vow kept before an army, a Great Clan's crime exposed). **COST CORRECTION → RAW Table 2-2:** skill +1 = **2×new rank FLAT** (curriculum no longer costs ×3 — it instead makes the buy count FULL toward school-rank/title completion); ring +1 = **3×new value** (cap = lowest ring + Void = **4**); technique = **3 XP**.)_.
+- **Rank / title:** **Chūi (Lieutenant), Imperial Legions** — a junior officer commanding several sergeants and their squads. **Title (mechanical): Gunsō** *(the codeable L5R 5E title — its ability & curriculum; tracked in `social.json` via `social.py`)*. Status held at baseline by campaign ruling. **School Rank 2** (Moshi Sun Sentinel — **Rank-1 curriculum completed** at the Arc-1/2 seam) · **XP available: 0** _(Arc-1 finale award +12, SPENT: **Courtesy 1→2 [4] · Sentiment 1→2 [4] · Meditation 1→2 [4]** — all Rank-1 curriculum, full credit. School-R1 ~13.5 + 12 = ~25.5 ≥ 20 → **RANK 1 COMPLETE → School Rank 2** (~5 overflow toward Rank 2). Meditation [Martial] also fed the **Gunsō** title → **12/24**. Prior: S1's 9 → Air 1→2 + Mind's Edge; S2's +14 → MA[Melee] 1→2, Fitness/Command/Performance/Culture 0→1 (+8 title). Cost basis = RAW Table 2-2: skill +1 = 2×new rank flat; ring +1 = 3×new value (cap 4); technique = 3 XP.)_.
 
 ## Rings (the approach to each check)
 - Air **2**  ·  Earth **2**  ·  Fire **3**  ·  Water **2**  ·  Void **2**  _(Air 1→2, Session-1 XP)_
@@ -12,11 +12,11 @@
 
 ## Skills (rank) — by group
 - **Artisan:** —
-- **Social:** Courtesy 1 · **Command 1** · **Performance 1**
-- **Scholar:** Theology 2 · Medicine 2 · Sentiment 1 · **Culture 1**
-- **Martial:** Martial Arts [Melee] **2** · Tactics 1 · **Fitness 1**
-- **Trade:** Survival 1 · Meditation 1
-  _(Session-2 XP spend: MA[Melee] 1→2, +Fitness, +Command, +Performance, +Culture.)_
+- **Social:** Courtesy **2** · **Command 1** · **Performance 1**
+- **Scholar:** Theology 2 · Medicine 2 · Sentiment **2** · **Culture 1**
+- **Martial:** Martial Arts [Melee] **2** · Tactics 1 · **Fitness 1** · _(Meditation is a Martial skill — listed under Trade below)_
+- **Trade:** Survival 1 · Meditation **2**
+  _(Session-2 XP: MA[Melee] 1→2, +Fitness, +Command, +Performance, +Culture. **Arc-1 finale (+12): Courtesy 1→2, Sentiment 1→2, Meditation 1→2** — all Rank-1 curriculum → **completed School Rank 1 → Rank 2**; Meditation [Martial] also +4 to the Gunsō title → 12/24.)_
 
 ## Derived attributes
 - **Endurance** 10 (fatigue threshold) · current fatigue: 0  _(Day 4 — night's rest)_
@@ -26,7 +26,7 @@
 ## Social standing — tracked in `social.json` (`social.py show campaigns/akihiko-legionnaire`)
 - **Honor** 75 · **Glory** 42 · **Status** 36  _(Sc.2 duel +2/−3. Sc.3–5: Glory +4. Sc.8: Honor +5 (vow sworn). **Sc.18 (the climax): Honor +12 (major) — the sacred vow KEPT, the crime dragged into Amaterasu's light before an army, lawfully; Glory +6 (major) — the witnessed deed. Status held.** Arc-1 close: Honor +1 (trifling) for **swearing the oath to restore Kasumi** — the major Honor is reserved for KEEPING it; forsworn = a major forfeit.)_
 - **✅ Honor crossed 64 → VIRTUE/FAME advantage TAKEN: *Famously Successful (Fire)*** [Fame, Interpersonal] — reroll up to 2 dice when leveraging his reputation for getting results at any cost (efficiency checks: Courtesy [Fire] for a posting/favor, Tactics [Fire] to make foes withdraw). *See Advantages.*
-- **Title:** Gunsō (**8 / 24** XP to completion → unlocks *Lead from the Front*) _(Session-2: +8 from title-curriculum buys — MA[Melee], Fitness, Command.)_
+- **Title:** Gunsō (**12 / 24** XP to completion → unlocks *Lead from the Front* + Status +5) _(Session-2: +8 (MA[Melee], Fitness, Command). Arc-1 finale: +4 (Meditation, a Martial skill) → **12/24**; 12 more title-curriculum XP completes it.)_
 
 ## Ninjō (desire) & Giri (duty) — the heart of the drama
 *(Both pull toward the Falcon, in opposite directions — that is the tragedy: the honor he owes his clan is bought with the lives of his clan.)*
@@ -40,7 +40,7 @@
 - **Invocations:** Armor of Radiance · Biting Steel · Extinguish · Katana of Fire
 - **Rituals:** Cleansing Rite · Commune with the Spirits
 - **Kata:** **Mind's Edge** *(rank 1, Void — Path of Waves, GM-allowed)* — 1/scene, after a no-check action in **Void stance**, make a TN 1 Meditation (Void) check; on success the next strife you'd take is reduced by 3 (+1 per 2 bonuses; with ● every strife before your next turn). *Strife-armor for the staredown.* (Session-1 XP)
-- **School ability — Blazing Tears of Lady Sun:** Fire-invocation damage gains *Sacred* (items he augments/summons with Fire are *Sacred*). Against a **non-Tainted human**, his Fire invocations deal no damage/conditions — instead the target **removes fatigue** equal to school rank + the damage it would have dealt (once per character per scene). *His fire heals the worthy and burns the wicked.*
+- **School ability — Blazing Tears of Lady Sun** *(School Rank **2** now — heals deeper, and Rank 1–2 Fire invocations are open to learn):* Fire-invocation damage gains *Sacred* (items he augments/summons with Fire are *Sacred*). Against a **non-Tainted human**, his Fire invocations deal no damage/conditions — instead the target **removes fatigue** equal to **school rank (2)** + the damage it would have dealt (once per character per scene). *His fire heals the worthy and burns the wicked.*
 
 ## Advantages
 - **Sixth Sense (Void)** [distinction] — feels the presence of hidden spirits (ominous when their intent is evil); reroll up to 2 dice on hunch checks.

@@ -11,7 +11,7 @@
    "status_award": 0,
    "status_cap": null,
    "xp_to_completion": 24,
-   "xp_progress": 8,
+   "xp_progress": 12,
    "ability": "Lead from the Front: when you defeat an opponent in a clash, your cohort removes panic equal to the opponent's glory rank; once per round on a successful Attack check in a mass battle, your cohort removes panic equal to half the attrition you inflict.",
    "complete": false,
    "active": true
